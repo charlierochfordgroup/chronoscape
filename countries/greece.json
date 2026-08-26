@@ -3,7 +3,7 @@
     "name": "Greece",
     "center_lat": 38.4,
     "center_lng": 23.6,
-    "default_zoom": 6
+    "default_zoom": 5
   },
   "eras": [
     {

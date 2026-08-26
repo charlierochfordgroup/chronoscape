@@ -535,12 +535,20 @@ the live page:
 
 - [ ] **The search box is ~40% of the filter row** for a control most visitors never touch.
       Halving it would give the era and category selects room and calm the row down.
-- [ ] **Eyeball `default_zoom` on the other ten countries.** Added 26/08/2026. China, India
-      and Australia all shipped at 4 and all three opened on a province rather than a
-      country; they are now 3, and `countries/README.md` records the calibration. The
-      existing ten were never checked the same way - Italy is 5 and Norway is 4, and Norway
-      in particular spans more latitude than anything the value was tuned on. Nothing
-      validates this field, so it needs one pass of loading each built page and looking.
+- [x] **Eyeball `default_zoom` on the other ten countries.** DONE 26/08/2026, same day it
+      was added. Six were wrong: Greece 6->5, Ireland 7->5, Italy 5->4, Japan 5->4,
+      Norway 4->3, Taiwan 7->6. **Greece is the one that mattered** - it opened on Knossos
+      with Crete outside the frame, so the preselected event was invisible on the map.
+      Ireland at 7 showed midland motorway junctions with Dublin, Belfast, Cork and both
+      coasts off-screen.
+
+      **The reason this needed three attempts, recorded because it will happen again:**
+      the first pass modelled the map pane as 740x620 (it is 569x447 - the layout was
+      rewritten to a flex column absorbing viewport height) and the second and third used
+      **256px tiles when MapLibre uses 512**, which doubles the apparent visible area and
+      makes every setting look fine. Each pass contradicted the screenshots and I kept
+      re-deriving instead of checking the constant. `countries/README.md` now carries the
+      formula, the measured pane size and the confirmed value for all thirteen.
 - [ ] **Eleven legend chips in one row is noisy.** Now that the era bands are actually
       visible, the legend may be redundant - or could fold into the bands themselves.
 - [ ] **The key-event star in the list is easy to miss.** A small era-coloured pill on the

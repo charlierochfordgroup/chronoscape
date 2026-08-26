@@ -64,12 +64,29 @@ new one that deviates looks broken next to the others.
 - **`width_pct` is editorial, not proportional to time.** Greece's Bronze Age
   covers two thousand years and gets 8; the Classical era covers 157 years and
   gets 12. Weight by how much there is to show, or antiquity swallows the strip.
-- **`default_zoom` has to be checked by eye, not guessed.** Nothing validates it.
-  The map pane is narrower than it looks, so a value that frames Italy cuts the
-  whole south off India. Roughly: 7 for Taiwan or Ireland, 5 for Egypt or Peru,
-  4 for Mexico, **3 for China, India and Australia**. China and Australia were
-  first written at 4 and both opened on a provincial close-up rather than a
-  country. Load the built page and look at it before committing.
+- **`default_zoom` has to be checked by eye. Nothing validates it, and the
+  arithmetic is easy to get wrong by a factor of two.** The map pane measures
+  **569 x 447 CSS px** at a 1440x900 viewport, and **MapLibre uses 512px tiles**,
+  so the longitude a page actually shows is
+
+      360 * 569 / (512 * 2**zoom)
+
+  which is 50 degrees at zoom 3, 25 at 4, 12.5 at 5, 6.3 at 6 and 3.1 at 7.
+  Using 256px tiles doubles every one of those and makes every setting look fine.
+  On 26/08/2026 that error produced three different verdicts in a row, each
+  contradicted by a screenshot, before the tile size was checked.
+
+  Current values, all confirmed against rendered pages: **3** China, India,
+  Australia, Norway; **4** Mexico, Italy, Japan; **5** Egypt, Peru, Greece,
+  Ireland; **6** Iceland, Taiwan.
+
+  Two things the formula will not tell you. **Frame the country, not every
+  event** - Gallipoli on the Australian timeline and a UN vote in New York on the
+  Chinese one are meant to be off-screen until clicked, so size on roughly the
+  10th to 90th percentile of the coordinates and ignore the outliers. And **check
+  that the preselected opening event is actually visible**: Greece sat at zoom 6
+  opening on Knossos with Crete outside the frame, which is the failure worth
+  catching. Load the page and look.
 - **35-45% `is_major`. Enforced** - warns outside 35-45%, errors outside 25-55%,
   on both tails. If most dots are key events, none of them are.
 
