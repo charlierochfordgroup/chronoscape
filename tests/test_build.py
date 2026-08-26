@@ -110,9 +110,9 @@ def _eras():
 def _events():
     # Deliberately out of chronological order, and skewed to one era.
     return [
-        {"era_name": "Second", "sort_year": 150, "display_date": "150", "title": "B", "is_major": True},
-        {"era_name": "First", "sort_year": 50, "display_date": "50", "title": "A", "is_major": False},
-        {"era_name": "Second", "sort_year": 120, "display_date": "120", "title": "C", "is_major": False},
+        {"id": 0, "era_name": "Second", "sort_year": 150, "display_date": "150", "title": "B", "is_major": True},
+        {"id": 1, "era_name": "First", "sort_year": 50, "display_date": "50", "title": "A", "is_major": False},
+        {"id": 2, "era_name": "Second", "sort_year": 120, "display_date": "120", "title": "C", "is_major": False},
     ]
 
 
@@ -134,13 +134,24 @@ def test_dots_are_sorted_by_year_within_an_era():
     assert [d["tooltip"] for d in second["dots"]] == ["120: C", "150: B"]
 
 
-def test_dot_ids_are_global_indices_not_per_era():
-    # The id must index the ORIGINAL events list, because the event list, the
-    # map geojson and the deep link all address events by that number. Getting
-    # this wrong would select the wrong event from the timeline.
+def test_dot_ids_are_global_not_per_era():
+    # The id addresses the whole events list, not a position within the era,
+    # because the event list, the map geojson and the deep link all use that
+    # number. Getting it wrong selects the wrong event from the timeline.
     segs = build_segments(_eras(), _events())
     assert segs[0]["dots"][0]["id"] == 1          # "A" is events[1]
     assert [d["id"] for d in segs[1]["dots"]] == [2, 0]   # "C" then "B"
+
+
+def test_dot_ids_come_from_the_data_not_the_array_position():
+    # The id used to be assigned by enumerate(), so moving or inserting an
+    # event renumbered every later one and broke their #event-N deep links.
+    # It is now whatever the data says, and the array order is irrelevant.
+    events = _events()
+    events[0]["id"], events[1]["id"], events[2]["id"] = 77, 88, 99
+    segs = build_segments(_eras(), events)
+    assert segs[0]["dots"][0]["id"] == 88                 # "A"
+    assert [d["id"] for d in segs[1]["dots"]] == [99, 77]  # "C" then "B"
 
 
 def test_major_flag_survives():
@@ -156,7 +167,7 @@ def test_era_with_no_events_still_produces_a_segment():
 
 def test_segments_use_defaults_when_era_fields_are_missing():
     eras = [{"name": "Bare"}]
-    segs = build_segments(eras, [{"era_name": "Bare", "sort_year": 5,
+    segs = build_segments(eras, [{"id": 0, "era_name": "Bare", "sort_year": 5,
                                   "display_date": "5", "title": "X"}])
     assert segs[0]["width_pct"] == 8
     assert segs[0]["color"] == "#666666"

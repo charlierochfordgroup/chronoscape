@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Prehistoric Norway",
       "sort_year": -9500,
       "display_date": "c. 9500 BCE",
@@ -123,6 +124,7 @@
       "is_major": true
     },
     {
+      "id": 1,
       "era_name": "Prehistoric Norway",
       "sort_year": -5200,
       "display_date": "c. 5200 BCE",
@@ -137,6 +139,7 @@
       "is_major": true
     },
     {
+      "id": 2,
       "era_name": "Prehistoric Norway",
       "sort_year": -4000,
       "display_date": "c. 4000 BCE",
@@ -152,6 +155,7 @@
       "is_major": false
     },
     {
+      "id": 3,
       "era_name": "Prehistoric Norway",
       "sort_year": -2400,
       "display_date": "c. 2400 BCE",
@@ -165,6 +169,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Prehistoric Norway",
       "sort_year": -1700,
       "display_date": "c. 1700 BCE",
@@ -180,6 +185,7 @@
       "is_major": false
     },
     {
+      "id": 5,
       "era_name": "Prehistoric Norway",
       "sort_year": -1000,
       "display_date": "c. 1000 BCE",
@@ -193,6 +199,7 @@
       "is_major": false
     },
     {
+      "id": 6,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": -500,
       "display_date": "c. 500 BCE",
@@ -208,6 +215,7 @@
       "is_major": true
     },
     {
+      "id": 7,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 1,
       "display_date": "c. 1 CE",
@@ -222,6 +230,7 @@
       "is_major": false
     },
     {
+      "id": 8,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 160,
       "display_date": "c. 160 CE",
@@ -237,6 +246,7 @@
       "is_major": false
     },
     {
+      "id": 9,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 400,
       "display_date": "c. 400 CE",
@@ -251,6 +261,7 @@
       "is_major": false
     },
     {
+      "id": 10,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 536,
       "display_date": "536 CE",
@@ -266,6 +277,7 @@
       "is_major": true
     },
     {
+      "id": 11,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 700,
       "display_date": "c. 700",
@@ -280,6 +292,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "Iron Age and the petty kingdoms",
       "sort_year": 780,
       "display_date": "c. 780",
@@ -294,6 +307,7 @@
       "is_major": false
     },
     {
+      "id": 13,
       "era_name": "The Viking Age",
       "sort_year": 793,
       "display_date": "8 June 793",
@@ -309,6 +323,7 @@
       "is_major": true
     },
     {
+      "id": 14,
       "era_name": "The Viking Age",
       "sort_year": 800,
       "display_date": "c. 800",
@@ -324,6 +339,7 @@
       "is_major": false
     },
     {
+      "id": 15,
       "era_name": "The Viking Age",
       "sort_year": 820,
       "display_date": "c. 820",
@@ -338,6 +354,7 @@
       "is_major": false
     },
     {
+      "id": 16,
       "era_name": "The Viking Age",
       "sort_year": 834,
       "display_date": "834",
@@ -353,6 +370,7 @@
       "is_major": true
     },
     {
+      "id": 17,
       "era_name": "The Viking Age",
       "sort_year": 860,
       "display_date": "c. 860",
@@ -368,6 +386,7 @@
       "is_major": true
     },
     {
+      "id": 18,
       "era_name": "The Viking Age",
       "sort_year": 872,
       "display_date": "c. 872 (traditional)",
@@ -383,6 +402,7 @@
       "is_major": true
     },
     {
+      "id": 19,
       "era_name": "The Viking Age",
       "sort_year": 890,
       "display_date": "c. 890",
@@ -398,6 +418,7 @@
       "is_major": false
     },
     {
+      "id": 20,
       "era_name": "The Viking Age",
       "sort_year": 900,
       "display_date": "c. 900",
@@ -412,6 +433,7 @@
       "is_major": false
     },
     {
+      "id": 21,
       "era_name": "The Viking Age",
       "sort_year": 930,
       "display_date": "930",
@@ -426,6 +448,7 @@
       "is_major": false
     },
     {
+      "id": 22,
       "era_name": "The Viking Age",
       "sort_year": 954,
       "display_date": "954",
@@ -440,6 +463,7 @@
       "is_major": false
     },
     {
+      "id": 23,
       "era_name": "The Viking Age",
       "sort_year": 985,
       "display_date": "c. 985",
@@ -455,6 +479,7 @@
       "is_major": false
     },
     {
+      "id": 24,
       "era_name": "The Viking Age",
       "sort_year": 995,
       "display_date": "995",
@@ -470,6 +495,7 @@
       "is_major": true
     },
     {
+      "id": 25,
       "era_name": "The Viking Age",
       "sort_year": 1000,
       "display_date": "c. 1000",
@@ -485,6 +511,7 @@
       "is_major": true
     },
     {
+      "id": 26,
       "era_name": "The Viking Age",
       "sort_year": 1000.5,
       "display_date": "1000",
@@ -499,6 +526,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "The Viking Age",
       "sort_year": 1015,
       "display_date": "1015",
@@ -514,6 +542,7 @@
       "is_major": false
     },
     {
+      "id": 28,
       "era_name": "The Viking Age",
       "sort_year": 1024,
       "display_date": "1024",
@@ -529,6 +558,7 @@
       "is_major": false
     },
     {
+      "id": 29,
       "era_name": "The Viking Age",
       "sort_year": 1030,
       "display_date": "29 July 1030",
@@ -544,6 +574,7 @@
       "is_major": true
     },
     {
+      "id": 30,
       "era_name": "The Viking Age",
       "sort_year": 1031,
       "display_date": "1031",
@@ -559,6 +590,7 @@
       "is_major": true
     },
     {
+      "id": 31,
       "era_name": "The Viking Age",
       "sort_year": 1042,
       "display_date": "1042",
@@ -572,6 +604,7 @@
       "is_major": false
     },
     {
+      "id": 32,
       "era_name": "The Viking Age",
       "sort_year": 1066,
       "display_date": "25 September 1066",
@@ -587,6 +620,7 @@
       "is_major": true
     },
     {
+      "id": 33,
       "era_name": "Christianisation and civil war",
       "sort_year": 1070,
       "display_date": "c. 1070",
@@ -602,6 +636,7 @@
       "is_major": true
     },
     {
+      "id": 34,
       "era_name": "Christianisation and civil war",
       "sort_year": 1095,
       "display_date": "1095",
@@ -617,6 +652,7 @@
       "is_major": false
     },
     {
+      "id": 35,
       "era_name": "Christianisation and civil war",
       "sort_year": 1110,
       "display_date": "1110",
@@ -632,6 +668,7 @@
       "is_major": false
     },
     {
+      "id": 36,
       "era_name": "Christianisation and civil war",
       "sort_year": 1130,
       "display_date": "1130",
@@ -647,6 +684,7 @@
       "is_major": true
     },
     {
+      "id": 37,
       "era_name": "Christianisation and civil war",
       "sort_year": 1152,
       "display_date": "1152",
@@ -662,6 +700,7 @@
       "is_major": true
     },
     {
+      "id": 38,
       "era_name": "Christianisation and civil war",
       "sort_year": 1163,
       "display_date": "1163",
@@ -676,6 +715,7 @@
       "is_major": false
     },
     {
+      "id": 39,
       "era_name": "Christianisation and civil war",
       "sort_year": 1184,
       "display_date": "1184",
@@ -691,6 +731,7 @@
       "is_major": false
     },
     {
+      "id": 40,
       "era_name": "Christianisation and civil war",
       "sort_year": 1217,
       "display_date": "1217",
@@ -705,6 +746,7 @@
       "is_major": true
     },
     {
+      "id": 41,
       "era_name": "Christianisation and civil war",
       "sort_year": 1240,
       "display_date": "1240",
@@ -720,6 +762,7 @@
       "is_major": false
     },
     {
+      "id": 42,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1247,
       "display_date": "1247",
@@ -735,6 +778,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1250,
       "display_date": "1250",
@@ -750,6 +794,7 @@
       "is_major": false
     },
     {
+      "id": 44,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1261,
       "display_date": "1261",
@@ -764,6 +809,7 @@
       "is_major": false
     },
     {
+      "id": 45,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1262,
       "display_date": "1262",
@@ -779,6 +825,7 @@
       "is_major": true
     },
     {
+      "id": 46,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1266,
       "display_date": "2 July 1266",
@@ -794,6 +841,7 @@
       "is_major": true
     },
     {
+      "id": 47,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1274,
       "display_date": "1274",
@@ -809,6 +857,7 @@
       "is_major": true
     },
     {
+      "id": 48,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1299,
       "display_date": "1299",
@@ -824,6 +873,7 @@
       "is_major": false
     },
     {
+      "id": 49,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1319,
       "display_date": "1319",
@@ -838,6 +888,7 @@
       "is_major": true
     },
     {
+      "id": 50,
       "era_name": "The Norwegian realm at its height",
       "sort_year": 1343,
       "display_date": "1343",
@@ -853,6 +904,7 @@
       "is_major": false
     },
     {
+      "id": 51,
       "era_name": "Plague and the Danish union",
       "sort_year": 1349,
       "display_date": "1349",
@@ -867,6 +919,7 @@
       "is_major": true
     },
     {
+      "id": 52,
       "era_name": "Plague and the Danish union",
       "sort_year": 1350,
       "display_date": "1350s",
@@ -882,6 +935,7 @@
       "is_major": false
     },
     {
+      "id": 53,
       "era_name": "Plague and the Danish union",
       "sort_year": 1360,
       "display_date": "c. 1360",
@@ -896,6 +950,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "Plague and the Danish union",
       "sort_year": 1380,
       "display_date": "1380",
@@ -910,6 +965,7 @@
       "is_major": true
     },
     {
+      "id": 55,
       "era_name": "Plague and the Danish union",
       "sort_year": 1397,
       "display_date": "17 June 1397",
@@ -925,6 +981,7 @@
       "is_major": true
     },
     {
+      "id": 56,
       "era_name": "Plague and the Danish union",
       "sort_year": 1450,
       "display_date": "1450",
@@ -938,6 +995,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "Plague and the Danish union",
       "sort_year": 1468,
       "display_date": "1468",
@@ -953,6 +1011,7 @@
       "is_major": true
     },
     {
+      "id": 58,
       "era_name": "Plague and the Danish union",
       "sort_year": 1500,
       "display_date": "c. 1500",
@@ -967,6 +1026,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "Plague and the Danish union",
       "sort_year": 1523,
       "display_date": "1523",
@@ -981,6 +1041,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Denmark-Norway",
       "sort_year": 1537,
       "display_date": "1537",
@@ -996,6 +1057,7 @@
       "is_major": true
     },
     {
+      "id": 61,
       "era_name": "Denmark-Norway",
       "sort_year": 1567,
       "display_date": "1567",
@@ -1009,6 +1071,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "Denmark-Norway",
       "sort_year": 1596,
       "display_date": "1596",
@@ -1023,6 +1086,7 @@
       "is_major": false
     },
     {
+      "id": 63,
       "era_name": "Denmark-Norway",
       "sort_year": 1624,
       "display_date": "1624",
@@ -1038,6 +1102,7 @@
       "is_major": false
     },
     {
+      "id": 64,
       "era_name": "Denmark-Norway",
       "sort_year": 1628,
       "display_date": "1628",
@@ -1052,6 +1117,7 @@
       "is_major": false
     },
     {
+      "id": 65,
       "era_name": "Denmark-Norway",
       "sort_year": 1645,
       "display_date": "1645",
@@ -1067,6 +1133,7 @@
       "is_major": true
     },
     {
+      "id": 66,
       "era_name": "Denmark-Norway",
       "sort_year": 1658,
       "display_date": "1658",
@@ -1082,6 +1149,7 @@
       "is_major": true
     },
     {
+      "id": 67,
       "era_name": "Denmark-Norway",
       "sort_year": 1660,
       "display_date": "1660",
@@ -1096,6 +1164,7 @@
       "is_major": false
     },
     {
+      "id": 68,
       "era_name": "Denmark-Norway",
       "sort_year": 1687,
       "display_date": "1687",
@@ -1110,6 +1179,7 @@
       "is_major": false
     },
     {
+      "id": 69,
       "era_name": "Denmark-Norway",
       "sort_year": 1716,
       "display_date": "1716",
@@ -1124,6 +1194,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Denmark-Norway",
       "sort_year": 1718,
       "display_date": "30 November 1718",
@@ -1138,6 +1209,7 @@
       "is_major": false
     },
     {
+      "id": 71,
       "era_name": "Denmark-Norway",
       "sort_year": 1739,
       "display_date": "1739",
@@ -1153,6 +1225,7 @@
       "is_major": true
     },
     {
+      "id": 72,
       "era_name": "Denmark-Norway",
       "sort_year": 1769,
       "display_date": "1769",
@@ -1167,6 +1240,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Denmark-Norway",
       "sort_year": 1771,
       "display_date": "1771",
@@ -1181,6 +1255,7 @@
       "is_major": false
     },
     {
+      "id": 74,
       "era_name": "Denmark-Norway",
       "sort_year": 1788,
       "display_date": "1788",
@@ -1196,6 +1271,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Denmark-Norway",
       "sort_year": 1807,
       "display_date": "1807",
@@ -1211,6 +1287,7 @@
       "is_major": true
     },
     {
+      "id": 76,
       "era_name": "Denmark-Norway",
       "sort_year": 1811,
       "display_date": "1811",
@@ -1226,6 +1303,7 @@
       "is_major": true
     },
     {
+      "id": 77,
       "era_name": "Union with Sweden",
       "sort_year": 1814,
       "display_date": "14 January 1814",
@@ -1241,6 +1319,7 @@
       "is_major": true
     },
     {
+      "id": 78,
       "era_name": "Union with Sweden",
       "sort_year": 1814.4,
       "display_date": "17 May 1814",
@@ -1255,6 +1334,7 @@
       "is_major": true
     },
     {
+      "id": 79,
       "era_name": "Union with Sweden",
       "sort_year": 1814.6,
       "display_date": "July 1814",
@@ -1269,6 +1349,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Union with Sweden",
       "sort_year": 1814.8,
       "display_date": "14 August 1814",
@@ -1284,6 +1365,7 @@
       "is_major": true
     },
     {
+      "id": 81,
       "era_name": "Union with Sweden",
       "sort_year": 1821,
       "display_date": "1821",
@@ -1298,6 +1380,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "Union with Sweden",
       "sort_year": 1825,
       "display_date": "1825",
@@ -1313,6 +1396,7 @@
       "is_major": true
     },
     {
+      "id": 83,
       "era_name": "Union with Sweden",
       "sort_year": 1837,
       "display_date": "1837",
@@ -1327,6 +1411,7 @@
       "is_major": false
     },
     {
+      "id": 84,
       "era_name": "Union with Sweden",
       "sort_year": 1854,
       "display_date": "1854",
@@ -1341,6 +1426,7 @@
       "is_major": false
     },
     {
+      "id": 85,
       "era_name": "Union with Sweden",
       "sort_year": 1859,
       "display_date": "1859",
@@ -1355,6 +1441,7 @@
       "is_major": false
     },
     {
+      "id": 86,
       "era_name": "Union with Sweden",
       "sort_year": 1863,
       "display_date": "1863",
@@ -1370,6 +1457,7 @@
       "is_major": true
     },
     {
+      "id": 87,
       "era_name": "Union with Sweden",
       "sort_year": 1869,
       "display_date": "1869",
@@ -1383,6 +1471,7 @@
       "is_major": false
     },
     {
+      "id": 88,
       "era_name": "Union with Sweden",
       "sort_year": 1879,
       "display_date": "1879",
@@ -1398,6 +1487,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "Union with Sweden",
       "sort_year": 1884,
       "display_date": "1884",
@@ -1412,6 +1502,7 @@
       "is_major": true
     },
     {
+      "id": 90,
       "era_name": "Union with Sweden",
       "sort_year": 1893,
       "display_date": "1893",
@@ -1426,6 +1517,7 @@
       "is_major": true
     },
     {
+      "id": 91,
       "era_name": "Union with Sweden",
       "sort_year": 1896,
       "display_date": "1896",
@@ -1441,6 +1533,7 @@
       "is_major": false
     },
     {
+      "id": 92,
       "era_name": "Union with Sweden",
       "sort_year": 1898,
       "display_date": "1898",
@@ -1456,6 +1549,7 @@
       "is_major": false
     },
     {
+      "id": 93,
       "era_name": "Union with Sweden",
       "sort_year": 1905,
       "display_date": "7 June 1905",
@@ -1471,6 +1565,7 @@
       "is_major": true
     },
     {
+      "id": 94,
       "era_name": "Independence and occupation",
       "sort_year": 1905.9,
       "display_date": "November 1905",
@@ -1485,6 +1580,7 @@
       "is_major": true
     },
     {
+      "id": 95,
       "era_name": "Independence and occupation",
       "sort_year": 1906,
       "display_date": "1906",
@@ -1500,6 +1596,7 @@
       "is_major": false
     },
     {
+      "id": 96,
       "era_name": "Independence and occupation",
       "sort_year": 1909,
       "display_date": "1909",
@@ -1515,6 +1612,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "Independence and occupation",
       "sort_year": 1911,
       "display_date": "14 December 1911",
@@ -1530,6 +1628,7 @@
       "is_major": true
     },
     {
+      "id": 98,
       "era_name": "Independence and occupation",
       "sort_year": 1913,
       "display_date": "1913",
@@ -1545,6 +1644,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "Independence and occupation",
       "sort_year": 1914,
       "display_date": "1914-1918",
@@ -1560,6 +1660,7 @@
       "is_major": false
     },
     {
+      "id": 100,
       "era_name": "Independence and occupation",
       "sort_year": 1920,
       "display_date": "9 February 1920",
@@ -1575,6 +1676,7 @@
       "is_major": true
     },
     {
+      "id": 101,
       "era_name": "Independence and occupation",
       "sort_year": 1925,
       "display_date": "1925",
@@ -1589,6 +1691,7 @@
       "is_major": false
     },
     {
+      "id": 102,
       "era_name": "Independence and occupation",
       "sort_year": 1928,
       "display_date": "1928",
@@ -1603,6 +1706,7 @@
       "is_major": false
     },
     {
+      "id": 103,
       "era_name": "Independence and occupation",
       "sort_year": 1935,
       "display_date": "1935",
@@ -1618,6 +1722,7 @@
       "is_major": false
     },
     {
+      "id": 104,
       "era_name": "Independence and occupation",
       "sort_year": 1940,
       "display_date": "9 April 1940",
@@ -1632,6 +1737,7 @@
       "is_major": true
     },
     {
+      "id": 105,
       "era_name": "Independence and occupation",
       "sort_year": 1940.4,
       "display_date": "May 1940",
@@ -1646,6 +1752,7 @@
       "is_major": false
     },
     {
+      "id": 106,
       "era_name": "Independence and occupation",
       "sort_year": 1940.6,
       "display_date": "7 June 1940",
@@ -1661,6 +1768,7 @@
       "is_major": true
     },
     {
+      "id": 107,
       "era_name": "Independence and occupation",
       "sort_year": 1942,
       "display_date": "1 February 1942",
@@ -1675,6 +1783,7 @@
       "is_major": false
     },
     {
+      "id": 108,
       "era_name": "Independence and occupation",
       "sort_year": 1943,
       "display_date": "28 February 1943",
@@ -1690,6 +1799,7 @@
       "is_major": true
     },
     {
+      "id": 109,
       "era_name": "Independence and occupation",
       "sort_year": 1944,
       "display_date": "October 1944",
@@ -1705,6 +1815,7 @@
       "is_major": false
     },
     {
+      "id": 110,
       "era_name": "Independence and occupation",
       "sort_year": 1945,
       "display_date": "8 May 1945",
@@ -1720,6 +1831,7 @@
       "is_major": true
     },
     {
+      "id": 111,
       "era_name": "Independence and occupation",
       "sort_year": 1945.8,
       "display_date": "24 October 1945",
@@ -1735,6 +1847,7 @@
       "is_major": false
     },
     {
+      "id": 112,
       "era_name": "Oil and the modern state",
       "sort_year": 1946,
       "display_date": "1946",
@@ -1750,6 +1863,7 @@
       "is_major": false
     },
     {
+      "id": 113,
       "era_name": "Oil and the modern state",
       "sort_year": 1949,
       "display_date": "4 April 1949",
@@ -1765,6 +1879,7 @@
       "is_major": true
     },
     {
+      "id": 114,
       "era_name": "Oil and the modern state",
       "sort_year": 1952,
       "display_date": "1952",
@@ -1779,6 +1894,7 @@
       "is_major": false
     },
     {
+      "id": 115,
       "era_name": "Oil and the modern state",
       "sort_year": 1960,
       "display_date": "1960",
@@ -1794,6 +1910,7 @@
       "is_major": false
     },
     {
+      "id": 116,
       "era_name": "Oil and the modern state",
       "sort_year": 1962,
       "display_date": "1962",
@@ -1807,6 +1924,7 @@
       "is_major": false
     },
     {
+      "id": 117,
       "era_name": "Oil and the modern state",
       "sort_year": 1965,
       "display_date": "1965",
@@ -1822,6 +1940,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Oil and the modern state",
       "sort_year": 1969,
       "display_date": "23 December 1969",
@@ -1836,6 +1955,7 @@
       "is_major": true
     },
     {
+      "id": 119,
       "era_name": "Oil and the modern state",
       "sort_year": 1971,
       "display_date": "1971",
@@ -1851,6 +1971,7 @@
       "is_major": true
     },
     {
+      "id": 120,
       "era_name": "Oil and the modern state",
       "sort_year": 1972,
       "display_date": "25 September 1972",
@@ -1866,6 +1987,7 @@
       "is_major": true
     },
     {
+      "id": 121,
       "era_name": "Oil and the modern state",
       "sort_year": 1972.5,
       "display_date": "1972",
@@ -1881,6 +2003,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "Oil and the modern state",
       "sort_year": 1977,
       "display_date": "22 April 1977",
@@ -1896,6 +2019,7 @@
       "is_major": false
     },
     {
+      "id": 123,
       "era_name": "Oil and the modern state",
       "sort_year": 1979,
       "display_date": "1979",
@@ -1911,6 +2035,7 @@
       "is_major": true
     },
     {
+      "id": 124,
       "era_name": "Oil and the modern state",
       "sort_year": 1980,
       "display_date": "27 March 1980",
@@ -1926,6 +2051,7 @@
       "is_major": false
     },
     {
+      "id": 125,
       "era_name": "Oil and the modern state",
       "sort_year": 1981,
       "display_date": "1981",
@@ -1941,6 +2067,7 @@
       "is_major": true
     },
     {
+      "id": 126,
       "era_name": "Oil and the modern state",
       "sort_year": 1987,
       "display_date": "1987",
@@ -1956,6 +2083,7 @@
       "is_major": false
     },
     {
+      "id": 127,
       "era_name": "Oil and the modern state",
       "sort_year": 1989,
       "display_date": "1989",
@@ -1971,6 +2099,7 @@
       "is_major": true
     },
     {
+      "id": 128,
       "era_name": "Oil and the modern state",
       "sort_year": 1990,
       "display_date": "1990",
@@ -1986,6 +2115,7 @@
       "is_major": true
     },
     {
+      "id": 129,
       "era_name": "Oil and the modern state",
       "sort_year": 1993,
       "display_date": "1993",
@@ -2000,6 +2130,7 @@
       "is_major": false
     },
     {
+      "id": 130,
       "era_name": "Oil and the modern state",
       "sort_year": 1994,
       "display_date": "February 1994",
@@ -2015,6 +2146,7 @@
       "is_major": false
     },
     {
+      "id": 131,
       "era_name": "Oil and the modern state",
       "sort_year": 1994.9,
       "display_date": "28 November 1994",
@@ -2030,6 +2162,7 @@
       "is_major": true
     },
     {
+      "id": 132,
       "era_name": "Oil and the modern state",
       "sort_year": 2000,
       "display_date": "2000",
@@ -2043,6 +2176,7 @@
       "is_major": false
     },
     {
+      "id": 133,
       "era_name": "Oil and the modern state",
       "sort_year": 2004,
       "display_date": "2004",
@@ -2058,6 +2192,7 @@
       "is_major": false
     },
     {
+      "id": 134,
       "era_name": "Oil and the modern state",
       "sort_year": 2010,
       "display_date": "15 September 2010",
@@ -2073,6 +2208,7 @@
       "is_major": false
     },
     {
+      "id": 135,
       "era_name": "Oil and the modern state",
       "sort_year": 2011,
       "display_date": "22 July 2011",
@@ -2088,6 +2224,7 @@
       "is_major": true
     },
     {
+      "id": 136,
       "era_name": "Oil and the modern state",
       "sort_year": 2013,
       "display_date": "2013",
@@ -2102,6 +2239,7 @@
       "is_major": false
     },
     {
+      "id": 137,
       "era_name": "Oil and the modern state",
       "sort_year": 2019,
       "display_date": "2019",
@@ -2116,6 +2254,7 @@
       "is_major": false
     },
     {
+      "id": 138,
       "era_name": "Oil and the modern state",
       "sort_year": 2021,
       "display_date": "2021",
@@ -2131,6 +2270,7 @@
       "is_major": false
     },
     {
+      "id": 139,
       "era_name": "Oil and the modern state",
       "sort_year": 2022,
       "display_date": "2022",
@@ -2146,6 +2286,7 @@
       "is_major": false
     },
     {
+      "id": 140,
       "era_name": "Oil and the modern state",
       "sort_year": 2025,
       "display_date": "2025",

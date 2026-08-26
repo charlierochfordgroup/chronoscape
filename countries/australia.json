@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Deep Time",
       "sort_year": -65000,
       "display_date": "c. 65,000 years ago",
@@ -124,6 +125,7 @@
       "is_major": true
     },
     {
+      "id": 1,
       "era_name": "Deep Time",
       "sort_year": -50000,
       "display_date": "c. 50,000 years ago",
@@ -139,6 +141,7 @@
       "is_major": false
     },
     {
+      "id": 2,
       "era_name": "Deep Time",
       "sort_year": -42000,
       "display_date": "c. 42,000 years ago",
@@ -154,6 +157,7 @@
       "is_major": true
     },
     {
+      "id": 3,
       "era_name": "Deep Time",
       "sort_year": -40000,
       "display_date": "c. 40,000 years ago",
@@ -169,6 +173,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Deep Time",
       "sort_year": -18000,
       "display_date": "c. 18,000 years ago",
@@ -184,6 +189,7 @@
       "is_major": false
     },
     {
+      "id": 5,
       "era_name": "Deep Time",
       "sort_year": -12000,
       "display_date": "c. 12,000 years ago",
@@ -199,6 +205,7 @@
       "is_major": false
     },
     {
+      "id": 6,
       "era_name": "Deep Time",
       "sort_year": -6600,
       "display_date": "c. 6,600 years ago",
@@ -214,6 +221,7 @@
       "is_major": true
     },
     {
+      "id": 7,
       "era_name": "Deep Time",
       "sort_year": -4000,
       "display_date": "c. 4,000 years ago",
@@ -229,6 +237,7 @@
       "is_major": false
     },
     {
+      "id": 8,
       "era_name": "Deep Time",
       "sort_year": -1000,
       "display_date": "c. 1,000 years ago",
@@ -244,6 +253,7 @@
       "is_major": false
     },
     {
+      "id": 9,
       "era_name": "Deep Time",
       "sort_year": 1500,
       "display_date": "c. 1500",
@@ -259,6 +269,7 @@
       "is_major": true
     },
     {
+      "id": 10,
       "era_name": "European Contact",
       "sort_year": 1606,
       "display_date": "March 1606",
@@ -274,6 +285,7 @@
       "is_major": true
     },
     {
+      "id": 11,
       "era_name": "European Contact",
       "sort_year": 1606.5,
       "display_date": "1606",
@@ -288,6 +300,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "European Contact",
       "sort_year": 1616,
       "display_date": "October 1616",
@@ -302,6 +315,7 @@
       "is_major": false
     },
     {
+      "id": 13,
       "era_name": "European Contact",
       "sort_year": 1629,
       "display_date": "1629",
@@ -317,6 +331,7 @@
       "is_major": false
     },
     {
+      "id": 14,
       "era_name": "European Contact",
       "sort_year": 1642,
       "display_date": "1642",
@@ -331,6 +346,7 @@
       "is_major": false
     },
     {
+      "id": 15,
       "era_name": "European Contact",
       "sort_year": 1688,
       "display_date": "1688",
@@ -346,6 +362,7 @@
       "is_major": false
     },
     {
+      "id": 16,
       "era_name": "European Contact",
       "sort_year": 1770,
       "display_date": "April 1770",
@@ -361,6 +378,7 @@
       "is_major": true
     },
     {
+      "id": 17,
       "era_name": "European Contact",
       "sort_year": 1770.5,
       "display_date": "22 August 1770",
@@ -376,6 +394,7 @@
       "is_major": true
     },
     {
+      "id": 18,
       "era_name": "European Contact",
       "sort_year": 1786,
       "display_date": "August 1786",
@@ -390,6 +409,7 @@
       "is_major": false
     },
     {
+      "id": 19,
       "era_name": "Convict Colony",
       "sort_year": 1788,
       "display_date": "26 January 1788",
@@ -405,6 +425,7 @@
       "is_major": true
     },
     {
+      "id": 20,
       "era_name": "Convict Colony",
       "sort_year": 1789,
       "display_date": "April 1789",
@@ -420,6 +441,7 @@
       "is_major": true
     },
     {
+      "id": 21,
       "era_name": "Convict Colony",
       "sort_year": 1790,
       "display_date": "June 1790",
@@ -435,6 +457,7 @@
       "is_major": false
     },
     {
+      "id": 22,
       "era_name": "Convict Colony",
       "sort_year": 1790.5,
       "display_date": "1790",
@@ -450,6 +473,7 @@
       "is_major": false
     },
     {
+      "id": 23,
       "era_name": "Convict Colony",
       "sort_year": 1793,
       "display_date": "1793",
@@ -465,6 +489,7 @@
       "is_major": false
     },
     {
+      "id": 24,
       "era_name": "Convict Colony",
       "sort_year": 1797,
       "display_date": "1797",
@@ -479,6 +504,7 @@
       "is_major": false
     },
     {
+      "id": 25,
       "era_name": "Convict Colony",
       "sort_year": 1803,
       "display_date": "1803",
@@ -494,6 +520,7 @@
       "is_major": false
     },
     {
+      "id": 26,
       "era_name": "Convict Colony",
       "sort_year": 1804,
       "display_date": "March 1804",
@@ -509,6 +536,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "Convict Colony",
       "sort_year": 1808,
       "display_date": "January 1808",
@@ -524,6 +552,7 @@
       "is_major": true
     },
     {
+      "id": 28,
       "era_name": "Convict Colony",
       "sort_year": 1810,
       "display_date": "1810",
@@ -539,6 +568,7 @@
       "is_major": false
     },
     {
+      "id": 29,
       "era_name": "Convict Colony",
       "sort_year": 1813,
       "display_date": "May 1813",
@@ -554,6 +584,7 @@
       "is_major": true
     },
     {
+      "id": 30,
       "era_name": "Convict Colony",
       "sort_year": 1817,
       "display_date": "1817",
@@ -568,6 +599,7 @@
       "is_major": false
     },
     {
+      "id": 31,
       "era_name": "Exploration and Expansion",
       "sort_year": 1824,
       "display_date": "1824",
@@ -583,6 +615,7 @@
       "is_major": false
     },
     {
+      "id": 32,
       "era_name": "Exploration and Expansion",
       "sort_year": 1828,
       "display_date": "1828",
@@ -598,6 +631,7 @@
       "is_major": false
     },
     {
+      "id": 33,
       "era_name": "Exploration and Expansion",
       "sort_year": 1829,
       "display_date": "June 1829",
@@ -613,6 +647,7 @@
       "is_major": false
     },
     {
+      "id": 34,
       "era_name": "Exploration and Expansion",
       "sort_year": 1835,
       "display_date": "1835",
@@ -628,6 +663,7 @@
       "is_major": true
     },
     {
+      "id": 35,
       "era_name": "Exploration and Expansion",
       "sort_year": 1836,
       "display_date": "December 1836",
@@ -643,6 +679,7 @@
       "is_major": false
     },
     {
+      "id": 36,
       "era_name": "Exploration and Expansion",
       "sort_year": 1838,
       "display_date": "June 1838",
@@ -658,6 +695,7 @@
       "is_major": true
     },
     {
+      "id": 37,
       "era_name": "Exploration and Expansion",
       "sort_year": 1840,
       "display_date": "1840",
@@ -673,6 +711,7 @@
       "is_major": false
     },
     {
+      "id": 38,
       "era_name": "Exploration and Expansion",
       "sort_year": 1841,
       "display_date": "1841",
@@ -688,6 +727,7 @@
       "is_major": false
     },
     {
+      "id": 39,
       "era_name": "Exploration and Expansion",
       "sort_year": 1844,
       "display_date": "1844",
@@ -703,6 +743,7 @@
       "is_major": false
     },
     {
+      "id": 40,
       "era_name": "Exploration and Expansion",
       "sort_year": 1847,
       "display_date": "1847",
@@ -718,6 +759,7 @@
       "is_major": false
     },
     {
+      "id": 41,
       "era_name": "Gold Rushes",
       "sort_year": 1851,
       "display_date": "May 1851",
@@ -733,6 +775,7 @@
       "is_major": true
     },
     {
+      "id": 42,
       "era_name": "Gold Rushes",
       "sort_year": 1851.5,
       "display_date": "1851",
@@ -747,6 +790,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "Gold Rushes",
       "sort_year": 1852,
       "display_date": "1852",
@@ -762,6 +806,7 @@
       "is_major": false
     },
     {
+      "id": 44,
       "era_name": "Gold Rushes",
       "sort_year": 1854,
       "display_date": "3 December 1854",
@@ -777,6 +822,7 @@
       "is_major": true
     },
     {
+      "id": 45,
       "era_name": "Gold Rushes",
       "sort_year": 1855,
       "display_date": "1855",
@@ -791,6 +837,7 @@
       "is_major": false
     },
     {
+      "id": 46,
       "era_name": "Gold Rushes",
       "sort_year": 1856,
       "display_date": "April 1856",
@@ -806,6 +853,7 @@
       "is_major": true
     },
     {
+      "id": 47,
       "era_name": "Gold Rushes",
       "sort_year": 1858,
       "display_date": "1858",
@@ -820,6 +868,7 @@
       "is_major": false
     },
     {
+      "id": 48,
       "era_name": "Gold Rushes",
       "sort_year": 1859,
       "display_date": "December 1859",
@@ -835,6 +884,7 @@
       "is_major": false
     },
     {
+      "id": 49,
       "era_name": "Gold Rushes",
       "sort_year": 1860,
       "display_date": "August 1860",
@@ -850,6 +900,7 @@
       "is_major": false
     },
     {
+      "id": 50,
       "era_name": "Gold Rushes",
       "sort_year": 1861,
       "display_date": "1861",
@@ -864,6 +915,7 @@
       "is_major": false
     },
     {
+      "id": 51,
       "era_name": "Gold Rushes",
       "sort_year": 1868,
       "display_date": "January 1868",
@@ -879,6 +931,7 @@
       "is_major": false
     },
     {
+      "id": 52,
       "era_name": "Gold Rushes",
       "sort_year": 1868.5,
       "display_date": "1868",
@@ -894,6 +947,7 @@
       "is_major": false
     },
     {
+      "id": 53,
       "era_name": "Colonial Maturity",
       "sort_year": 1872,
       "display_date": "August 1872",
@@ -909,6 +963,7 @@
       "is_major": true
     },
     {
+      "id": 54,
       "era_name": "Colonial Maturity",
       "sort_year": 1877,
       "display_date": "March 1877",
@@ -923,6 +978,7 @@
       "is_major": false
     },
     {
+      "id": 55,
       "era_name": "Colonial Maturity",
       "sort_year": 1880,
       "display_date": "June 1880",
@@ -938,6 +994,7 @@
       "is_major": true
     },
     {
+      "id": 56,
       "era_name": "Colonial Maturity",
       "sort_year": 1883,
       "display_date": "1883",
@@ -952,6 +1009,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "Colonial Maturity",
       "sort_year": 1888,
       "display_date": "1888",
@@ -967,6 +1025,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "Colonial Maturity",
       "sort_year": 1890,
       "display_date": "1890",
@@ -982,6 +1041,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "Colonial Maturity",
       "sort_year": 1891,
       "display_date": "May 1891",
@@ -997,6 +1057,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Colonial Maturity",
       "sort_year": 1892,
       "display_date": "September 1892",
@@ -1011,6 +1072,7 @@
       "is_major": false
     },
     {
+      "id": 61,
       "era_name": "Colonial Maturity",
       "sort_year": 1894,
       "display_date": "1894",
@@ -1026,6 +1088,7 @@
       "is_major": true
     },
     {
+      "id": 62,
       "era_name": "Colonial Maturity",
       "sort_year": 1895,
       "display_date": "1895",
@@ -1040,6 +1103,7 @@
       "is_major": false
     },
     {
+      "id": 63,
       "era_name": "Colonial Maturity",
       "sort_year": 1899,
       "display_date": "1899",
@@ -1054,6 +1118,7 @@
       "is_major": false
     },
     {
+      "id": 64,
       "era_name": "Federation and the Great War",
       "sort_year": 1901,
       "display_date": "1 January 1901",
@@ -1068,6 +1133,7 @@
       "is_major": true
     },
     {
+      "id": 65,
       "era_name": "Federation and the Great War",
       "sort_year": 1901.5,
       "display_date": "December 1901",
@@ -1083,6 +1149,7 @@
       "is_major": true
     },
     {
+      "id": 66,
       "era_name": "Federation and the Great War",
       "sort_year": 1902,
       "display_date": "1902",
@@ -1098,6 +1165,7 @@
       "is_major": false
     },
     {
+      "id": 67,
       "era_name": "Federation and the Great War",
       "sort_year": 1907,
       "display_date": "November 1907",
@@ -1113,6 +1181,7 @@
       "is_major": true
     },
     {
+      "id": 68,
       "era_name": "Federation and the Great War",
       "sort_year": 1908,
       "display_date": "1908",
@@ -1128,6 +1197,7 @@
       "is_major": false
     },
     {
+      "id": 69,
       "era_name": "Federation and the Great War",
       "sort_year": 1913,
       "display_date": "March 1913",
@@ -1143,6 +1213,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Federation and the Great War",
       "sort_year": 1914,
       "display_date": "August 1914",
@@ -1157,6 +1228,7 @@
       "is_major": true
     },
     {
+      "id": 71,
       "era_name": "Federation and the Great War",
       "sort_year": 1915,
       "display_date": "25 April 1915",
@@ -1171,6 +1243,7 @@
       "is_major": true
     },
     {
+      "id": 72,
       "era_name": "Federation and the Great War",
       "sort_year": 1916,
       "display_date": "1916",
@@ -1186,6 +1259,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Federation and the Great War",
       "sort_year": 1917,
       "display_date": "1917",
@@ -1200,6 +1274,7 @@
       "is_major": false
     },
     {
+      "id": 74,
       "era_name": "Federation and the Great War",
       "sort_year": 1918,
       "display_date": "April 1918",
@@ -1214,6 +1289,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Between the Wars",
       "sort_year": 1919,
       "display_date": "1919",
@@ -1228,6 +1304,7 @@
       "is_major": false
     },
     {
+      "id": 76,
       "era_name": "Between the Wars",
       "sort_year": 1920,
       "display_date": "1920",
@@ -1243,6 +1320,7 @@
       "is_major": false
     },
     {
+      "id": 77,
       "era_name": "Between the Wars",
       "sort_year": 1923,
       "display_date": "1923",
@@ -1257,6 +1335,7 @@
       "is_major": false
     },
     {
+      "id": 78,
       "era_name": "Between the Wars",
       "sort_year": 1927,
       "display_date": "May 1927",
@@ -1271,6 +1350,7 @@
       "is_major": false
     },
     {
+      "id": 79,
       "era_name": "Between the Wars",
       "sort_year": 1928,
       "display_date": "August 1928",
@@ -1286,6 +1366,7 @@
       "is_major": true
     },
     {
+      "id": 80,
       "era_name": "Between the Wars",
       "sort_year": 1928.5,
       "display_date": "1928",
@@ -1301,6 +1382,7 @@
       "is_major": false
     },
     {
+      "id": 81,
       "era_name": "Between the Wars",
       "sort_year": 1930,
       "display_date": "November 1930",
@@ -1315,6 +1397,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "Between the Wars",
       "sort_year": 1931,
       "display_date": "1931",
@@ -1330,6 +1413,7 @@
       "is_major": false
     },
     {
+      "id": 83,
       "era_name": "Between the Wars",
       "sort_year": 1932,
       "display_date": "March 1932",
@@ -1345,6 +1429,7 @@
       "is_major": false
     },
     {
+      "id": 84,
       "era_name": "Between the Wars",
       "sort_year": 1932.5,
       "display_date": "1932",
@@ -1359,6 +1444,7 @@
       "is_major": false
     },
     {
+      "id": 85,
       "era_name": "Between the Wars",
       "sort_year": 1938,
       "display_date": "26 January 1938",
@@ -1374,6 +1460,7 @@
       "is_major": true
     },
     {
+      "id": 86,
       "era_name": "War and Postwar",
       "sort_year": 1939,
       "display_date": "3 September 1939",
@@ -1389,6 +1476,7 @@
       "is_major": false
     },
     {
+      "id": 87,
       "era_name": "War and Postwar",
       "sort_year": 1941,
       "display_date": "December 1941",
@@ -1404,6 +1492,7 @@
       "is_major": true
     },
     {
+      "id": 88,
       "era_name": "War and Postwar",
       "sort_year": 1942.1,
       "display_date": "15 February 1942",
@@ -1418,6 +1507,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "War and Postwar",
       "sort_year": 1942.2,
       "display_date": "19 February 1942",
@@ -1432,6 +1522,7 @@
       "is_major": true
     },
     {
+      "id": 90,
       "era_name": "War and Postwar",
       "sort_year": 1942.4,
       "display_date": "May 1942",
@@ -1446,6 +1537,7 @@
       "is_major": true
     },
     {
+      "id": 91,
       "era_name": "War and Postwar",
       "sort_year": 1945,
       "display_date": "August 1945",
@@ -1461,6 +1553,7 @@
       "is_major": false
     },
     {
+      "id": 92,
       "era_name": "War and Postwar",
       "sort_year": 1945.5,
       "display_date": "1945",
@@ -1476,6 +1569,7 @@
       "is_major": true
     },
     {
+      "id": 93,
       "era_name": "War and Postwar",
       "sort_year": 1948,
       "display_date": "November 1948",
@@ -1491,6 +1585,7 @@
       "is_major": false
     },
     {
+      "id": 94,
       "era_name": "War and Postwar",
       "sort_year": 1949,
       "display_date": "October 1949",
@@ -1506,6 +1601,7 @@
       "is_major": true
     },
     {
+      "id": 95,
       "era_name": "War and Postwar",
       "sort_year": 1951,
       "display_date": "September 1951",
@@ -1521,6 +1617,7 @@
       "is_major": false
     },
     {
+      "id": 96,
       "era_name": "War and Postwar",
       "sort_year": 1951.5,
       "display_date": "September 1951",
@@ -1535,6 +1632,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "War and Postwar",
       "sort_year": 1956,
       "display_date": "November 1956",
@@ -1550,6 +1648,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "War and Postwar",
       "sort_year": 1956.5,
       "display_date": "1956",
@@ -1565,6 +1664,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "War and Postwar",
       "sort_year": 1962,
       "display_date": "1962",
@@ -1580,6 +1680,7 @@
       "is_major": true
     },
     {
+      "id": 100,
       "era_name": "War and Postwar",
       "sort_year": 1965,
       "display_date": "February 1965",
@@ -1595,6 +1696,7 @@
       "is_major": true
     },
     {
+      "id": 101,
       "era_name": "Modern Australia",
       "sort_year": 1966,
       "display_date": "August 1966",
@@ -1610,6 +1712,7 @@
       "is_major": true
     },
     {
+      "id": 102,
       "era_name": "Modern Australia",
       "sort_year": 1967,
       "display_date": "27 May 1967",
@@ -1625,6 +1728,7 @@
       "is_major": true
     },
     {
+      "id": 103,
       "era_name": "Modern Australia",
       "sort_year": 1972.1,
       "display_date": "January 1972",
@@ -1640,6 +1744,7 @@
       "is_major": true
     },
     {
+      "id": 104,
       "era_name": "Modern Australia",
       "sort_year": 1972.9,
       "display_date": "December 1972",
@@ -1655,6 +1760,7 @@
       "is_major": true
     },
     {
+      "id": 105,
       "era_name": "Modern Australia",
       "sort_year": 1973,
       "display_date": "October 1973",
@@ -1669,6 +1775,7 @@
       "is_major": true
     },
     {
+      "id": 106,
       "era_name": "Modern Australia",
       "sort_year": 1973.5,
       "display_date": "1973",
@@ -1684,6 +1791,7 @@
       "is_major": true
     },
     {
+      "id": 107,
       "era_name": "Modern Australia",
       "sort_year": 1974,
       "display_date": "December 1974",
@@ -1698,6 +1806,7 @@
       "is_major": false
     },
     {
+      "id": 108,
       "era_name": "Modern Australia",
       "sort_year": 1975,
       "display_date": "11 November 1975",
@@ -1712,6 +1821,7 @@
       "is_major": true
     },
     {
+      "id": 109,
       "era_name": "Modern Australia",
       "sort_year": 1976,
       "display_date": "1976",
@@ -1727,6 +1837,7 @@
       "is_major": true
     },
     {
+      "id": 110,
       "era_name": "Modern Australia",
       "sort_year": 1983,
       "display_date": "1983",
@@ -1742,6 +1853,7 @@
       "is_major": true
     },
     {
+      "id": 111,
       "era_name": "Modern Australia",
       "sort_year": 1983.5,
       "display_date": "July 1983",
@@ -1757,6 +1869,7 @@
       "is_major": false
     },
     {
+      "id": 112,
       "era_name": "Modern Australia",
       "sort_year": 1984,
       "display_date": "1984",
@@ -1772,6 +1885,7 @@
       "is_major": true
     },
     {
+      "id": 113,
       "era_name": "Modern Australia",
       "sort_year": 1992,
       "display_date": "3 June 1992",
@@ -1787,6 +1901,7 @@
       "is_major": true
     },
     {
+      "id": 114,
       "era_name": "Modern Australia",
       "sort_year": 1996,
       "display_date": "April 1996",
@@ -1802,6 +1917,7 @@
       "is_major": true
     },
     {
+      "id": 115,
       "era_name": "Modern Australia",
       "sort_year": 1997,
       "display_date": "May 1997",
@@ -1817,6 +1933,7 @@
       "is_major": true
     },
     {
+      "id": 116,
       "era_name": "Modern Australia",
       "sort_year": 1999,
       "display_date": "November 1999",
@@ -1831,6 +1948,7 @@
       "is_major": false
     },
     {
+      "id": 117,
       "era_name": "Modern Australia",
       "sort_year": 2000,
       "display_date": "September 2000",
@@ -1846,6 +1964,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Modern Australia",
       "sort_year": 2008,
       "display_date": "13 February 2008",
@@ -1861,6 +1980,7 @@
       "is_major": true
     },
     {
+      "id": 119,
       "era_name": "Modern Australia",
       "sort_year": 2009,
       "display_date": "February 2009",
@@ -1875,6 +1995,7 @@
       "is_major": false
     },
     {
+      "id": 120,
       "era_name": "Modern Australia",
       "sort_year": 2017,
       "display_date": "December 2017",
@@ -1890,6 +2011,7 @@
       "is_major": true
     },
     {
+      "id": 121,
       "era_name": "Modern Australia",
       "sort_year": 2019,
       "display_date": "2019",
@@ -1905,6 +2027,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "Modern Australia",
       "sort_year": 2023,
       "display_date": "14 October 2023",

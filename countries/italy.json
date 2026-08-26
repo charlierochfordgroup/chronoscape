@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -800000,
       "display_date": "c. 800,000 BCE",
@@ -123,6 +124,7 @@
       "is_major": true
     },
     {
+      "id": 1,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -43000,
       "display_date": "c. 43,000 BCE",
@@ -138,6 +140,7 @@
       "is_major": false
     },
     {
+      "id": 2,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -6000,
       "display_date": "c. 6000 BCE",
@@ -153,6 +156,7 @@
       "is_major": false
     },
     {
+      "id": 3,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -3300,
       "display_date": "c. 3300 BCE",
@@ -168,6 +172,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -1700,
       "display_date": "c. 1700 BCE",
@@ -183,6 +188,7 @@
       "is_major": false
     },
     {
+      "id": 5,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -1000,
       "display_date": "c. 1000 BCE",
@@ -198,6 +204,7 @@
       "is_major": false
     },
     {
+      "id": 6,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -900,
       "display_date": "c. 900 BCE",
@@ -213,6 +220,7 @@
       "is_major": true
     },
     {
+      "id": 7,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -775,
       "display_date": "c. 775 BCE",
@@ -228,6 +236,7 @@
       "is_major": true
     },
     {
+      "id": 8,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -753,
       "display_date": "753 BCE (traditional)",
@@ -243,6 +252,7 @@
       "is_major": true
     },
     {
+      "id": 9,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -734,
       "display_date": "c. 734 BCE",
@@ -258,6 +268,7 @@
       "is_major": false
     },
     {
+      "id": 10,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -616,
       "display_date": "c. 616 BCE",
@@ -272,6 +283,7 @@
       "is_major": false
     },
     {
+      "id": 11,
       "era_name": "Prehistory and the Etruscans",
       "sort_year": -600,
       "display_date": "c. 600 BCE",
@@ -287,6 +299,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "The Roman Republic",
       "sort_year": -509,
       "display_date": "509 BCE",
@@ -301,6 +314,7 @@
       "is_major": true
     },
     {
+      "id": 13,
       "era_name": "The Roman Republic",
       "sort_year": -494,
       "display_date": "494 BCE",
@@ -316,6 +330,7 @@
       "is_major": false
     },
     {
+      "id": 14,
       "era_name": "The Roman Republic",
       "sort_year": -451,
       "display_date": "451 BCE",
@@ -331,6 +346,7 @@
       "is_major": true
     },
     {
+      "id": 15,
       "era_name": "The Roman Republic",
       "sort_year": -396,
       "display_date": "396 BCE",
@@ -345,6 +361,7 @@
       "is_major": false
     },
     {
+      "id": 16,
       "era_name": "The Roman Republic",
       "sort_year": -387,
       "display_date": "387 BCE",
@@ -359,6 +376,7 @@
       "is_major": true
     },
     {
+      "id": 17,
       "era_name": "The Roman Republic",
       "sort_year": -343,
       "display_date": "343-290 BCE",
@@ -373,6 +391,7 @@
       "is_major": false
     },
     {
+      "id": 18,
       "era_name": "The Roman Republic",
       "sort_year": -312,
       "display_date": "312 BCE",
@@ -388,6 +407,7 @@
       "is_major": false
     },
     {
+      "id": 19,
       "era_name": "The Roman Republic",
       "sort_year": -280,
       "display_date": "280-275 BCE",
@@ -403,6 +423,7 @@
       "is_major": false
     },
     {
+      "id": 20,
       "era_name": "The Roman Republic",
       "sort_year": -264,
       "display_date": "264 BCE",
@@ -418,6 +439,7 @@
       "is_major": true
     },
     {
+      "id": 21,
       "era_name": "The Roman Republic",
       "sort_year": -241,
       "display_date": "241 BCE",
@@ -433,6 +455,7 @@
       "is_major": false
     },
     {
+      "id": 22,
       "era_name": "The Roman Republic",
       "sort_year": -218,
       "display_date": "218 BCE",
@@ -447,6 +470,7 @@
       "is_major": true
     },
     {
+      "id": 23,
       "era_name": "The Roman Republic",
       "sort_year": -216,
       "display_date": "2 August 216 BCE",
@@ -461,6 +485,7 @@
       "is_major": true
     },
     {
+      "id": 24,
       "era_name": "The Roman Republic",
       "sort_year": -202,
       "display_date": "202 BCE",
@@ -476,6 +501,7 @@
       "is_major": true
     },
     {
+      "id": 25,
       "era_name": "The Roman Republic",
       "sort_year": -168,
       "display_date": "168 BCE",
@@ -491,6 +517,7 @@
       "is_major": false
     },
     {
+      "id": 26,
       "era_name": "The Roman Republic",
       "sort_year": -146,
       "display_date": "146 BCE",
@@ -506,6 +533,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "The Roman Republic",
       "sort_year": -133,
       "display_date": "133 BCE",
@@ -521,6 +549,7 @@
       "is_major": false
     },
     {
+      "id": 28,
       "era_name": "The Roman Republic",
       "sort_year": -107,
       "display_date": "107 BCE",
@@ -536,6 +565,7 @@
       "is_major": true
     },
     {
+      "id": 29,
       "era_name": "The Roman Republic",
       "sort_year": -91,
       "display_date": "91-88 BCE",
@@ -551,6 +581,7 @@
       "is_major": false
     },
     {
+      "id": 30,
       "era_name": "The Roman Republic",
       "sort_year": -82,
       "display_date": "82 BCE",
@@ -566,6 +597,7 @@
       "is_major": false
     },
     {
+      "id": 31,
       "era_name": "The Roman Republic",
       "sort_year": -73,
       "display_date": "73-71 BCE",
@@ -581,6 +613,7 @@
       "is_major": false
     },
     {
+      "id": 32,
       "era_name": "The Roman Republic",
       "sort_year": -60,
       "display_date": "60 BCE",
@@ -595,6 +628,7 @@
       "is_major": false
     },
     {
+      "id": 33,
       "era_name": "The Roman Republic",
       "sort_year": -49,
       "display_date": "10 January 49 BCE",
@@ -610,6 +644,7 @@
       "is_major": true
     },
     {
+      "id": 34,
       "era_name": "The Roman Republic",
       "sort_year": -44,
       "display_date": "15 March 44 BCE",
@@ -624,6 +659,7 @@
       "is_major": true
     },
     {
+      "id": 35,
       "era_name": "The Roman Republic",
       "sort_year": -31,
       "display_date": "2 September 31 BCE",
@@ -638,6 +674,7 @@
       "is_major": true
     },
     {
+      "id": 36,
       "era_name": "The Roman Empire",
       "sort_year": -27,
       "display_date": "16 January 27 BCE",
@@ -652,6 +689,7 @@
       "is_major": true
     },
     {
+      "id": 37,
       "era_name": "The Roman Empire",
       "sort_year": -19,
       "display_date": "19 BCE",
@@ -666,6 +704,7 @@
       "is_major": false
     },
     {
+      "id": 38,
       "era_name": "The Roman Empire",
       "sort_year": 64,
       "display_date": "July 64 CE",
@@ -681,6 +720,7 @@
       "is_major": false
     },
     {
+      "id": 39,
       "era_name": "The Roman Empire",
       "sort_year": 79,
       "display_date": "24 August 79 CE",
@@ -696,6 +736,7 @@
       "is_major": true
     },
     {
+      "id": 40,
       "era_name": "The Roman Empire",
       "sort_year": 80,
       "display_date": "80 CE",
@@ -711,6 +752,7 @@
       "is_major": true
     },
     {
+      "id": 41,
       "era_name": "The Roman Empire",
       "sort_year": 117,
       "display_date": "117 CE",
@@ -726,6 +768,7 @@
       "is_major": false
     },
     {
+      "id": 42,
       "era_name": "The Roman Empire",
       "sort_year": 126,
       "display_date": "126 CE",
@@ -741,6 +784,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "The Roman Empire",
       "sort_year": 161,
       "display_date": "161-180 CE",
@@ -756,6 +800,7 @@
       "is_major": false
     },
     {
+      "id": 44,
       "era_name": "The Roman Empire",
       "sort_year": 165,
       "display_date": "165-180 CE",
@@ -770,6 +815,7 @@
       "is_major": false
     },
     {
+      "id": 45,
       "era_name": "The Roman Empire",
       "sort_year": 212,
       "display_date": "212 CE",
@@ -785,6 +831,7 @@
       "is_major": false
     },
     {
+      "id": 46,
       "era_name": "The Roman Empire",
       "sort_year": 235,
       "display_date": "235-284 CE",
@@ -800,6 +847,7 @@
       "is_major": false
     },
     {
+      "id": 47,
       "era_name": "The Roman Empire",
       "sort_year": 284,
       "display_date": "284 CE",
@@ -815,6 +863,7 @@
       "is_major": false
     },
     {
+      "id": 48,
       "era_name": "The Roman Empire",
       "sort_year": 313,
       "display_date": "313 CE",
@@ -830,6 +879,7 @@
       "is_major": true
     },
     {
+      "id": 49,
       "era_name": "The Roman Empire",
       "sort_year": 330,
       "display_date": "330 CE",
@@ -844,6 +894,7 @@
       "is_major": true
     },
     {
+      "id": 50,
       "era_name": "The Roman Empire",
       "sort_year": 380,
       "display_date": "380 CE",
@@ -859,6 +910,7 @@
       "is_major": false
     },
     {
+      "id": 51,
       "era_name": "The Roman Empire",
       "sort_year": 402,
       "display_date": "402 CE",
@@ -874,6 +926,7 @@
       "is_major": false
     },
     {
+      "id": 52,
       "era_name": "The Roman Empire",
       "sort_year": 410,
       "display_date": "24 August 410 CE",
@@ -888,6 +941,7 @@
       "is_major": true
     },
     {
+      "id": 53,
       "era_name": "The Roman Empire",
       "sort_year": 452,
       "display_date": "452 CE",
@@ -903,6 +957,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "The Roman Empire",
       "sort_year": 455,
       "display_date": "455 CE",
@@ -917,6 +972,7 @@
       "is_major": false
     },
     {
+      "id": 55,
       "era_name": "The Roman Empire",
       "sort_year": 476,
       "display_date": "4 September 476 CE",
@@ -932,6 +988,7 @@
       "is_major": true
     },
     {
+      "id": 56,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 493,
       "display_date": "493",
@@ -946,6 +1003,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 524,
       "display_date": "c. 524",
@@ -961,6 +1019,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 529,
       "display_date": "529",
@@ -976,6 +1035,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 535,
       "display_date": "535-554",
@@ -991,6 +1051,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 568,
       "display_date": "568",
@@ -1006,6 +1067,7 @@
       "is_major": true
     },
     {
+      "id": 61,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 590,
       "display_date": "590",
@@ -1021,6 +1083,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 751,
       "display_date": "751",
@@ -1036,6 +1099,7 @@
       "is_major": false
     },
     {
+      "id": 63,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 756,
       "display_date": "756",
@@ -1051,6 +1115,7 @@
       "is_major": true
     },
     {
+      "id": 64,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 774,
       "display_date": "774",
@@ -1066,6 +1131,7 @@
       "is_major": false
     },
     {
+      "id": 65,
       "era_name": "Goths, Byzantines and Lombards",
       "sort_year": 800,
       "display_date": "25 December 800",
@@ -1081,6 +1147,7 @@
       "is_major": true
     },
     {
+      "id": 66,
       "era_name": "Communes and maritime republics",
       "sort_year": 827,
       "display_date": "827",
@@ -1096,6 +1163,7 @@
       "is_major": true
     },
     {
+      "id": 67,
       "era_name": "Communes and maritime republics",
       "sort_year": 962,
       "display_date": "962",
@@ -1110,6 +1178,7 @@
       "is_major": false
     },
     {
+      "id": 68,
       "era_name": "Communes and maritime republics",
       "sort_year": 1000,
       "display_date": "c. 1000",
@@ -1125,6 +1194,7 @@
       "is_major": false
     },
     {
+      "id": 69,
       "era_name": "Communes and maritime republics",
       "sort_year": 1063,
       "display_date": "1063",
@@ -1140,6 +1210,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Communes and maritime republics",
       "sort_year": 1071,
       "display_date": "1071",
@@ -1154,6 +1225,7 @@
       "is_major": false
     },
     {
+      "id": 71,
       "era_name": "Communes and maritime republics",
       "sort_year": 1077,
       "display_date": "January 1077",
@@ -1169,6 +1241,7 @@
       "is_major": true
     },
     {
+      "id": 72,
       "era_name": "Communes and maritime republics",
       "sort_year": 1088,
       "display_date": "1088",
@@ -1184,6 +1257,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Communes and maritime republics",
       "sort_year": 1130,
       "display_date": "1130",
@@ -1199,6 +1273,7 @@
       "is_major": true
     },
     {
+      "id": 74,
       "era_name": "Communes and maritime republics",
       "sort_year": 1176,
       "display_date": "29 May 1176",
@@ -1214,6 +1289,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Communes and maritime republics",
       "sort_year": 1204,
       "display_date": "1204",
@@ -1229,6 +1305,7 @@
       "is_major": true
     },
     {
+      "id": 76,
       "era_name": "Communes and maritime republics",
       "sort_year": 1220,
       "display_date": "1220-1250",
@@ -1244,6 +1321,7 @@
       "is_major": false
     },
     {
+      "id": 77,
       "era_name": "Communes and maritime republics",
       "sort_year": 1266,
       "display_date": "1266",
@@ -1259,6 +1337,7 @@
       "is_major": false
     },
     {
+      "id": 78,
       "era_name": "Communes and maritime republics",
       "sort_year": 1282,
       "display_date": "30 March 1282",
@@ -1274,6 +1353,7 @@
       "is_major": false
     },
     {
+      "id": 79,
       "era_name": "Communes and maritime republics",
       "sort_year": 1284,
       "display_date": "1284",
@@ -1289,6 +1369,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Communes and maritime republics",
       "sort_year": 1296,
       "display_date": "1296",
@@ -1304,6 +1385,7 @@
       "is_major": false
     },
     {
+      "id": 81,
       "era_name": "The Renaissance",
       "sort_year": 1300,
       "display_date": "1300",
@@ -1319,6 +1401,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "The Renaissance",
       "sort_year": 1309,
       "display_date": "1309",
@@ -1334,6 +1417,7 @@
       "is_major": true
     },
     {
+      "id": 83,
       "era_name": "The Renaissance",
       "sort_year": 1321,
       "display_date": "1321",
@@ -1348,6 +1432,7 @@
       "is_major": true
     },
     {
+      "id": 84,
       "era_name": "The Renaissance",
       "sort_year": 1347,
       "display_date": "October 1347",
@@ -1362,6 +1447,7 @@
       "is_major": true
     },
     {
+      "id": 85,
       "era_name": "The Renaissance",
       "sort_year": 1378,
       "display_date": "1378",
@@ -1377,6 +1463,7 @@
       "is_major": false
     },
     {
+      "id": 86,
       "era_name": "The Renaissance",
       "sort_year": 1401,
       "display_date": "1401",
@@ -1391,6 +1478,7 @@
       "is_major": false
     },
     {
+      "id": 87,
       "era_name": "The Renaissance",
       "sort_year": 1420,
       "display_date": "1420",
@@ -1406,6 +1494,7 @@
       "is_major": true
     },
     {
+      "id": 88,
       "era_name": "The Renaissance",
       "sort_year": 1434,
       "display_date": "1434",
@@ -1421,6 +1510,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "The Renaissance",
       "sort_year": 1454,
       "display_date": "1454",
@@ -1436,6 +1526,7 @@
       "is_major": false
     },
     {
+      "id": 90,
       "era_name": "The Renaissance",
       "sort_year": 1469,
       "display_date": "1469",
@@ -1451,6 +1542,7 @@
       "is_major": true
     },
     {
+      "id": 91,
       "era_name": "The Renaissance",
       "sort_year": 1494,
       "display_date": "1494",
@@ -1466,6 +1558,7 @@
       "is_major": true
     },
     {
+      "id": 92,
       "era_name": "The Renaissance",
       "sort_year": 1498,
       "display_date": "23 May 1498",
@@ -1481,6 +1574,7 @@
       "is_major": false
     },
     {
+      "id": 93,
       "era_name": "The Renaissance",
       "sort_year": 1503,
       "display_date": "c. 1503",
@@ -1496,6 +1590,7 @@
       "is_major": true
     },
     {
+      "id": 94,
       "era_name": "The Renaissance",
       "sort_year": 1508,
       "display_date": "1508-1512",
@@ -1511,6 +1606,7 @@
       "is_major": true
     },
     {
+      "id": 95,
       "era_name": "The Renaissance",
       "sort_year": 1513,
       "display_date": "1513",
@@ -1526,6 +1622,7 @@
       "is_major": true
     },
     {
+      "id": 96,
       "era_name": "The Renaissance",
       "sort_year": 1527,
       "display_date": "6 May 1527",
@@ -1541,6 +1638,7 @@
       "is_major": true
     },
     {
+      "id": 97,
       "era_name": "Foreign domination",
       "sort_year": 1530,
       "display_date": "1530",
@@ -1556,6 +1654,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "Foreign domination",
       "sort_year": 1545,
       "display_date": "1545-1563",
@@ -1570,6 +1669,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "Foreign domination",
       "sort_year": 1559,
       "display_date": "1559",
@@ -1585,6 +1685,7 @@
       "is_major": true
     },
     {
+      "id": 100,
       "era_name": "Foreign domination",
       "sort_year": 1571,
       "display_date": "7 October 1571",
@@ -1600,6 +1701,7 @@
       "is_major": true
     },
     {
+      "id": 101,
       "era_name": "Foreign domination",
       "sort_year": 1600,
       "display_date": "17 February 1600",
@@ -1615,6 +1717,7 @@
       "is_major": false
     },
     {
+      "id": 102,
       "era_name": "Foreign domination",
       "sort_year": 1610,
       "display_date": "1610",
@@ -1629,6 +1732,7 @@
       "is_major": true
     },
     {
+      "id": 103,
       "era_name": "Foreign domination",
       "sort_year": 1633,
       "display_date": "1633",
@@ -1644,6 +1748,7 @@
       "is_major": true
     },
     {
+      "id": 104,
       "era_name": "Foreign domination",
       "sort_year": 1647,
       "display_date": "1647",
@@ -1659,6 +1764,7 @@
       "is_major": false
     },
     {
+      "id": 105,
       "era_name": "Foreign domination",
       "sort_year": 1656,
       "display_date": "1656",
@@ -1672,6 +1778,7 @@
       "is_major": false
     },
     {
+      "id": 106,
       "era_name": "Foreign domination",
       "sort_year": 1713,
       "display_date": "1713",
@@ -1687,6 +1794,7 @@
       "is_major": false
     },
     {
+      "id": 107,
       "era_name": "Foreign domination",
       "sort_year": 1737,
       "display_date": "1737",
@@ -1702,6 +1810,7 @@
       "is_major": false
     },
     {
+      "id": 108,
       "era_name": "Foreign domination",
       "sort_year": 1748,
       "display_date": "1748",
@@ -1717,6 +1826,7 @@
       "is_major": false
     },
     {
+      "id": 109,
       "era_name": "Foreign domination",
       "sort_year": 1764,
       "display_date": "1764",
@@ -1732,6 +1842,7 @@
       "is_major": false
     },
     {
+      "id": 110,
       "era_name": "Foreign domination",
       "sort_year": 1786,
       "display_date": "1786",
@@ -1747,6 +1858,7 @@
       "is_major": false
     },
     {
+      "id": 111,
       "era_name": "Foreign domination",
       "sort_year": 1796,
       "display_date": "1796",
@@ -1762,6 +1874,7 @@
       "is_major": true
     },
     {
+      "id": 112,
       "era_name": "The Risorgimento",
       "sort_year": 1797,
       "display_date": "1797",
@@ -1777,6 +1890,7 @@
       "is_major": false
     },
     {
+      "id": 113,
       "era_name": "The Risorgimento",
       "sort_year": 1805,
       "display_date": "1805",
@@ -1791,6 +1905,7 @@
       "is_major": false
     },
     {
+      "id": 114,
       "era_name": "The Risorgimento",
       "sort_year": 1815,
       "display_date": "1815",
@@ -1806,6 +1921,7 @@
       "is_major": false
     },
     {
+      "id": 115,
       "era_name": "The Risorgimento",
       "sort_year": 1820,
       "display_date": "1820-1821",
@@ -1821,6 +1937,7 @@
       "is_major": false
     },
     {
+      "id": 116,
       "era_name": "The Risorgimento",
       "sort_year": 1831,
       "display_date": "1831",
@@ -1835,6 +1952,7 @@
       "is_major": true
     },
     {
+      "id": 117,
       "era_name": "The Risorgimento",
       "sort_year": 1842,
       "display_date": "1842",
@@ -1850,6 +1968,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "The Risorgimento",
       "sort_year": 1848,
       "display_date": "1848",
@@ -1865,6 +1984,7 @@
       "is_major": true
     },
     {
+      "id": 119,
       "era_name": "The Risorgimento",
       "sort_year": 1849,
       "display_date": "1849",
@@ -1880,6 +2000,7 @@
       "is_major": false
     },
     {
+      "id": 120,
       "era_name": "The Risorgimento",
       "sort_year": 1852,
       "display_date": "1852",
@@ -1895,6 +2016,7 @@
       "is_major": false
     },
     {
+      "id": 121,
       "era_name": "The Risorgimento",
       "sort_year": 1859,
       "display_date": "1859",
@@ -1910,6 +2032,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "The Risorgimento",
       "sort_year": 1860,
       "display_date": "May 1860",
@@ -1925,6 +2048,7 @@
       "is_major": true
     },
     {
+      "id": 123,
       "era_name": "The Risorgimento",
       "sort_year": 1861,
       "display_date": "17 March 1861",
@@ -1939,6 +2063,7 @@
       "is_major": true
     },
     {
+      "id": 124,
       "era_name": "The Risorgimento",
       "sort_year": 1861.5,
       "display_date": "1861-1865",
@@ -1954,6 +2079,7 @@
       "is_major": false
     },
     {
+      "id": 125,
       "era_name": "The Risorgimento",
       "sort_year": 1866,
       "display_date": "1866",
@@ -1969,6 +2095,7 @@
       "is_major": false
     },
     {
+      "id": 126,
       "era_name": "The Risorgimento",
       "sort_year": 1870,
       "display_date": "20 September 1870",
@@ -1984,6 +2111,7 @@
       "is_major": true
     },
     {
+      "id": 127,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1871,
       "display_date": "1871",
@@ -1999,6 +2127,7 @@
       "is_major": false
     },
     {
+      "id": 128,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1876,
       "display_date": "1876-1915",
@@ -2014,6 +2143,7 @@
       "is_major": true
     },
     {
+      "id": 129,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1882,
       "display_date": "1882",
@@ -2028,6 +2158,7 @@
       "is_major": false
     },
     {
+      "id": 130,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1896,
       "display_date": "1 March 1896",
@@ -2043,6 +2174,7 @@
       "is_major": true
     },
     {
+      "id": 131,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1900,
       "display_date": "29 July 1900",
@@ -2057,6 +2189,7 @@
       "is_major": false
     },
     {
+      "id": 132,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1911,
       "display_date": "1911",
@@ -2072,6 +2205,7 @@
       "is_major": false
     },
     {
+      "id": 133,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1915,
       "display_date": "May 1915",
@@ -2087,6 +2221,7 @@
       "is_major": true
     },
     {
+      "id": 134,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1917,
       "display_date": "October 1917",
@@ -2101,6 +2236,7 @@
       "is_major": false
     },
     {
+      "id": 135,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1918,
       "display_date": "November 1918",
@@ -2115,6 +2251,7 @@
       "is_major": false
     },
     {
+      "id": 136,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1919,
       "display_date": "1919",
@@ -2130,6 +2267,7 @@
       "is_major": false
     },
     {
+      "id": 137,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1921,
       "display_date": "1921",
@@ -2145,6 +2283,7 @@
       "is_major": false
     },
     {
+      "id": 138,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1922,
       "display_date": "28 October 1922",
@@ -2160,6 +2299,7 @@
       "is_major": true
     },
     {
+      "id": 139,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1924,
       "display_date": "10 June 1924",
@@ -2174,6 +2314,7 @@
       "is_major": false
     },
     {
+      "id": 140,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1929,
       "display_date": "11 February 1929",
@@ -2189,6 +2330,7 @@
       "is_major": true
     },
     {
+      "id": 141,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1935,
       "display_date": "October 1935",
@@ -2204,6 +2346,7 @@
       "is_major": true
     },
     {
+      "id": 142,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1938,
       "display_date": "1938",
@@ -2219,6 +2362,7 @@
       "is_major": true
     },
     {
+      "id": 143,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1940,
       "display_date": "10 June 1940",
@@ -2233,6 +2377,7 @@
       "is_major": true
     },
     {
+      "id": 144,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1943,
       "display_date": "10 July 1943",
@@ -2248,6 +2393,7 @@
       "is_major": true
     },
     {
+      "id": 145,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1943.7,
       "display_date": "8 September 1943",
@@ -2263,6 +2409,7 @@
       "is_major": true
     },
     {
+      "id": 146,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1944,
       "display_date": "1944",
@@ -2277,6 +2424,7 @@
       "is_major": false
     },
     {
+      "id": 147,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1944.5,
       "display_date": "1943-1945",
@@ -2292,6 +2440,7 @@
       "is_major": true
     },
     {
+      "id": 148,
       "era_name": "Kingdom and Fascism",
       "sort_year": 1945,
       "display_date": "28 April 1945",
@@ -2307,6 +2456,7 @@
       "is_major": true
     },
     {
+      "id": 149,
       "era_name": "The Italian Republic",
       "sort_year": 1946,
       "display_date": "2 June 1946",
@@ -2322,6 +2472,7 @@
       "is_major": true
     },
     {
+      "id": 150,
       "era_name": "The Italian Republic",
       "sort_year": 1948,
       "display_date": "1 January 1948",
@@ -2336,6 +2487,7 @@
       "is_major": true
     },
     {
+      "id": 151,
       "era_name": "The Italian Republic",
       "sort_year": 1951,
       "display_date": "1951",
@@ -2351,6 +2503,7 @@
       "is_major": false
     },
     {
+      "id": 152,
       "era_name": "The Italian Republic",
       "sort_year": 1957,
       "display_date": "25 March 1957",
@@ -2366,6 +2519,7 @@
       "is_major": true
     },
     {
+      "id": 153,
       "era_name": "The Italian Republic",
       "sort_year": 1958,
       "display_date": "1958-1963",
@@ -2381,6 +2535,7 @@
       "is_major": true
     },
     {
+      "id": 154,
       "era_name": "The Italian Republic",
       "sort_year": 1960,
       "display_date": "1960",
@@ -2396,6 +2551,7 @@
       "is_major": false
     },
     {
+      "id": 155,
       "era_name": "The Italian Republic",
       "sort_year": 1963,
       "display_date": "1963",
@@ -2411,6 +2567,7 @@
       "is_major": false
     },
     {
+      "id": 156,
       "era_name": "The Italian Republic",
       "sort_year": 1968,
       "display_date": "1968",
@@ -2426,6 +2583,7 @@
       "is_major": false
     },
     {
+      "id": 157,
       "era_name": "The Italian Republic",
       "sort_year": 1969,
       "display_date": "12 December 1969",
@@ -2441,6 +2599,7 @@
       "is_major": true
     },
     {
+      "id": 158,
       "era_name": "The Italian Republic",
       "sort_year": 1970,
       "display_date": "1970",
@@ -2456,6 +2615,7 @@
       "is_major": false
     },
     {
+      "id": 159,
       "era_name": "The Italian Republic",
       "sort_year": 1978,
       "display_date": "May 1978",
@@ -2470,6 +2630,7 @@
       "is_major": true
     },
     {
+      "id": 160,
       "era_name": "The Italian Republic",
       "sort_year": 1980,
       "display_date": "2 August 1980",
@@ -2485,6 +2646,7 @@
       "is_major": false
     },
     {
+      "id": 161,
       "era_name": "The Italian Republic",
       "sort_year": 1986,
       "display_date": "1986-1987",
@@ -2500,6 +2662,7 @@
       "is_major": false
     },
     {
+      "id": 162,
       "era_name": "The Italian Republic",
       "sort_year": 1992,
       "display_date": "1992",
@@ -2515,6 +2678,7 @@
       "is_major": true
     },
     {
+      "id": 163,
       "era_name": "The Italian Republic",
       "sort_year": 1992.5,
       "display_date": "1992-1994",
@@ -2530,6 +2694,7 @@
       "is_major": true
     },
     {
+      "id": 164,
       "era_name": "The Italian Republic",
       "sort_year": 1994,
       "display_date": "1994",
@@ -2544,6 +2709,7 @@
       "is_major": true
     },
     {
+      "id": 165,
       "era_name": "The Italian Republic",
       "sort_year": 1999,
       "display_date": "1999",
@@ -2559,6 +2725,7 @@
       "is_major": false
     },
     {
+      "id": 166,
       "era_name": "The Italian Republic",
       "sort_year": 2011,
       "display_date": "November 2011",
@@ -2574,6 +2741,7 @@
       "is_major": false
     },
     {
+      "id": 167,
       "era_name": "The Italian Republic",
       "sort_year": 2016,
       "display_date": "2016",
@@ -2588,6 +2756,7 @@
       "is_major": false
     },
     {
+      "id": 168,
       "era_name": "The Italian Republic",
       "sort_year": 2020,
       "display_date": "February 2020",
@@ -2602,6 +2771,7 @@
       "is_major": true
     },
     {
+      "id": 169,
       "era_name": "The Italian Republic",
       "sort_year": 2022,
       "display_date": "October 2022",

@@ -26,7 +26,7 @@ REQUIRED_ERA = {
     "name", "short_name", "sort_order", "year_start",
     "year_end", "date_label", "width_pct", "color",
 }
-REQUIRED_EVENT = {"era_name", "sort_year", "display_date", "title"}
+REQUIRED_EVENT = {"id", "era_name", "sort_year", "display_date", "title"}
 
 # The palette has exactly ten colours and the legend is laid out for ten. An
 # eleventh era silently reuses a colour; nine looks unfinished beside the others.
@@ -130,6 +130,18 @@ def validate(data: dict, label: str) -> tuple[list[str], list[str]]:
         err("duplicate era names")
 
     # --- events ---
+    # The id is PERMANENT and lives in the data. It used to be the array index,
+    # which meant moving or inserting one event silently renumbered every later
+    # event and broke their /country/#event-N deep links. Never renumber; a new
+    # event takes max(existing) + 1 wherever it sits in the order.
+    ids = [ev.get("id") for ev in events if "id" in ev]
+    for i, ev in zip(ids, [e for e in events if "id" in e]):
+        if not isinstance(i, int) or isinstance(i, bool) or i < 0:
+            err(f"event {ev.get('title', '?')!r} has a non-integer or negative id {i!r}")
+    dupe_ids = {i for i in ids if ids.count(i) > 1}
+    if dupe_ids:
+        err(f"duplicate event ids: {sorted(dupe_ids)}")
+
     seen_titles = set()
     for i, ev in enumerate(events):
         where = f"event[{i}] {ev.get('title', '?')!r}"

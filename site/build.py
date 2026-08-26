@@ -189,8 +189,8 @@ def build_segments(eras: list[dict], events: list[dict]) -> list[dict]:
     """Group events into era swimlanes with pre-computed dot positions."""
     era_names = [e["name"] for e in eras]
     by_era: dict[str, list[dict]] = {}
-    for i, ev in enumerate(events):
-        by_era.setdefault(match_era(ev["era_name"], era_names), []).append({**ev, "id": i})
+    for ev in events:
+        by_era.setdefault(match_era(ev["era_name"], era_names), []).append(dict(ev))
 
     segments = []
     for era in eras:
@@ -231,9 +231,14 @@ def build_country(
     data = json.loads(path.read_text(encoding="utf-8"))
     country, eras, events = data["country"], data["eras"], data["events"]
 
-    # Stable ids by index, matching the order the list and map both use.
-    for i, ev in enumerate(events):
-        ev["id"] = i
+    # The id is stored in the data and is PERMANENT. It used to be the array
+    # index, which meant moving or inserting an event silently renumbered every
+    # later one and broke their /country/#event-N links. validate.py requires it.
+    ids = [ev.get("id") for ev in events]
+    if any(i is None for i in ids):
+        sys.exit(f"{path.name}: every event needs an explicit id - see countries/README.md")
+    if len(set(ids)) != len(ids):
+        sys.exit(f"{path.name}: duplicate event ids")
 
     era_colors = {e["name"]: e.get("color", "#666666") for e in eras}
     era_shorts = {e["name"]: e.get("short_name", e["name"]) for e in eras}

@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -450000,
       "display_date": "450,000-190,000 years ago",
@@ -121,6 +122,7 @@
       "is_major": true
     },
     {
+      "id": 1,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -20000,
       "display_date": "~20,000-30,000 years ago",
@@ -133,6 +135,7 @@
       "is_major": true
     },
     {
+      "id": 2,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -15000,
       "display_date": "~15,000-5,000 years ago",
@@ -144,6 +147,7 @@
       "is_major": false
     },
     {
+      "id": 3,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -11000,
       "display_date": "~11,000 years ago",
@@ -157,6 +161,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -10000,
       "display_date": "~10,000 years ago",
@@ -168,6 +173,7 @@
       "is_major": false
     },
     {
+      "id": 5,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -8000,
       "display_date": "~8,000 years ago",
@@ -180,6 +186,7 @@
       "is_major": true
     },
     {
+      "id": 6,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -3000,
       "display_date": "~3,000 BC",
@@ -197,6 +204,7 @@
       "is_major": true
     },
     {
+      "id": 7,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": -3000,
       "display_date": "Post-3,000 BC",
@@ -212,6 +220,7 @@
       "is_major": true
     },
     {
+      "id": 8,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 230,
       "display_date": "230 AD",
@@ -225,6 +234,7 @@
       "is_major": false
     },
     {
+      "id": 9,
       "era_name": "Prehistory & Early Settlement",
       "sort_year": 400,
       "display_date": "~400 AD",
@@ -236,6 +246,19 @@
       "is_major": false
     },
     {
+      "id": 19,
+      "era_name": "Chinese Contact & Early Settlement",
+      "sort_year": 610,
+      "display_date": "c. 610",
+      "title": "Sui expeditions to Liuqiu",
+      "description": "Emperor Yang of the Sui sends three expeditions to a place the records call Liuqiu, which may be Taiwan or may be the Ryukyus. Nobody has settled which.",
+      "categories": [],
+      "lat": 22.342,
+      "lng": 120.3714,
+      "is_major": false
+    },
+    {
+      "id": 10,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1171,
       "display_date": "1171",
@@ -251,6 +274,7 @@
       "is_major": true
     },
     {
+      "id": 11,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1292,
       "display_date": "1292",
@@ -264,6 +288,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1349,
       "display_date": "1349",
@@ -278,6 +303,7 @@
       "is_major": true
     },
     {
+      "id": 13,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1400,
       "display_date": "Early 1400s",
@@ -291,6 +317,7 @@
       "is_major": false
     },
     {
+      "id": 14,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1500,
       "display_date": "1500s",
@@ -306,6 +333,7 @@
       "is_major": true
     },
     {
+      "id": 15,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1508,
       "display_date": "Late 1500s",
@@ -319,6 +347,7 @@
       "is_major": false
     },
     {
+      "id": 16,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1542,
       "display_date": "1542",
@@ -333,6 +362,7 @@
       "is_major": true
     },
     {
+      "id": 17,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1582,
       "display_date": "1582",
@@ -347,6 +377,7 @@
       "is_major": false
     },
     {
+      "id": 18,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1603,
       "display_date": "1603",
@@ -361,17 +392,7 @@
       "is_major": false
     },
     {
-      "era_name": "Chinese Contact & Early Settlement",
-      "sort_year": 1620.0,
-      "display_date": "c. 610",
-      "title": "Sui expeditions to Liuqiu",
-      "description": "Emperor Yang of the Sui sends three expeditions to a place the records call Liuqiu, which may be Taiwan or may be the Ryukyus. Nobody has settled which.",
-      "categories": [],
-      "lat": 22.342,
-      "lng": 120.3714,
-      "is_major": false
-    },
-    {
+      "id": 20,
       "era_name": "Chinese Contact & Early Settlement",
       "sort_year": 1623,
       "display_date": "By 1623",
@@ -387,6 +408,7 @@
       "is_major": false
     },
     {
+      "id": 21,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1624,
       "display_date": "1624",
@@ -401,6 +423,7 @@
       "is_major": true
     },
     {
+      "id": 22,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1624,
       "display_date": "1624-25",
@@ -414,6 +437,7 @@
       "is_major": false
     },
     {
+      "id": 23,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1625,
       "display_date": "1625",
@@ -429,6 +453,7 @@
       "is_major": false
     },
     {
+      "id": 24,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1626,
       "display_date": "1626",
@@ -443,6 +468,7 @@
       "is_major": true
     },
     {
+      "id": 25,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1629,
       "display_date": "1629",
@@ -458,6 +484,7 @@
       "is_major": false
     },
     {
+      "id": 26,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1633,
       "display_date": "1633",
@@ -474,6 +501,7 @@
       "is_major": true
     },
     {
+      "id": 27,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1635,
       "display_date": "1635-36",
@@ -490,6 +518,7 @@
       "is_major": false
     },
     {
+      "id": 28,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1636,
       "display_date": "1636",
@@ -503,6 +532,7 @@
       "is_major": false
     },
     {
+      "id": 29,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1638,
       "display_date": "1638",
@@ -517,6 +547,7 @@
       "is_major": true
     },
     {
+      "id": 30,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1638,
       "display_date": "Late 1630s",
@@ -531,6 +562,7 @@
       "is_major": true
     },
     {
+      "id": 31,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1642,
       "display_date": "1642",
@@ -545,6 +577,7 @@
       "is_major": false
     },
     {
+      "id": 32,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1646,
       "display_date": "1646",
@@ -558,6 +591,7 @@
       "is_major": false
     },
     {
+      "id": 33,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1646,
       "display_date": "1646-59",
@@ -571,6 +605,7 @@
       "is_major": false
     },
     {
+      "id": 34,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1650,
       "display_date": "1650",
@@ -585,6 +620,7 @@
       "is_major": false
     },
     {
+      "id": 35,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1652,
       "display_date": "1652",
@@ -601,6 +637,7 @@
       "is_major": true
     },
     {
+      "id": 36,
       "era_name": "Dutch & Spanish Colonial Period",
       "sort_year": 1652,
       "display_date": "c. 1652",
@@ -617,6 +654,7 @@
       "is_major": false
     },
     {
+      "id": 37,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1659,
       "display_date": "1659",
@@ -630,6 +668,7 @@
       "is_major": false
     },
     {
+      "id": 38,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1661.25,
       "display_date": "April 1661",
@@ -644,6 +683,7 @@
       "is_major": true
     },
     {
+      "id": 39,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1661.3333333333333,
       "display_date": "May 1661",
@@ -658,6 +698,7 @@
       "is_major": false
     },
     {
+      "id": 40,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1662,
       "display_date": "c. 1662",
@@ -669,6 +710,7 @@
       "is_major": false
     },
     {
+      "id": 41,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1662,
       "display_date": "1662-81",
@@ -685,6 +727,7 @@
       "is_major": false
     },
     {
+      "id": 42,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1662.0833333333333,
       "display_date": "February 1662",
@@ -700,6 +743,7 @@
       "is_major": true
     },
     {
+      "id": 43,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1662.4166666666667,
       "display_date": "June 1662",
@@ -712,6 +756,7 @@
       "is_major": true
     },
     {
+      "id": 44,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1674,
       "display_date": "1674-80",
@@ -725,6 +770,7 @@
       "is_major": false
     },
     {
+      "id": 45,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1681,
       "display_date": "1681",
@@ -738,6 +784,7 @@
       "is_major": false
     },
     {
+      "id": 46,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1683,
       "display_date": "c. 1683",
@@ -753,6 +800,7 @@
       "is_major": false
     },
     {
+      "id": 47,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1683.0,
       "display_date": "Over 200 years of Qing rule",
@@ -767,6 +815,7 @@
       "is_major": false
     },
     {
+      "id": 48,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1683,
       "display_date": "c. 1683",
@@ -781,6 +830,7 @@
       "is_major": false
     },
     {
+      "id": 49,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1683.5,
       "display_date": "July 1683",
@@ -795,6 +845,7 @@
       "is_major": true
     },
     {
+      "id": 50,
       "era_name": "Koxinga & the Kingdom of Tungning",
       "sort_year": 1683.75,
       "display_date": "October 1683",
@@ -807,6 +858,7 @@
       "is_major": true
     },
     {
+      "id": 51,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1684,
       "display_date": "1684",
@@ -819,6 +871,7 @@
       "is_major": true
     },
     {
+      "id": 52,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1684,
       "display_date": "c. 1684",
@@ -830,6 +883,7 @@
       "is_major": false
     },
     {
+      "id": 53,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1684,
       "display_date": "c. 1684",
@@ -844,6 +898,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1721,
       "display_date": "1721",
@@ -859,6 +914,7 @@
       "is_major": true
     },
     {
+      "id": 55,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1722,
       "display_date": "1722",
@@ -873,6 +929,7 @@
       "is_major": true
     },
     {
+      "id": 56,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1786,
       "display_date": "1786-88",
@@ -887,6 +944,7 @@
       "is_major": true
     },
     {
+      "id": 57,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1840,
       "display_date": "1840s",
@@ -901,6 +959,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1867,
       "display_date": "1867",
@@ -916,6 +975,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1871,
       "display_date": "1871",
@@ -930,6 +990,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1874,
       "display_date": "1874",
@@ -946,6 +1007,7 @@
       "is_major": true
     },
     {
+      "id": 61,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1875,
       "display_date": "1875",
@@ -960,6 +1022,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1884,
       "display_date": "1884-85",
@@ -975,6 +1038,7 @@
       "is_major": true
     },
     {
+      "id": 63,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1885,
       "display_date": "1885",
@@ -991,6 +1055,7 @@
       "is_major": true
     },
     {
+      "id": 64,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1885,
       "display_date": "1885-91",
@@ -1006,6 +1071,7 @@
       "is_major": false
     },
     {
+      "id": 65,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1885,
       "display_date": "c. 1885",
@@ -1021,6 +1087,7 @@
       "is_major": false
     },
     {
+      "id": 66,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1891,
       "display_date": "1891",
@@ -1034,6 +1101,7 @@
       "is_major": false
     },
     {
+      "id": 67,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "23 May 1895",
@@ -1049,6 +1117,7 @@
       "is_major": true
     },
     {
+      "id": 68,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "25 May 1895",
@@ -1063,6 +1132,7 @@
       "is_major": false
     },
     {
+      "id": 69,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "29 May 1895",
@@ -1076,6 +1146,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "3 June 1895",
@@ -1089,6 +1160,7 @@
       "is_major": false
     },
     {
+      "id": 71,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "5 June 1895",
@@ -1102,6 +1174,7 @@
       "is_major": false
     },
     {
+      "id": 72,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "June 1895",
@@ -1113,6 +1186,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "7 June 1895",
@@ -1128,6 +1202,7 @@
       "is_major": false
     },
     {
+      "id": 74,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "September 1895",
@@ -1141,6 +1216,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "21 October 1895",
@@ -1155,6 +1231,7 @@
       "is_major": false
     },
     {
+      "id": 76,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "c. 1895",
@@ -1170,6 +1247,7 @@
       "is_major": true
     },
     {
+      "id": 77,
       "era_name": "Republic of Formosa",
       "sort_year": 1895,
       "display_date": "c. 1895",
@@ -1183,6 +1261,7 @@
       "is_major": false
     },
     {
+      "id": 78,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1895,
       "display_date": "1895-1902",
@@ -1197,6 +1276,7 @@
       "is_major": true
     },
     {
+      "id": 79,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1895,
       "display_date": "1895-1920",
@@ -1211,6 +1291,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Qing Dynasty Rule",
       "sort_year": 1895.25,
       "display_date": "April 1895",
@@ -1227,6 +1308,7 @@
       "is_major": true
     },
     {
+      "id": 81,
       "era_name": "Republic of Formosa",
       "sort_year": 1895.3333333333333,
       "display_date": "May 16, 1895",
@@ -1240,6 +1322,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1896.4166666666667,
       "display_date": "June 1896",
@@ -1254,6 +1337,7 @@
       "is_major": true
     },
     {
+      "id": 83,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1898,
       "display_date": "1898",
@@ -1268,6 +1352,7 @@
       "is_major": true
     },
     {
+      "id": 84,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1898,
       "display_date": "c. 1898",
@@ -1283,6 +1368,7 @@
       "is_major": false
     },
     {
+      "id": 85,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1898,
       "display_date": "c. 1898",
@@ -1298,6 +1384,7 @@
       "is_major": false
     },
     {
+      "id": 86,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1898,
       "display_date": "c. 1898",
@@ -1309,6 +1396,7 @@
       "is_major": false
     },
     {
+      "id": 87,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1898,
       "display_date": "c. 1898",
@@ -1322,6 +1410,7 @@
       "is_major": false
     },
     {
+      "id": 88,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1903,
       "display_date": "1903",
@@ -1337,6 +1426,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1907,
       "display_date": "1907",
@@ -1353,6 +1443,7 @@
       "is_major": true
     },
     {
+      "id": 90,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1911,
       "display_date": "1911",
@@ -1368,6 +1459,7 @@
       "is_major": false
     },
     {
+      "id": 91,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1913,
       "display_date": "1913",
@@ -1382,6 +1474,7 @@
       "is_major": false
     },
     {
+      "id": 92,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1915,
       "display_date": "1915",
@@ -1397,6 +1490,7 @@
       "is_major": true
     },
     {
+      "id": 93,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1919,
       "display_date": "1919-34",
@@ -1410,6 +1504,7 @@
       "is_major": false
     },
     {
+      "id": 94,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1920,
       "display_date": "1920",
@@ -1422,6 +1517,7 @@
       "is_major": true
     },
     {
+      "id": 95,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1921,
       "display_date": "1921",
@@ -1437,6 +1533,7 @@
       "is_major": true
     },
     {
+      "id": 96,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1923,
       "display_date": "1923",
@@ -1450,6 +1547,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1927,
       "display_date": "1927",
@@ -1463,6 +1561,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1930,
       "display_date": "1930",
@@ -1480,6 +1579,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1930,
       "display_date": "c. 1930",
@@ -1494,6 +1594,7 @@
       "is_major": false
     },
     {
+      "id": 100,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1931,
       "display_date": "1931",
@@ -1507,6 +1608,7 @@
       "is_major": false
     },
     {
+      "id": 101,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1937,
       "display_date": "1937",
@@ -1523,6 +1625,7 @@
       "is_major": true
     },
     {
+      "id": 102,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1937,
       "display_date": "1937-45",
@@ -1537,6 +1640,7 @@
       "is_major": false
     },
     {
+      "id": 103,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1937,
       "display_date": "c. 1937",
@@ -1550,6 +1654,7 @@
       "is_major": false
     },
     {
+      "id": 104,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1940,
       "display_date": "1940",
@@ -1564,6 +1669,7 @@
       "is_major": false
     },
     {
+      "id": 105,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1940,
       "display_date": "c. 1940",
@@ -1580,6 +1686,7 @@
       "is_major": false
     },
     {
+      "id": 106,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1942,
       "display_date": "1942",
@@ -1594,6 +1701,7 @@
       "is_major": false
     },
     {
+      "id": 107,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1942,
       "display_date": "c. 1942",
@@ -1608,6 +1716,7 @@
       "is_major": false
     },
     {
+      "id": 108,
       "era_name": "Japanese Colonial Rule",
       "sort_year": 1944,
       "display_date": "Late 1944",
@@ -1624,6 +1733,7 @@
       "is_major": true
     },
     {
+      "id": 109,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1945,
       "display_date": "c. 1945",
@@ -1640,6 +1750,7 @@
       "is_major": false
     },
     {
+      "id": 110,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1945,
       "display_date": "c. 1945",
@@ -1653,6 +1764,7 @@
       "is_major": false
     },
     {
+      "id": 111,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1945,
       "display_date": "c. 1945",
@@ -1666,6 +1778,7 @@
       "is_major": false
     },
     {
+      "id": 112,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1945.5833333333333,
       "display_date": "August 15, 1945",
@@ -1680,6 +1793,7 @@
       "is_major": true
     },
     {
+      "id": 113,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1945.75,
       "display_date": "October 25, 1945",
@@ -1695,6 +1809,7 @@
       "is_major": true
     },
     {
+      "id": 114,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947,
       "display_date": "28 February 1947",
@@ -1710,6 +1825,7 @@
       "is_major": true
     },
     {
+      "id": 115,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947,
       "display_date": "1-7 March 1947",
@@ -1725,6 +1841,7 @@
       "is_major": false
     },
     {
+      "id": 116,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947,
       "display_date": "8 March 1947",
@@ -1738,6 +1855,7 @@
       "is_major": false
     },
     {
+      "id": 117,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947,
       "display_date": "March 1947",
@@ -1753,6 +1871,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947,
       "display_date": "c. 1947",
@@ -1767,6 +1886,7 @@
       "is_major": false
     },
     {
+      "id": 119,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1947.0833333333333,
       "display_date": "February 27, 1947",
@@ -1781,6 +1901,7 @@
       "is_major": true
     },
     {
+      "id": 120,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949,
       "display_date": "1949",
@@ -1797,6 +1918,7 @@
       "is_major": true
     },
     {
+      "id": 121,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949,
       "display_date": "c. 1949",
@@ -1810,6 +1932,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949,
       "display_date": "c. 1949",
@@ -1823,6 +1946,7 @@
       "is_major": false
     },
     {
+      "id": 123,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949,
       "display_date": "c. 1949",
@@ -1837,6 +1961,7 @@
       "is_major": false
     },
     {
+      "id": 124,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949,
       "display_date": "1949-53",
@@ -1852,6 +1977,7 @@
       "is_major": false
     },
     {
+      "id": 125,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1949.9166666666667,
       "display_date": "December 1949",
@@ -1867,6 +1993,7 @@
       "is_major": true
     },
     {
+      "id": 126,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1950,
       "display_date": "1950-65",
@@ -1883,6 +2010,7 @@
       "is_major": false
     },
     {
+      "id": 127,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1950.0,
       "display_date": "January 1950",
@@ -1899,6 +2027,7 @@
       "is_major": true
     },
     {
+      "id": 128,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1950.4166666666667,
       "display_date": "June 25, 1950",
@@ -1914,6 +2043,7 @@
       "is_major": true
     },
     {
+      "id": 129,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1951,
       "display_date": "1951",
@@ -1929,6 +2059,7 @@
       "is_major": true
     },
     {
+      "id": 130,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1953,
       "display_date": "1953",
@@ -1942,6 +2073,7 @@
       "is_major": false
     },
     {
+      "id": 131,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1954,
       "display_date": "1954",
@@ -1957,6 +2089,7 @@
       "is_major": true
     },
     {
+      "id": 132,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1958,
       "display_date": "1958",
@@ -1972,6 +2105,7 @@
       "is_major": true
     },
     {
+      "id": 133,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1960,
       "display_date": "1960s-70s",
@@ -1985,6 +2119,7 @@
       "is_major": false
     },
     {
+      "id": 134,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1960,
       "display_date": "1960s",
@@ -2000,6 +2135,7 @@
       "is_major": false
     },
     {
+      "id": 135,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1963,
       "display_date": "1963",
@@ -2014,6 +2150,7 @@
       "is_major": false
     },
     {
+      "id": 136,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1963,
       "display_date": "c. 1963",
@@ -2028,6 +2165,7 @@
       "is_major": false
     },
     {
+      "id": 137,
       "era_name": "Return of Chinese Rule & the White Terror",
       "sort_year": 1969,
       "display_date": "1969",
@@ -2042,6 +2180,7 @@
       "is_major": false
     },
     {
+      "id": 138,
       "era_name": "Democratisation",
       "sort_year": 1971,
       "display_date": "1971",
@@ -2055,6 +2194,7 @@
       "is_major": false
     },
     {
+      "id": 139,
       "era_name": "Democratisation",
       "sort_year": 1972,
       "display_date": "1972",
@@ -2069,6 +2209,7 @@
       "is_major": true
     },
     {
+      "id": 140,
       "era_name": "Democratisation",
       "sort_year": 1975,
       "display_date": "c. 1975",
@@ -2083,6 +2224,7 @@
       "is_major": false
     },
     {
+      "id": 141,
       "era_name": "Democratisation",
       "sort_year": 1975.25,
       "display_date": "April 1975",
@@ -2097,6 +2239,7 @@
       "is_major": true
     },
     {
+      "id": 142,
       "era_name": "Democratisation",
       "sort_year": 1979,
       "display_date": "1979",
@@ -2112,6 +2255,7 @@
       "is_major": true
     },
     {
+      "id": 143,
       "era_name": "Democratisation",
       "sort_year": 1979,
       "display_date": "1979",
@@ -2127,6 +2271,7 @@
       "is_major": true
     },
     {
+      "id": 144,
       "era_name": "Democratisation",
       "sort_year": 1986,
       "display_date": "1986",
@@ -2141,6 +2286,7 @@
       "is_major": true
     },
     {
+      "id": 145,
       "era_name": "Democratisation",
       "sort_year": 1987,
       "display_date": "1987",
@@ -2155,6 +2301,7 @@
       "is_major": true
     },
     {
+      "id": 146,
       "era_name": "Democratisation",
       "sort_year": 1988,
       "display_date": "1988",
@@ -2170,6 +2317,7 @@
       "is_major": true
     },
     {
+      "id": 147,
       "era_name": "Democratisation",
       "sort_year": 1996,
       "display_date": "1996",
@@ -2186,6 +2334,7 @@
       "is_major": true
     },
     {
+      "id": 148,
       "era_name": "Democratisation",
       "sort_year": 2000,
       "display_date": "c. 2000",
@@ -2201,6 +2350,7 @@
       "is_major": false
     },
     {
+      "id": 149,
       "era_name": "Democratisation",
       "sort_year": 2000,
       "display_date": "c. 2000",
@@ -2215,6 +2365,7 @@
       "is_major": false
     },
     {
+      "id": 150,
       "era_name": "Democratisation",
       "sort_year": 2000.1666666666667,
       "display_date": "March 2000",
@@ -2230,6 +2381,7 @@
       "is_major": true
     },
     {
+      "id": 151,
       "era_name": "Modern Taiwan",
       "sort_year": 2001,
       "display_date": "2001",
@@ -2243,6 +2395,7 @@
       "is_major": false
     },
     {
+      "id": 152,
       "era_name": "Modern Taiwan",
       "sort_year": 2001.25,
       "display_date": "April 2001",
@@ -2256,6 +2409,7 @@
       "is_major": false
     },
     {
+      "id": 153,
       "era_name": "Modern Taiwan",
       "sort_year": 2001.6666666666667,
       "display_date": "September 2001",
@@ -2270,6 +2424,7 @@
       "is_major": false
     },
     {
+      "id": 154,
       "era_name": "Modern Taiwan",
       "sort_year": 2004,
       "display_date": "2004",
@@ -2285,6 +2440,7 @@
       "is_major": true
     },
     {
+      "id": 155,
       "era_name": "Modern Taiwan",
       "sort_year": 2005,
       "display_date": "2005",
@@ -2298,6 +2454,7 @@
       "is_major": false
     },
     {
+      "id": 156,
       "era_name": "Modern Taiwan",
       "sort_year": 2008,
       "display_date": "2008",
@@ -2311,6 +2468,7 @@
       "is_major": false
     },
     {
+      "id": 157,
       "era_name": "Modern Taiwan",
       "sort_year": 2012,
       "display_date": "2012",
@@ -2324,6 +2482,7 @@
       "is_major": false
     },
     {
+      "id": 158,
       "era_name": "Modern Taiwan",
       "sort_year": 2014,
       "display_date": "2014",
@@ -2340,6 +2499,7 @@
       "is_major": true
     },
     {
+      "id": 159,
       "era_name": "Modern Taiwan",
       "sort_year": 2016.0,
       "display_date": "January 2016",
@@ -2354,6 +2514,7 @@
       "is_major": true
     },
     {
+      "id": 160,
       "era_name": "Modern Taiwan",
       "sort_year": 2018,
       "display_date": "2018",
@@ -2367,6 +2528,7 @@
       "is_major": false
     },
     {
+      "id": 161,
       "era_name": "Modern Taiwan",
       "sort_year": 2019.3333333333333,
       "display_date": "May 2019",
@@ -2381,6 +2543,7 @@
       "is_major": true
     },
     {
+      "id": 162,
       "era_name": "Modern Taiwan",
       "sort_year": 2020.0,
       "display_date": "January 2020",
@@ -2394,6 +2557,7 @@
       "is_major": false
     },
     {
+      "id": 163,
       "era_name": "Modern Taiwan",
       "sort_year": 2022.0833333333333,
       "display_date": "February 2022",
@@ -2409,6 +2573,7 @@
       "is_major": true
     },
     {
+      "id": 164,
       "era_name": "Modern Taiwan",
       "sort_year": 2022.5833333333333,
       "display_date": "August 2022",
@@ -2424,6 +2589,7 @@
       "is_major": true
     },
     {
+      "id": 165,
       "era_name": "Modern Taiwan",
       "sort_year": 2024.0,
       "display_date": "January 2024",

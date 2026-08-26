@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -3200,
       "display_date": "c. 3200 BCE",
@@ -122,6 +123,7 @@
       "is_major": false
     },
     {
+      "id": 1,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -2600,
       "display_date": "c. 2600 BCE",
@@ -137,6 +139,7 @@
       "is_major": true
     },
     {
+      "id": 2,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1900,
       "display_date": "c. 1900 BCE",
@@ -151,6 +154,7 @@
       "is_major": false
     },
     {
+      "id": 3,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1750,
       "display_date": "c. 1750 BCE",
@@ -165,6 +169,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1628,
       "display_date": "c. 1628 BCE",
@@ -179,6 +184,7 @@
       "is_major": true
     },
     {
+      "id": 5,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1450,
       "display_date": "c. 1450 BCE",
@@ -194,6 +200,7 @@
       "is_major": true
     },
     {
+      "id": 6,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1400,
       "display_date": "c. 1400 BCE",
@@ -208,6 +215,7 @@
       "is_major": false
     },
     {
+      "id": 7,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1250,
       "display_date": "c. 1250 BCE",
@@ -222,6 +230,7 @@
       "is_major": false
     },
     {
+      "id": 8,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1200,
       "display_date": "c. 1200 BCE",
@@ -237,6 +246,7 @@
       "is_major": true
     },
     {
+      "id": 9,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1180,
       "display_date": "c. 1180 BCE",
@@ -252,6 +262,7 @@
       "is_major": true
     },
     {
+      "id": 10,
       "era_name": "Minoan and Mycenaean Greece",
       "sort_year": -1150,
       "display_date": "c. 1150 BCE",
@@ -266,6 +277,7 @@
       "is_major": false
     },
     {
+      "id": 11,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -1050,
       "display_date": "c. 1050 BCE",
@@ -280,6 +292,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -950,
       "display_date": "c. 950 BCE",
@@ -294,6 +307,7 @@
       "is_major": false
     },
     {
+      "id": 13,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -800,
       "display_date": "c. 800 BCE",
@@ -308,6 +322,7 @@
       "is_major": true
     },
     {
+      "id": 14,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -776,
       "display_date": "776 BCE",
@@ -323,6 +338,7 @@
       "is_major": true
     },
     {
+      "id": 15,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -750,
       "display_date": "c. 750 BCE",
@@ -337,6 +353,7 @@
       "is_major": true
     },
     {
+      "id": 16,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -740,
       "display_date": "c. 740 BCE",
@@ -352,6 +369,7 @@
       "is_major": false
     },
     {
+      "id": 17,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -650,
       "display_date": "c. 650 BCE",
@@ -365,6 +383,7 @@
       "is_major": false
     },
     {
+      "id": 18,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -621,
       "display_date": "621 BCE",
@@ -379,6 +398,7 @@
       "is_major": false
     },
     {
+      "id": 19,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -594,
       "display_date": "594 BCE",
@@ -395,6 +415,7 @@
       "is_major": true
     },
     {
+      "id": 20,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -546,
       "display_date": "546 BCE",
@@ -409,6 +430,7 @@
       "is_major": false
     },
     {
+      "id": 21,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -508,
       "display_date": "508 BCE",
@@ -423,6 +445,7 @@
       "is_major": true
     },
     {
+      "id": 22,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -499,
       "display_date": "499 BCE",
@@ -437,6 +460,7 @@
       "is_major": false
     },
     {
+      "id": 23,
       "era_name": "Dark Age and Archaic Greece",
       "sort_year": -490,
       "display_date": "490 BCE",
@@ -451,6 +475,7 @@
       "is_major": true
     },
     {
+      "id": 24,
       "era_name": "Classical Greece",
       "sort_year": -480,
       "display_date": "480 BCE",
@@ -465,6 +490,7 @@
       "is_major": true
     },
     {
+      "id": 25,
       "era_name": "Classical Greece",
       "sort_year": -479,
       "display_date": "479 BCE",
@@ -478,6 +504,7 @@
       "is_major": false
     },
     {
+      "id": 26,
       "era_name": "Classical Greece",
       "sort_year": -478,
       "display_date": "478 BCE",
@@ -493,6 +520,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "Classical Greece",
       "sort_year": -462,
       "display_date": "462 BCE",
@@ -506,6 +534,7 @@
       "is_major": false
     },
     {
+      "id": 28,
       "era_name": "Classical Greece",
       "sort_year": -461,
       "display_date": "461 BCE",
@@ -520,6 +549,7 @@
       "is_major": true
     },
     {
+      "id": 29,
       "era_name": "Classical Greece",
       "sort_year": -447,
       "display_date": "447 BCE",
@@ -535,6 +565,7 @@
       "is_major": true
     },
     {
+      "id": 30,
       "era_name": "Classical Greece",
       "sort_year": -441,
       "display_date": "c. 441 BCE",
@@ -548,6 +579,7 @@
       "is_major": false
     },
     {
+      "id": 31,
       "era_name": "Classical Greece",
       "sort_year": -431,
       "display_date": "431 BCE",
@@ -563,6 +595,7 @@
       "is_major": true
     },
     {
+      "id": 32,
       "era_name": "Classical Greece",
       "sort_year": -430,
       "display_date": "430 BCE",
@@ -576,6 +609,7 @@
       "is_major": false
     },
     {
+      "id": 33,
       "era_name": "Classical Greece",
       "sort_year": -415,
       "display_date": "415 BCE",
@@ -589,6 +623,7 @@
       "is_major": false
     },
     {
+      "id": 34,
       "era_name": "Classical Greece",
       "sort_year": -404,
       "display_date": "404 BCE",
@@ -604,6 +639,7 @@
       "is_major": true
     },
     {
+      "id": 35,
       "era_name": "Classical Greece",
       "sort_year": -399,
       "display_date": "399 BCE",
@@ -619,6 +655,7 @@
       "is_major": true
     },
     {
+      "id": 36,
       "era_name": "Classical Greece",
       "sort_year": -387,
       "display_date": "c. 387 BCE",
@@ -634,6 +671,7 @@
       "is_major": true
     },
     {
+      "id": 37,
       "era_name": "Classical Greece",
       "sort_year": -371,
       "display_date": "371 BCE",
@@ -647,6 +685,7 @@
       "is_major": false
     },
     {
+      "id": 38,
       "era_name": "Classical Greece",
       "sort_year": -338,
       "display_date": "338 BCE",
@@ -662,6 +701,7 @@
       "is_major": true
     },
     {
+      "id": 39,
       "era_name": "Classical Greece",
       "sort_year": -335,
       "display_date": "335 BCE",
@@ -676,6 +716,7 @@
       "is_major": false
     },
     {
+      "id": 40,
       "era_name": "Classical Greece",
       "sort_year": -334,
       "display_date": "334 BCE",
@@ -691,6 +732,7 @@
       "is_major": true
     },
     {
+      "id": 41,
       "era_name": "Classical Greece",
       "sort_year": -331.5,
       "display_date": "331 BCE",
@@ -704,6 +746,7 @@
       "is_major": false
     },
     {
+      "id": 42,
       "era_name": "Classical Greece",
       "sort_year": -331,
       "display_date": "331 BCE",
@@ -718,6 +761,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "Classical Greece",
       "sort_year": -326,
       "display_date": "326 BCE",
@@ -732,6 +776,7 @@
       "is_major": false
     },
     {
+      "id": 44,
       "era_name": "Hellenistic Age",
       "sort_year": -323,
       "display_date": "323 BCE",
@@ -747,6 +792,7 @@
       "is_major": true
     },
     {
+      "id": 45,
       "era_name": "Hellenistic Age",
       "sort_year": -306,
       "display_date": "306 BCE",
@@ -761,6 +807,7 @@
       "is_major": true
     },
     {
+      "id": 46,
       "era_name": "Hellenistic Age",
       "sort_year": -300,
       "display_date": "c. 300 BCE",
@@ -775,6 +822,7 @@
       "is_major": false
     },
     {
+      "id": 47,
       "era_name": "Hellenistic Age",
       "sort_year": -295,
       "display_date": "c. 295 BCE",
@@ -790,6 +838,7 @@
       "is_major": true
     },
     {
+      "id": 48,
       "era_name": "Hellenistic Age",
       "sort_year": -250,
       "display_date": "c. 250 BCE",
@@ -803,6 +852,7 @@
       "is_major": false
     },
     {
+      "id": 49,
       "era_name": "Hellenistic Age",
       "sort_year": -240,
       "display_date": "c. 240 BCE",
@@ -816,6 +866,7 @@
       "is_major": false
     },
     {
+      "id": 50,
       "era_name": "Hellenistic Age",
       "sort_year": -197,
       "display_date": "197 BCE",
@@ -830,6 +881,7 @@
       "is_major": false
     },
     {
+      "id": 51,
       "era_name": "Hellenistic Age",
       "sort_year": -168,
       "display_date": "168 BCE",
@@ -844,6 +896,7 @@
       "is_major": false
     },
     {
+      "id": 52,
       "era_name": "Roman Greece",
       "sort_year": -146,
       "display_date": "146 BCE",
@@ -859,6 +912,7 @@
       "is_major": true
     },
     {
+      "id": 53,
       "era_name": "Roman Greece",
       "sort_year": -86,
       "display_date": "86 BCE",
@@ -872,6 +926,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "Roman Greece",
       "sort_year": -31,
       "display_date": "31 BCE",
@@ -887,6 +942,7 @@
       "is_major": true
     },
     {
+      "id": 55,
       "era_name": "Roman Greece",
       "sort_year": -27,
       "display_date": "27 BCE",
@@ -900,6 +956,7 @@
       "is_major": false
     },
     {
+      "id": 56,
       "era_name": "Roman Greece",
       "sort_year": 49,
       "display_date": "c. 49 CE",
@@ -913,6 +970,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "Roman Greece",
       "sort_year": 124,
       "display_date": "124 CE",
@@ -927,6 +985,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "Roman Greece",
       "sort_year": 267,
       "display_date": "267 CE",
@@ -940,6 +999,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "Roman Greece",
       "sort_year": 293,
       "display_date": "c. 293 CE",
@@ -953,6 +1013,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Byzantine Greece",
       "sort_year": 330,
       "display_date": "330 CE",
@@ -968,6 +1029,7 @@
       "is_major": true
     },
     {
+      "id": 61,
       "era_name": "Byzantine Greece",
       "sort_year": 393,
       "display_date": "393 CE",
@@ -982,6 +1044,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "Byzantine Greece",
       "sort_year": 529,
       "display_date": "529 CE",
@@ -997,6 +1060,7 @@
       "is_major": true
     },
     {
+      "id": 63,
       "era_name": "Byzantine Greece",
       "sort_year": 584,
       "display_date": "c. 584 CE",
@@ -1011,6 +1075,7 @@
       "is_major": false
     },
     {
+      "id": 64,
       "era_name": "Byzantine Greece",
       "sort_year": 726,
       "display_date": "726 CE",
@@ -1025,6 +1090,7 @@
       "is_major": false
     },
     {
+      "id": 65,
       "era_name": "Byzantine Greece",
       "sort_year": 805,
       "display_date": "c. 805 CE",
@@ -1039,6 +1105,7 @@
       "is_major": false
     },
     {
+      "id": 66,
       "era_name": "Byzantine Greece",
       "sort_year": 963,
       "display_date": "963 CE",
@@ -1052,6 +1119,7 @@
       "is_major": false
     },
     {
+      "id": 67,
       "era_name": "Byzantine Greece",
       "sort_year": 1018,
       "display_date": "1018 CE",
@@ -1066,6 +1134,7 @@
       "is_major": false
     },
     {
+      "id": 68,
       "era_name": "Byzantine Greece",
       "sort_year": 1054,
       "display_date": "1054 CE",
@@ -1080,6 +1149,7 @@
       "is_major": true
     },
     {
+      "id": 69,
       "era_name": "Byzantine Greece",
       "sort_year": 1071,
       "display_date": "1071 CE",
@@ -1093,6 +1163,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Byzantine Greece",
       "sort_year": 1082,
       "display_date": "1082 CE",
@@ -1107,6 +1178,7 @@
       "is_major": false
     },
     {
+      "id": 71,
       "era_name": "Byzantine Greece",
       "sort_year": 1185,
       "display_date": "1185 CE",
@@ -1120,6 +1192,7 @@
       "is_major": false
     },
     {
+      "id": 72,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1204,
       "display_date": "1204",
@@ -1136,6 +1209,7 @@
       "is_major": true
     },
     {
+      "id": 73,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1205,
       "display_date": "1205",
@@ -1150,6 +1224,7 @@
       "is_major": false
     },
     {
+      "id": 74,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1210,
       "display_date": "1210",
@@ -1164,6 +1239,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1259,
       "display_date": "1259",
@@ -1177,6 +1253,7 @@
       "is_major": false
     },
     {
+      "id": 76,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1261,
       "display_date": "1261",
@@ -1191,6 +1268,7 @@
       "is_major": false
     },
     {
+      "id": 77,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1348,
       "display_date": "1348",
@@ -1204,6 +1282,7 @@
       "is_major": false
     },
     {
+      "id": 78,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1349,
       "display_date": "1349",
@@ -1218,6 +1297,7 @@
       "is_major": false
     },
     {
+      "id": 79,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1387,
       "display_date": "1387",
@@ -1231,6 +1311,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Frankish and Venetian Rule",
       "sort_year": 1449,
       "display_date": "1449",
@@ -1244,6 +1325,7 @@
       "is_major": false
     },
     {
+      "id": 81,
       "era_name": "Ottoman Rule",
       "sort_year": 1453,
       "display_date": "1453",
@@ -1260,6 +1342,7 @@
       "is_major": true
     },
     {
+      "id": 82,
       "era_name": "Ottoman Rule",
       "sort_year": 1460,
       "display_date": "1460",
@@ -1273,6 +1356,7 @@
       "is_major": false
     },
     {
+      "id": 83,
       "era_name": "Ottoman Rule",
       "sort_year": 1500,
       "display_date": "c. 1500",
@@ -1288,6 +1372,7 @@
       "is_major": false
     },
     {
+      "id": 84,
       "era_name": "Ottoman Rule",
       "sort_year": 1571,
       "display_date": "1571",
@@ -1302,6 +1387,7 @@
       "is_major": false
     },
     {
+      "id": 85,
       "era_name": "Ottoman Rule",
       "sort_year": 1600,
       "display_date": "c. 1600",
@@ -1316,6 +1402,7 @@
       "is_major": false
     },
     {
+      "id": 86,
       "era_name": "Ottoman Rule",
       "sort_year": 1669,
       "display_date": "1669",
@@ -1329,6 +1416,7 @@
       "is_major": false
     },
     {
+      "id": 87,
       "era_name": "Ottoman Rule",
       "sort_year": 1687,
       "display_date": "1687",
@@ -1344,6 +1432,7 @@
       "is_major": true
     },
     {
+      "id": 88,
       "era_name": "Ottoman Rule",
       "sort_year": 1770,
       "display_date": "1770",
@@ -1358,6 +1447,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "Ottoman Rule",
       "sort_year": 1774,
       "display_date": "1774",
@@ -1372,6 +1462,7 @@
       "is_major": false
     },
     {
+      "id": 90,
       "era_name": "Ottoman Rule",
       "sort_year": 1814,
       "display_date": "1814",
@@ -1386,6 +1477,7 @@
       "is_major": false
     },
     {
+      "id": 91,
       "era_name": "Independence and Kingdom",
       "sort_year": 1821,
       "display_date": "1821",
@@ -1401,6 +1493,7 @@
       "is_major": true
     },
     {
+      "id": 92,
       "era_name": "Independence and Kingdom",
       "sort_year": 1822,
       "display_date": "1822",
@@ -1415,6 +1508,7 @@
       "is_major": false
     },
     {
+      "id": 93,
       "era_name": "Independence and Kingdom",
       "sort_year": 1824,
       "display_date": "1824",
@@ -1429,6 +1523,7 @@
       "is_major": false
     },
     {
+      "id": 94,
       "era_name": "Independence and Kingdom",
       "sort_year": 1827,
       "display_date": "1827",
@@ -1444,6 +1539,7 @@
       "is_major": true
     },
     {
+      "id": 95,
       "era_name": "Independence and Kingdom",
       "sort_year": 1830,
       "display_date": "1830",
@@ -1459,6 +1555,7 @@
       "is_major": true
     },
     {
+      "id": 96,
       "era_name": "Independence and Kingdom",
       "sort_year": 1832,
       "display_date": "1832",
@@ -1473,6 +1570,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "Independence and Kingdom",
       "sort_year": 1834,
       "display_date": "1834",
@@ -1486,6 +1584,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "Independence and Kingdom",
       "sort_year": 1864,
       "display_date": "1864",
@@ -1500,6 +1599,7 @@
       "is_major": false
     },
     {
+      "id": 99,
       "era_name": "Independence and Kingdom",
       "sort_year": 1893,
       "display_date": "1893",
@@ -1514,6 +1614,7 @@
       "is_major": false
     },
     {
+      "id": 100,
       "era_name": "Independence and Kingdom",
       "sort_year": 1896,
       "display_date": "1896",
@@ -1528,6 +1629,7 @@
       "is_major": false
     },
     {
+      "id": 101,
       "era_name": "Independence and Kingdom",
       "sort_year": 1912,
       "display_date": "1912",
@@ -1543,6 +1645,7 @@
       "is_major": true
     },
     {
+      "id": 102,
       "era_name": "Independence and Kingdom",
       "sort_year": 1919,
       "display_date": "1919",
@@ -1557,6 +1660,7 @@
       "is_major": false
     },
     {
+      "id": 103,
       "era_name": "Independence and Kingdom",
       "sort_year": 1922,
       "display_date": "1922",
@@ -1572,6 +1676,7 @@
       "is_major": true
     },
     {
+      "id": 104,
       "era_name": "Independence and Kingdom",
       "sort_year": 1923,
       "display_date": "1923",
@@ -1587,6 +1692,7 @@
       "is_major": true
     },
     {
+      "id": 105,
       "era_name": "Modern Greece",
       "sort_year": 1924,
       "display_date": "1924",
@@ -1600,6 +1706,7 @@
       "is_major": false
     },
     {
+      "id": 106,
       "era_name": "Modern Greece",
       "sort_year": 1936,
       "display_date": "1936",
@@ -1613,6 +1720,7 @@
       "is_major": false
     },
     {
+      "id": 107,
       "era_name": "Modern Greece",
       "sort_year": 1940,
       "display_date": "28 October 1940",
@@ -1628,6 +1736,7 @@
       "is_major": true
     },
     {
+      "id": 108,
       "era_name": "Modern Greece",
       "sort_year": 1941,
       "display_date": "1941",
@@ -1643,6 +1752,7 @@
       "is_major": true
     },
     {
+      "id": 109,
       "era_name": "Modern Greece",
       "sort_year": 1943,
       "display_date": "1943",
@@ -1658,6 +1768,7 @@
       "is_major": true
     },
     {
+      "id": 110,
       "era_name": "Modern Greece",
       "sort_year": 1944,
       "display_date": "1944",
@@ -1672,6 +1783,7 @@
       "is_major": false
     },
     {
+      "id": 111,
       "era_name": "Modern Greece",
       "sort_year": 1946,
       "display_date": "1946",
@@ -1687,6 +1799,7 @@
       "is_major": true
     },
     {
+      "id": 112,
       "era_name": "Modern Greece",
       "sort_year": 1952,
       "display_date": "1952",
@@ -1702,6 +1815,7 @@
       "is_major": false
     },
     {
+      "id": 113,
       "era_name": "Modern Greece",
       "sort_year": 1967,
       "display_date": "21 April 1967",
@@ -1717,6 +1831,7 @@
       "is_major": true
     },
     {
+      "id": 114,
       "era_name": "Modern Greece",
       "sort_year": 1973,
       "display_date": "17 November 1973",
@@ -1731,6 +1846,7 @@
       "is_major": false
     },
     {
+      "id": 115,
       "era_name": "Modern Greece",
       "sort_year": 1974,
       "display_date": "1974",
@@ -1745,6 +1861,7 @@
       "is_major": true
     },
     {
+      "id": 116,
       "era_name": "Modern Greece",
       "sort_year": 1981,
       "display_date": "1981",
@@ -1760,6 +1877,7 @@
       "is_major": true
     },
     {
+      "id": 117,
       "era_name": "Modern Greece",
       "sort_year": 2001,
       "display_date": "2001",
@@ -1774,6 +1892,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Modern Greece",
       "sort_year": 2004,
       "display_date": "2004",
@@ -1788,6 +1907,7 @@
       "is_major": false
     },
     {
+      "id": 119,
       "era_name": "Modern Greece",
       "sort_year": 2010,
       "display_date": "2010",
@@ -1803,6 +1923,7 @@
       "is_major": true
     },
     {
+      "id": 120,
       "era_name": "Modern Greece",
       "sort_year": 2015,
       "display_date": "July 2015",
@@ -1817,6 +1938,7 @@
       "is_major": false
     },
     {
+      "id": 121,
       "era_name": "Modern Greece",
       "sort_year": 2018,
       "display_date": "2018",

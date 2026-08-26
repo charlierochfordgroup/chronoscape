@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "The first peoples",
       "sort_year": -13000,
       "display_date": "c. 13,000 BCE",
@@ -124,6 +125,7 @@
       "is_major": true
     },
     {
+      "id": 1,
       "era_name": "The first peoples",
       "sort_year": -9000,
       "display_date": "c. 9000 BCE",
@@ -138,6 +140,7 @@
       "is_major": false
     },
     {
+      "id": 2,
       "era_name": "The first peoples",
       "sort_year": -7000,
       "display_date": "c. 7000 BCE",
@@ -154,6 +157,7 @@
       "is_major": true
     },
     {
+      "id": 3,
       "era_name": "The first peoples",
       "sort_year": -5000,
       "display_date": "c. 5000 BCE",
@@ -169,6 +173,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "The first peoples",
       "sort_year": -2500,
       "display_date": "c. 2500 BCE",
@@ -184,6 +189,7 @@
       "is_major": false
     },
     {
+      "id": 5,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -1500,
       "display_date": "c. 1500 BCE",
@@ -199,6 +205,7 @@
       "is_major": true
     },
     {
+      "id": 6,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -1200,
       "display_date": "c. 1200 BCE",
@@ -214,6 +221,7 @@
       "is_major": false
     },
     {
+      "id": 7,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -900,
       "display_date": "c. 900 BCE",
@@ -229,6 +237,7 @@
       "is_major": false
     },
     {
+      "id": 8,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -700,
       "display_date": "c. 700 BCE",
@@ -245,6 +254,7 @@
       "is_major": false
     },
     {
+      "id": 9,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -500,
       "display_date": "c. 500 BCE",
@@ -260,6 +270,7 @@
       "is_major": true
     },
     {
+      "id": 10,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -400,
       "display_date": "c. 400 BCE",
@@ -276,6 +287,7 @@
       "is_major": false
     },
     {
+      "id": 11,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -300,
       "display_date": "c. 300 BCE",
@@ -292,6 +304,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": -100,
       "display_date": "c. 100 BCE",
@@ -307,6 +320,7 @@
       "is_major": true
     },
     {
+      "id": 13,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": 100,
       "display_date": "c. 100 CE",
@@ -322,6 +336,7 @@
       "is_major": false
     },
     {
+      "id": 14,
       "era_name": "Preclassic Mesoamerica and the Olmec",
       "sort_year": 200,
       "display_date": "c. 200 CE",
@@ -337,6 +352,7 @@
       "is_major": false
     },
     {
+      "id": 15,
       "era_name": "Classic Mesoamerica",
       "sort_year": 250,
       "display_date": "c. 250",
@@ -353,6 +369,7 @@
       "is_major": true
     },
     {
+      "id": 16,
       "era_name": "Classic Mesoamerica",
       "sort_year": 378,
       "display_date": "378",
@@ -369,6 +386,7 @@
       "is_major": false
     },
     {
+      "id": 17,
       "era_name": "Classic Mesoamerica",
       "sort_year": 450,
       "display_date": "c. 450",
@@ -384,6 +402,7 @@
       "is_major": false
     },
     {
+      "id": 18,
       "era_name": "Classic Mesoamerica",
       "sort_year": 550,
       "display_date": "c. 550",
@@ -400,6 +419,7 @@
       "is_major": true
     },
     {
+      "id": 19,
       "era_name": "Classic Mesoamerica",
       "sort_year": 615,
       "display_date": "615",
@@ -415,6 +435,7 @@
       "is_major": false
     },
     {
+      "id": 20,
       "era_name": "Classic Mesoamerica",
       "sort_year": 683,
       "display_date": "683",
@@ -431,6 +452,7 @@
       "is_major": false
     },
     {
+      "id": 21,
       "era_name": "Classic Mesoamerica",
       "sort_year": 750,
       "display_date": "c. 750",
@@ -447,6 +469,7 @@
       "is_major": false
     },
     {
+      "id": 22,
       "era_name": "Classic Mesoamerica",
       "sort_year": 800,
       "display_date": "800-900",
@@ -463,6 +486,7 @@
       "is_major": true
     },
     {
+      "id": 23,
       "era_name": "Classic Mesoamerica",
       "sort_year": 900,
       "display_date": "c. 900",
@@ -478,6 +502,7 @@
       "is_major": false
     },
     {
+      "id": 24,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 950,
       "display_date": "c. 950",
@@ -494,6 +519,7 @@
       "is_major": true
     },
     {
+      "id": 25,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 987,
       "display_date": "c. 987",
@@ -510,6 +536,7 @@
       "is_major": false
     },
     {
+      "id": 26,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1150,
       "display_date": "c. 1150",
@@ -526,6 +553,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1325,
       "display_date": "1325",
@@ -541,6 +569,7 @@
       "is_major": true
     },
     {
+      "id": 28,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1376,
       "display_date": "1376",
@@ -556,6 +585,7 @@
       "is_major": false
     },
     {
+      "id": 29,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1428,
       "display_date": "1428",
@@ -572,6 +602,7 @@
       "is_major": true
     },
     {
+      "id": 30,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1440,
       "display_date": "1440",
@@ -588,6 +619,7 @@
       "is_major": false
     },
     {
+      "id": 31,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1450,
       "display_date": "1450-1454",
@@ -604,6 +636,7 @@
       "is_major": false
     },
     {
+      "id": 32,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1487,
       "display_date": "1487",
@@ -620,6 +653,7 @@
       "is_major": true
     },
     {
+      "id": 33,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1500,
       "display_date": "c. 1500",
@@ -636,6 +670,7 @@
       "is_major": false
     },
     {
+      "id": 34,
       "era_name": "Postclassic and the Aztec empire",
       "sort_year": 1502,
       "display_date": "1502",
@@ -651,6 +686,7 @@
       "is_major": false
     },
     {
+      "id": 35,
       "era_name": "Conquest and the early colony",
       "sort_year": 1519,
       "display_date": "February 1519",
@@ -666,6 +702,7 @@
       "is_major": true
     },
     {
+      "id": 36,
       "era_name": "Conquest and the early colony",
       "sort_year": 1519.5,
       "display_date": "September 1519",
@@ -682,6 +719,7 @@
       "is_major": false
     },
     {
+      "id": 37,
       "era_name": "Conquest and the early colony",
       "sort_year": 1519.9,
       "display_date": "8 November 1519",
@@ -697,6 +735,7 @@
       "is_major": true
     },
     {
+      "id": 38,
       "era_name": "Conquest and the early colony",
       "sort_year": 1520,
       "display_date": "May 1520",
@@ -712,6 +751,7 @@
       "is_major": false
     },
     {
+      "id": 39,
       "era_name": "Conquest and the early colony",
       "sort_year": 1520.5,
       "display_date": "30 June 1520",
@@ -726,6 +766,7 @@
       "is_major": false
     },
     {
+      "id": 40,
       "era_name": "Conquest and the early colony",
       "sort_year": 1520.8,
       "display_date": "1520",
@@ -740,6 +781,7 @@
       "is_major": true
     },
     {
+      "id": 41,
       "era_name": "Conquest and the early colony",
       "sort_year": 1521,
       "display_date": "13 August 1521",
@@ -755,6 +797,7 @@
       "is_major": true
     },
     {
+      "id": 42,
       "era_name": "Conquest and the early colony",
       "sort_year": 1521.5,
       "display_date": "1521",
@@ -770,6 +813,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "Conquest and the early colony",
       "sort_year": 1524,
       "display_date": "1524",
@@ -784,6 +828,7 @@
       "is_major": false
     },
     {
+      "id": 44,
       "era_name": "Conquest and the early colony",
       "sort_year": 1531,
       "display_date": "December 1531",
@@ -800,6 +845,7 @@
       "is_major": true
     },
     {
+      "id": 45,
       "era_name": "Conquest and the early colony",
       "sort_year": 1535,
       "display_date": "1535",
@@ -814,6 +860,7 @@
       "is_major": false
     },
     {
+      "id": 46,
       "era_name": "Conquest and the early colony",
       "sort_year": 1539,
       "display_date": "1539",
@@ -829,6 +876,7 @@
       "is_major": false
     },
     {
+      "id": 47,
       "era_name": "Conquest and the early colony",
       "sort_year": 1545,
       "display_date": "1545-1548",
@@ -844,6 +892,7 @@
       "is_major": true
     },
     {
+      "id": 48,
       "era_name": "Conquest and the early colony",
       "sort_year": 1546,
       "display_date": "1546",
@@ -858,6 +907,7 @@
       "is_major": true
     },
     {
+      "id": 49,
       "era_name": "Conquest and the early colony",
       "sort_year": 1550,
       "display_date": "1550-1590",
@@ -873,6 +923,7 @@
       "is_major": false
     },
     {
+      "id": 50,
       "era_name": "Conquest and the early colony",
       "sort_year": 1565,
       "display_date": "1565",
@@ -888,6 +939,7 @@
       "is_major": false
     },
     {
+      "id": 51,
       "era_name": "Conquest and the early colony",
       "sort_year": 1571,
       "display_date": "1571",
@@ -903,6 +955,7 @@
       "is_major": false
     },
     {
+      "id": 52,
       "era_name": "Conquest and the early colony",
       "sort_year": 1600,
       "display_date": "c. 1600",
@@ -918,6 +971,7 @@
       "is_major": true
     },
     {
+      "id": 53,
       "era_name": "New Spain",
       "sort_year": 1607,
       "display_date": "1607",
@@ -934,6 +988,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "New Spain",
       "sort_year": 1629,
       "display_date": "1629",
@@ -948,6 +1003,7 @@
       "is_major": false
     },
     {
+      "id": 55,
       "era_name": "New Spain",
       "sort_year": 1648,
       "display_date": "1648",
@@ -964,6 +1020,7 @@
       "is_major": false
     },
     {
+      "id": 56,
       "era_name": "New Spain",
       "sort_year": 1692,
       "display_date": "8 June 1692",
@@ -979,6 +1036,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "New Spain",
       "sort_year": 1697,
       "display_date": "1697",
@@ -994,6 +1052,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "New Spain",
       "sort_year": 1700,
       "display_date": "1700s",
@@ -1008,6 +1067,7 @@
       "is_major": false
     },
     {
+      "id": 59,
       "era_name": "New Spain",
       "sort_year": 1767,
       "display_date": "1767",
@@ -1023,6 +1083,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "New Spain",
       "sort_year": 1778,
       "display_date": "1778",
@@ -1038,6 +1099,7 @@
       "is_major": false
     },
     {
+      "id": 61,
       "era_name": "New Spain",
       "sort_year": 1799,
       "display_date": "1799",
@@ -1053,6 +1115,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "New Spain",
       "sort_year": 1804,
       "display_date": "1804",
@@ -1068,6 +1131,7 @@
       "is_major": false
     },
     {
+      "id": 63,
       "era_name": "New Spain",
       "sort_year": 1808,
       "display_date": "1808",
@@ -1083,6 +1147,7 @@
       "is_major": false
     },
     {
+      "id": 64,
       "era_name": "Independence and instability",
       "sort_year": 1810,
       "display_date": "16 September 1810",
@@ -1098,6 +1163,7 @@
       "is_major": true
     },
     {
+      "id": 65,
       "era_name": "Independence and instability",
       "sort_year": 1811,
       "display_date": "July 1811",
@@ -1113,6 +1179,7 @@
       "is_major": false
     },
     {
+      "id": 66,
       "era_name": "Independence and instability",
       "sort_year": 1813,
       "display_date": "1813",
@@ -1128,6 +1195,7 @@
       "is_major": false
     },
     {
+      "id": 67,
       "era_name": "Independence and instability",
       "sort_year": 1815,
       "display_date": "December 1815",
@@ -1142,6 +1210,7 @@
       "is_major": false
     },
     {
+      "id": 68,
       "era_name": "Independence and instability",
       "sort_year": 1821,
       "display_date": "24 August 1821",
@@ -1157,6 +1226,7 @@
       "is_major": true
     },
     {
+      "id": 69,
       "era_name": "Independence and instability",
       "sort_year": 1822,
       "display_date": "1822",
@@ -1171,6 +1241,7 @@
       "is_major": false
     },
     {
+      "id": 70,
       "era_name": "Independence and instability",
       "sort_year": 1824,
       "display_date": "1824",
@@ -1185,6 +1256,7 @@
       "is_major": false
     },
     {
+      "id": 71,
       "era_name": "Independence and instability",
       "sort_year": 1829,
       "display_date": "15 September 1829",
@@ -1200,6 +1272,7 @@
       "is_major": false
     },
     {
+      "id": 72,
       "era_name": "Independence and instability",
       "sort_year": 1833,
       "display_date": "1833",
@@ -1214,6 +1287,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Independence and instability",
       "sort_year": 1836,
       "display_date": "1836",
@@ -1229,6 +1303,7 @@
       "is_major": true
     },
     {
+      "id": 74,
       "era_name": "Independence and instability",
       "sort_year": 1838,
       "display_date": "1838",
@@ -1244,6 +1319,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Independence and instability",
       "sort_year": 1846,
       "display_date": "1846-1848",
@@ -1259,6 +1335,7 @@
       "is_major": true
     },
     {
+      "id": 76,
       "era_name": "Independence and instability",
       "sort_year": 1847,
       "display_date": "1847",
@@ -1274,6 +1351,7 @@
       "is_major": false
     },
     {
+      "id": 77,
       "era_name": "Independence and instability",
       "sort_year": 1848,
       "display_date": "2 February 1848",
@@ -1289,6 +1367,7 @@
       "is_major": true
     },
     {
+      "id": 78,
       "era_name": "Independence and instability",
       "sort_year": 1853,
       "display_date": "1853",
@@ -1304,6 +1383,7 @@
       "is_major": false
     },
     {
+      "id": 79,
       "era_name": "Independence and instability",
       "sort_year": 1855,
       "display_date": "1855",
@@ -1318,6 +1398,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Independence and instability",
       "sort_year": 1857,
       "display_date": "1857",
@@ -1333,6 +1414,7 @@
       "is_major": true
     },
     {
+      "id": 81,
       "era_name": "Independence and instability",
       "sort_year": 1858,
       "display_date": "1858-1861",
@@ -1348,6 +1430,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "Independence and instability",
       "sort_year": 1861,
       "display_date": "July 1861",
@@ -1363,6 +1446,7 @@
       "is_major": false
     },
     {
+      "id": 83,
       "era_name": "Independence and instability",
       "sort_year": 1862,
       "display_date": "5 May 1862",
@@ -1377,6 +1461,7 @@
       "is_major": true
     },
     {
+      "id": 84,
       "era_name": "Independence and instability",
       "sort_year": 1864,
       "display_date": "1864",
@@ -1392,6 +1477,7 @@
       "is_major": false
     },
     {
+      "id": 85,
       "era_name": "Independence and instability",
       "sort_year": 1867,
       "display_date": "19 June 1867",
@@ -1407,6 +1493,7 @@
       "is_major": true
     },
     {
+      "id": 86,
       "era_name": "Independence and instability",
       "sort_year": 1872,
       "display_date": "1872",
@@ -1421,6 +1508,7 @@
       "is_major": false
     },
     {
+      "id": 87,
       "era_name": "The Porfiriato",
       "sort_year": 1876,
       "display_date": "1876",
@@ -1436,6 +1524,7 @@
       "is_major": true
     },
     {
+      "id": 88,
       "era_name": "The Porfiriato",
       "sort_year": 1880,
       "display_date": "1880s",
@@ -1451,6 +1540,7 @@
       "is_major": false
     },
     {
+      "id": 89,
       "era_name": "The Porfiriato",
       "sort_year": 1883,
       "display_date": "1883",
@@ -1467,6 +1557,7 @@
       "is_major": false
     },
     {
+      "id": 90,
       "era_name": "The Porfiriato",
       "sort_year": 1900,
       "display_date": "1900",
@@ -1482,6 +1573,7 @@
       "is_major": false
     },
     {
+      "id": 91,
       "era_name": "The Porfiriato",
       "sort_year": 1906,
       "display_date": "1 June 1906",
@@ -1497,6 +1589,7 @@
       "is_major": false
     },
     {
+      "id": 92,
       "era_name": "The Porfiriato",
       "sort_year": 1907,
       "display_date": "January 1907",
@@ -1512,6 +1605,7 @@
       "is_major": false
     },
     {
+      "id": 93,
       "era_name": "The Porfiriato",
       "sort_year": 1908,
       "display_date": "1908",
@@ -1526,6 +1620,7 @@
       "is_major": false
     },
     {
+      "id": 94,
       "era_name": "The Porfiriato",
       "sort_year": 1910,
       "display_date": "September 1910",
@@ -1541,6 +1636,7 @@
       "is_major": false
     },
     {
+      "id": 95,
       "era_name": "Revolution and the PRI",
       "sort_year": 1910.9,
       "display_date": "20 November 1910",
@@ -1556,6 +1652,7 @@
       "is_major": true
     },
     {
+      "id": 96,
       "era_name": "Revolution and the PRI",
       "sort_year": 1911,
       "display_date": "May 1911",
@@ -1571,6 +1668,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "Revolution and the PRI",
       "sort_year": 1911.9,
       "display_date": "November 1911",
@@ -1587,6 +1685,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "Revolution and the PRI",
       "sort_year": 1913,
       "display_date": "February 1913",
@@ -1602,6 +1701,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "Revolution and the PRI",
       "sort_year": 1913.5,
       "display_date": "1913",
@@ -1616,6 +1716,7 @@
       "is_major": false
     },
     {
+      "id": 100,
       "era_name": "Revolution and the PRI",
       "sort_year": 1914,
       "display_date": "April 1914",
@@ -1631,6 +1732,7 @@
       "is_major": false
     },
     {
+      "id": 101,
       "era_name": "Revolution and the PRI",
       "sort_year": 1914.7,
       "display_date": "1914",
@@ -1646,6 +1748,7 @@
       "is_major": false
     },
     {
+      "id": 102,
       "era_name": "Revolution and the PRI",
       "sort_year": 1915,
       "display_date": "April 1915",
@@ -1660,6 +1763,7 @@
       "is_major": false
     },
     {
+      "id": 103,
       "era_name": "Revolution and the PRI",
       "sort_year": 1916,
       "display_date": "March 1916",
@@ -1675,6 +1779,7 @@
       "is_major": false
     },
     {
+      "id": 104,
       "era_name": "Revolution and the PRI",
       "sort_year": 1917,
       "display_date": "5 February 1917",
@@ -1691,6 +1796,7 @@
       "is_major": true
     },
     {
+      "id": 105,
       "era_name": "Revolution and the PRI",
       "sort_year": 1919,
       "display_date": "10 April 1919",
@@ -1706,6 +1812,7 @@
       "is_major": true
     },
     {
+      "id": 106,
       "era_name": "Revolution and the PRI",
       "sort_year": 1920,
       "display_date": "1920",
@@ -1721,6 +1828,7 @@
       "is_major": false
     },
     {
+      "id": 107,
       "era_name": "Revolution and the PRI",
       "sort_year": 1921,
       "display_date": "1921",
@@ -1736,6 +1844,7 @@
       "is_major": false
     },
     {
+      "id": 108,
       "era_name": "Revolution and the PRI",
       "sort_year": 1923,
       "display_date": "20 July 1923",
@@ -1751,6 +1860,7 @@
       "is_major": false
     },
     {
+      "id": 109,
       "era_name": "Revolution and the PRI",
       "sort_year": 1926,
       "display_date": "1926-1929",
@@ -1766,6 +1876,7 @@
       "is_major": true
     },
     {
+      "id": 110,
       "era_name": "Revolution and the PRI",
       "sort_year": 1929,
       "display_date": "1929",
@@ -1780,6 +1891,7 @@
       "is_major": true
     },
     {
+      "id": 111,
       "era_name": "Revolution and the PRI",
       "sort_year": 1934,
       "display_date": "1934",
@@ -1796,6 +1908,7 @@
       "is_major": true
     },
     {
+      "id": 112,
       "era_name": "Revolution and the PRI",
       "sort_year": 1938,
       "display_date": "18 March 1938",
@@ -1812,6 +1925,7 @@
       "is_major": true
     },
     {
+      "id": 113,
       "era_name": "Revolution and the PRI",
       "sort_year": 1942,
       "display_date": "1942",
@@ -1827,6 +1941,7 @@
       "is_major": false
     },
     {
+      "id": 114,
       "era_name": "Revolution and the PRI",
       "sort_year": 1946,
       "display_date": "1946-1970",
@@ -1842,6 +1957,7 @@
       "is_major": true
     },
     {
+      "id": 115,
       "era_name": "Revolution and the PRI",
       "sort_year": 1953,
       "display_date": "17 October 1953",
@@ -1857,6 +1973,7 @@
       "is_major": true
     },
     {
+      "id": 116,
       "era_name": "Revolution and the PRI",
       "sort_year": 1968,
       "display_date": "2 October 1968",
@@ -1872,6 +1989,7 @@
       "is_major": true
     },
     {
+      "id": 117,
       "era_name": "Revolution and the PRI",
       "sort_year": 1976,
       "display_date": "1976-1981",
@@ -1886,6 +2004,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Revolution and the PRI",
       "sort_year": 1982,
       "display_date": "August 1982",
@@ -1901,6 +2020,7 @@
       "is_major": true
     },
     {
+      "id": 119,
       "era_name": "Modern Mexico",
       "sort_year": 1985,
       "display_date": "19 September 1985",
@@ -1916,6 +2036,7 @@
       "is_major": true
     },
     {
+      "id": 120,
       "era_name": "Modern Mexico",
       "sort_year": 1988,
       "display_date": "1988",
@@ -1930,6 +2051,7 @@
       "is_major": false
     },
     {
+      "id": 121,
       "era_name": "Modern Mexico",
       "sort_year": 1992,
       "display_date": "1992",
@@ -1946,6 +2068,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "Modern Mexico",
       "sort_year": 1994,
       "display_date": "1 January 1994",
@@ -1962,6 +2085,7 @@
       "is_major": true
     },
     {
+      "id": 123,
       "era_name": "Modern Mexico",
       "sort_year": 1994.3,
       "display_date": "March 1994",
@@ -1976,6 +2100,7 @@
       "is_major": false
     },
     {
+      "id": 124,
       "era_name": "Modern Mexico",
       "sort_year": 1994.9,
       "display_date": "December 1994",
@@ -1990,6 +2115,7 @@
       "is_major": false
     },
     {
+      "id": 125,
       "era_name": "Modern Mexico",
       "sort_year": 2000,
       "display_date": "2 July 2000",
@@ -2004,6 +2130,7 @@
       "is_major": true
     },
     {
+      "id": 126,
       "era_name": "Modern Mexico",
       "sort_year": 2006,
       "display_date": "December 2006",
@@ -2019,6 +2146,7 @@
       "is_major": true
     },
     {
+      "id": 127,
       "era_name": "Modern Mexico",
       "sort_year": 2014,
       "display_date": "26 September 2014",
@@ -2034,6 +2162,7 @@
       "is_major": true
     },
     {
+      "id": 128,
       "era_name": "Modern Mexico",
       "sort_year": 2018,
       "display_date": "1 July 2018",
@@ -2048,6 +2177,7 @@
       "is_major": true
     },
     {
+      "id": 129,
       "era_name": "Modern Mexico",
       "sort_year": 2020,
       "display_date": "2020",
@@ -2063,6 +2193,7 @@
       "is_major": false
     },
     {
+      "id": 130,
       "era_name": "Modern Mexico",
       "sort_year": 2023,
       "display_date": "2023",
@@ -2078,6 +2209,7 @@
       "is_major": false
     },
     {
+      "id": 131,
       "era_name": "Modern Mexico",
       "sort_year": 2024,
       "display_date": "2 June 2024",

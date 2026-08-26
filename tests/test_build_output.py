@@ -24,7 +24,7 @@ def _country(name):
                   "date_label": f"{100 * i}-{100 * i + 99}", "width_pct": 10,
                   "color": "#5a8a9a"}
                  for i in range(10)],
-        "events": [{"era_name": "Era 0", "sort_year": 10 + i, "display_date": str(10 + i),
+        "events": [{"id": i, "era_name": "Era 0", "sort_year": 10 + i, "display_date": str(10 + i),
                     "title": f"{name} event {i}", "categories": ["Political"],
                     "lat": None, "lng": None, "is_major": i < 2,
                     **({"source": f"{name}_article_{i}"} if i < 2 else {})}

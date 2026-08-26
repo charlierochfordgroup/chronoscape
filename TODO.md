@@ -639,13 +639,23 @@ quote marks. That is why `"Taiwan receives $1"` existed for $1.5 billion.
       "What Japanese rule builds") were kept as era closers, which is a judgement call and
       easy to revisit.
 
-      **Event 19 is only half fixed and needs a decision.** Its three fields disagreed: title
-      "Early 7th century", `display_date` "c. 230", `sort_year` 1620, describing the Sui
-      expeditions to Liuqiu of about 610. Two different expeditions had been conflated, the
-      Wu mission of 230 and the Sui ones. It is now titled and dated for the Sui expeditions,
-      but **`sort_year` is still 1620**, so the dot sits in the wrong place on the strip.
-      Fixing that means moving it in the array, which renumbers every `#event-<id>` after it
-      and breaks existing deep links - so it wants doing deliberately, not in passing.
+      **Event 19 - DONE 26/08/2026, and the blocker was removed rather than worked around.**
+      Its three fields disagreed: title "Early 7th century", `display_date` "c. 230",
+      `sort_year` 1620, describing the Sui expeditions to Liuqiu of about 610. Two
+      expeditions had been conflated - and the Wu mission of 230 already existed separately
+      as event id 8, which is where the stray "c. 230" came from. It now sits at
+      `sort_year` 610 between id 9 (400) and id 10 (1171), inside its own era, with the dot
+      in the right place on the strip.
+
+      Moving it was blocked because `build.py` assigned ids with `enumerate(events)`, so any
+      reordering renumbered every later event and repointed its `#event-N` link. **The ids
+      are now stored in the data and are permanent** - frozen at exactly their current
+      values, so all 166 Taiwan links and every other country's still resolve to the same
+      event, verified by diffing id-to-title against `HEAD` (166 checked, 0 changed). The
+      build output was byte-identical across the refactor. `validate.py` now requires an id
+      that is present, integer, non-negative and unique, all three rules mutation-checked,
+      and a build test pins that the id comes from the data rather than the array position.
+      See `countries/README.md`. Future reordering and mid-timeline insertion are now free.
 
       Original note: - [ ] Nine events are section headings, not events - 69, 75, 77, 84, 86, 99,
       104, 111, 136, titled "May 29", "October 21", "Significance", "Japan brings",

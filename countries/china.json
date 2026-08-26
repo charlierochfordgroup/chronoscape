@@ -109,6 +109,7 @@
   ],
   "events": [
     {
+      "id": 0,
       "era_name": "Ancient and Shang",
       "sort_year": -7000,
       "display_date": "c. 7000 BCE",
@@ -124,6 +125,7 @@
       "is_major": false
     },
     {
+      "id": 1,
       "era_name": "Ancient and Shang",
       "sort_year": -5000,
       "display_date": "c. 5000 BCE",
@@ -139,6 +141,7 @@
       "is_major": false
     },
     {
+      "id": 2,
       "era_name": "Ancient and Shang",
       "sort_year": -3300,
       "display_date": "c. 3300 BCE",
@@ -154,6 +157,7 @@
       "is_major": false
     },
     {
+      "id": 3,
       "era_name": "Ancient and Shang",
       "sort_year": -2070,
       "display_date": "c. 2070 BCE",
@@ -168,6 +172,7 @@
       "is_major": false
     },
     {
+      "id": 4,
       "era_name": "Ancient and Shang",
       "sort_year": -1600,
       "display_date": "c. 1600 BCE",
@@ -182,6 +187,7 @@
       "is_major": true
     },
     {
+      "id": 5,
       "era_name": "Ancient and Shang",
       "sort_year": -1250,
       "display_date": "c. 1250 BCE",
@@ -197,6 +203,7 @@
       "is_major": true
     },
     {
+      "id": 6,
       "era_name": "Ancient and Shang",
       "sort_year": -1200,
       "display_date": "c. 1200 BCE",
@@ -212,6 +219,7 @@
       "is_major": false
     },
     {
+      "id": 7,
       "era_name": "Ancient and Shang",
       "sort_year": -1046,
       "display_date": "c. 1046 BCE",
@@ -226,6 +234,7 @@
       "is_major": true
     },
     {
+      "id": 8,
       "era_name": "Zhou Dynasty",
       "sort_year": -1045,
       "display_date": "c. 1045 BCE",
@@ -241,6 +250,7 @@
       "is_major": true
     },
     {
+      "id": 9,
       "era_name": "Zhou Dynasty",
       "sort_year": -1000,
       "display_date": "c. 1000 BCE",
@@ -255,6 +265,7 @@
       "is_major": false
     },
     {
+      "id": 10,
       "era_name": "Zhou Dynasty",
       "sort_year": -771,
       "display_date": "771 BCE",
@@ -270,6 +281,7 @@
       "is_major": true
     },
     {
+      "id": 11,
       "era_name": "Zhou Dynasty",
       "sort_year": -722,
       "display_date": "722 BCE",
@@ -285,6 +297,7 @@
       "is_major": false
     },
     {
+      "id": 12,
       "era_name": "Zhou Dynasty",
       "sort_year": -651,
       "display_date": "651 BCE",
@@ -299,6 +312,7 @@
       "is_major": false
     },
     {
+      "id": 13,
       "era_name": "Zhou Dynasty",
       "sort_year": -551,
       "display_date": "551 BCE",
@@ -314,6 +328,7 @@
       "is_major": true
     },
     {
+      "id": 14,
       "era_name": "Zhou Dynasty",
       "sort_year": -500,
       "display_date": "c. 500 BCE",
@@ -329,6 +344,7 @@
       "is_major": false
     },
     {
+      "id": 15,
       "era_name": "Zhou Dynasty",
       "sort_year": -475,
       "display_date": "475 BCE",
@@ -344,6 +360,7 @@
       "is_major": true
     },
     {
+      "id": 16,
       "era_name": "Zhou Dynasty",
       "sort_year": -400,
       "display_date": "c. 400 BCE",
@@ -359,6 +376,7 @@
       "is_major": false
     },
     {
+      "id": 17,
       "era_name": "Zhou Dynasty",
       "sort_year": -370,
       "display_date": "c. 370 BCE",
@@ -374,6 +392,7 @@
       "is_major": false
     },
     {
+      "id": 18,
       "era_name": "Zhou Dynasty",
       "sort_year": -359,
       "display_date": "359 BCE",
@@ -389,6 +408,7 @@
       "is_major": true
     },
     {
+      "id": 19,
       "era_name": "Zhou Dynasty",
       "sort_year": -256.5,
       "display_date": "c. 256 BCE",
@@ -404,6 +424,7 @@
       "is_major": false
     },
     {
+      "id": 20,
       "era_name": "Zhou Dynasty",
       "sort_year": -256,
       "display_date": "256 BCE",
@@ -418,6 +439,7 @@
       "is_major": false
     },
     {
+      "id": 21,
       "era_name": "Qin and Han",
       "sort_year": -221,
       "display_date": "221 BCE",
@@ -433,6 +455,7 @@
       "is_major": true
     },
     {
+      "id": 22,
       "era_name": "Qin and Han",
       "sort_year": -220,
       "display_date": "c. 220 BCE",
@@ -448,6 +471,7 @@
       "is_major": true
     },
     {
+      "id": 23,
       "era_name": "Qin and Han",
       "sort_year": -215,
       "display_date": "215 BCE",
@@ -462,6 +486,7 @@
       "is_major": false
     },
     {
+      "id": 24,
       "era_name": "Qin and Han",
       "sort_year": -213,
       "display_date": "213 BCE",
@@ -477,6 +502,7 @@
       "is_major": false
     },
     {
+      "id": 25,
       "era_name": "Qin and Han",
       "sort_year": -210,
       "display_date": "210 BCE",
@@ -492,6 +518,7 @@
       "is_major": true
     },
     {
+      "id": 26,
       "era_name": "Qin and Han",
       "sort_year": -209,
       "display_date": "209 BCE",
@@ -507,6 +534,7 @@
       "is_major": false
     },
     {
+      "id": 27,
       "era_name": "Qin and Han",
       "sort_year": -202,
       "display_date": "202 BCE",
@@ -521,6 +549,7 @@
       "is_major": true
     },
     {
+      "id": 28,
       "era_name": "Qin and Han",
       "sort_year": -141,
       "display_date": "141 BCE",
@@ -536,6 +565,7 @@
       "is_major": false
     },
     {
+      "id": 29,
       "era_name": "Qin and Han",
       "sort_year": -138,
       "display_date": "138 BCE",
@@ -550,6 +580,7 @@
       "is_major": false
     },
     {
+      "id": 30,
       "era_name": "Qin and Han",
       "sort_year": -136,
       "display_date": "136 BCE",
@@ -565,6 +596,7 @@
       "is_major": true
     },
     {
+      "id": 31,
       "era_name": "Qin and Han",
       "sort_year": -130,
       "display_date": "c. 130 BCE",
@@ -580,6 +612,7 @@
       "is_major": true
     },
     {
+      "id": 32,
       "era_name": "Qin and Han",
       "sort_year": -91,
       "display_date": "c. 91 BCE",
@@ -594,6 +627,7 @@
       "is_major": false
     },
     {
+      "id": 33,
       "era_name": "Qin and Han",
       "sort_year": 9,
       "display_date": "9",
@@ -609,6 +643,7 @@
       "is_major": false
     },
     {
+      "id": 34,
       "era_name": "Qin and Han",
       "sort_year": 25,
       "display_date": "25",
@@ -623,6 +658,7 @@
       "is_major": false
     },
     {
+      "id": 35,
       "era_name": "Qin and Han",
       "sort_year": 65,
       "display_date": "c. 65",
@@ -637,6 +673,7 @@
       "is_major": true
     },
     {
+      "id": 36,
       "era_name": "Qin and Han",
       "sort_year": 105,
       "display_date": "105",
@@ -651,6 +688,7 @@
       "is_major": true
     },
     {
+      "id": 37,
       "era_name": "Qin and Han",
       "sort_year": 132,
       "display_date": "132",
@@ -665,6 +703,7 @@
       "is_major": false
     },
     {
+      "id": 38,
       "era_name": "Qin and Han",
       "sort_year": 184,
       "display_date": "184",
@@ -680,6 +719,7 @@
       "is_major": true
     },
     {
+      "id": 39,
       "era_name": "Qin and Han",
       "sort_year": 208,
       "display_date": "208",
@@ -694,6 +734,7 @@
       "is_major": true
     },
     {
+      "id": 40,
       "era_name": "Qin and Han",
       "sort_year": 220,
       "display_date": "220",
@@ -708,6 +749,7 @@
       "is_major": true
     },
     {
+      "id": 41,
       "era_name": "Division and Reunification",
       "sort_year": 263,
       "display_date": "263",
@@ -722,6 +764,7 @@
       "is_major": false
     },
     {
+      "id": 42,
       "era_name": "Division and Reunification",
       "sort_year": 280,
       "display_date": "280",
@@ -736,6 +779,7 @@
       "is_major": false
     },
     {
+      "id": 43,
       "era_name": "Division and Reunification",
       "sort_year": 311,
       "display_date": "311",
@@ -751,6 +795,7 @@
       "is_major": true
     },
     {
+      "id": 44,
       "era_name": "Division and Reunification",
       "sort_year": 317,
       "display_date": "317",
@@ -766,6 +811,7 @@
       "is_major": false
     },
     {
+      "id": 45,
       "era_name": "Division and Reunification",
       "sort_year": 386,
       "display_date": "386",
@@ -780,6 +826,7 @@
       "is_major": false
     },
     {
+      "id": 46,
       "era_name": "Division and Reunification",
       "sort_year": 399,
       "display_date": "399",
@@ -795,6 +842,7 @@
       "is_major": false
     },
     {
+      "id": 47,
       "era_name": "Division and Reunification",
       "sort_year": 460,
       "display_date": "460",
@@ -810,6 +858,7 @@
       "is_major": false
     },
     {
+      "id": 48,
       "era_name": "Division and Reunification",
       "sort_year": 494,
       "display_date": "494",
@@ -824,6 +873,7 @@
       "is_major": false
     },
     {
+      "id": 49,
       "era_name": "Division and Reunification",
       "sort_year": 581,
       "display_date": "581",
@@ -838,6 +888,7 @@
       "is_major": false
     },
     {
+      "id": 50,
       "era_name": "Division and Reunification",
       "sort_year": 589,
       "display_date": "589",
@@ -853,6 +904,7 @@
       "is_major": true
     },
     {
+      "id": 51,
       "era_name": "Division and Reunification",
       "sort_year": 605,
       "display_date": "605",
@@ -868,6 +920,7 @@
       "is_major": true
     },
     {
+      "id": 52,
       "era_name": "Division and Reunification",
       "sort_year": 612,
       "display_date": "612",
@@ -883,6 +936,7 @@
       "is_major": false
     },
     {
+      "id": 53,
       "era_name": "Division and Reunification",
       "sort_year": 618,
       "display_date": "618",
@@ -896,6 +950,7 @@
       "is_major": false
     },
     {
+      "id": 54,
       "era_name": "Tang Dynasty",
       "sort_year": 626,
       "display_date": "626",
@@ -911,6 +966,7 @@
       "is_major": false
     },
     {
+      "id": 55,
       "era_name": "Tang Dynasty",
       "sort_year": 629,
       "display_date": "629",
@@ -926,6 +982,7 @@
       "is_major": true
     },
     {
+      "id": 56,
       "era_name": "Tang Dynasty",
       "sort_year": 640,
       "display_date": "640",
@@ -941,6 +998,7 @@
       "is_major": false
     },
     {
+      "id": 57,
       "era_name": "Tang Dynasty",
       "sort_year": 645,
       "display_date": "645",
@@ -955,6 +1013,7 @@
       "is_major": false
     },
     {
+      "id": 58,
       "era_name": "Tang Dynasty",
       "sort_year": 690,
       "display_date": "690",
@@ -969,6 +1028,7 @@
       "is_major": true
     },
     {
+      "id": 59,
       "era_name": "Tang Dynasty",
       "sort_year": 713,
       "display_date": "713",
@@ -984,6 +1044,7 @@
       "is_major": false
     },
     {
+      "id": 60,
       "era_name": "Tang Dynasty",
       "sort_year": 730,
       "display_date": "c. 730",
@@ -998,6 +1059,7 @@
       "is_major": false
     },
     {
+      "id": 61,
       "era_name": "Tang Dynasty",
       "sort_year": 751,
       "display_date": "751",
@@ -1013,6 +1075,7 @@
       "is_major": false
     },
     {
+      "id": 62,
       "era_name": "Tang Dynasty",
       "sort_year": 755,
       "display_date": "755",
@@ -1027,6 +1090,7 @@
       "is_major": true
     },
     {
+      "id": 63,
       "era_name": "Tang Dynasty",
       "sort_year": 780,
       "display_date": "780",
@@ -1042,6 +1106,7 @@
       "is_major": false
     },
     {
+      "id": 64,
       "era_name": "Tang Dynasty",
       "sort_year": 845,
       "display_date": "845",
@@ -1056,6 +1121,7 @@
       "is_major": false
     },
     {
+      "id": 65,
       "era_name": "Tang Dynasty",
       "sort_year": 868,
       "display_date": "868",
@@ -1071,6 +1137,7 @@
       "is_major": true
     },
     {
+      "id": 66,
       "era_name": "Tang Dynasty",
       "sort_year": 875,
       "display_date": "875",
@@ -1086,6 +1153,7 @@
       "is_major": false
     },
     {
+      "id": 67,
       "era_name": "Tang Dynasty",
       "sort_year": 907,
       "display_date": "907",
@@ -1100,6 +1168,7 @@
       "is_major": true
     },
     {
+      "id": 68,
       "era_name": "Song and Yuan",
       "sort_year": 960,
       "display_date": "960",
@@ -1114,6 +1183,7 @@
       "is_major": true
     },
     {
+      "id": 69,
       "era_name": "Song and Yuan",
       "sort_year": 1000,
       "display_date": "c. 1000",
@@ -1129,6 +1199,7 @@
       "is_major": true
     },
     {
+      "id": 70,
       "era_name": "Song and Yuan",
       "sort_year": 1041,
       "display_date": "c. 1041",
@@ -1144,6 +1215,7 @@
       "is_major": true
     },
     {
+      "id": 71,
       "era_name": "Song and Yuan",
       "sort_year": 1069,
       "display_date": "1069",
@@ -1159,6 +1231,7 @@
       "is_major": false
     },
     {
+      "id": 72,
       "era_name": "Song and Yuan",
       "sort_year": 1085,
       "display_date": "c. 1085",
@@ -1173,6 +1246,7 @@
       "is_major": false
     },
     {
+      "id": 73,
       "era_name": "Song and Yuan",
       "sort_year": 1127,
       "display_date": "1127",
@@ -1188,6 +1262,7 @@
       "is_major": true
     },
     {
+      "id": 74,
       "era_name": "Song and Yuan",
       "sort_year": 1138,
       "display_date": "1138",
@@ -1203,6 +1278,7 @@
       "is_major": false
     },
     {
+      "id": 75,
       "era_name": "Song and Yuan",
       "sort_year": 1142,
       "display_date": "1142",
@@ -1218,6 +1294,7 @@
       "is_major": false
     },
     {
+      "id": 76,
       "era_name": "Song and Yuan",
       "sort_year": 1206,
       "display_date": "1206",
@@ -1233,6 +1310,7 @@
       "is_major": true
     },
     {
+      "id": 77,
       "era_name": "Song and Yuan",
       "sort_year": 1234,
       "display_date": "1234",
@@ -1247,6 +1325,7 @@
       "is_major": false
     },
     {
+      "id": 78,
       "era_name": "Song and Yuan",
       "sort_year": 1271,
       "display_date": "1271",
@@ -1261,6 +1340,7 @@
       "is_major": true
     },
     {
+      "id": 79,
       "era_name": "Song and Yuan",
       "sort_year": 1275,
       "display_date": "c. 1275",
@@ -1276,6 +1356,7 @@
       "is_major": false
     },
     {
+      "id": 80,
       "era_name": "Song and Yuan",
       "sort_year": 1279,
       "display_date": "1279",
@@ -1290,6 +1371,7 @@
       "is_major": false
     },
     {
+      "id": 81,
       "era_name": "Song and Yuan",
       "sort_year": 1281,
       "display_date": "1281",
@@ -1305,6 +1387,7 @@
       "is_major": false
     },
     {
+      "id": 82,
       "era_name": "Song and Yuan",
       "sort_year": 1351,
       "display_date": "1351",
@@ -1320,6 +1403,7 @@
       "is_major": false
     },
     {
+      "id": 83,
       "era_name": "Song and Yuan",
       "sort_year": 1368,
       "display_date": "1368",
@@ -1334,6 +1418,7 @@
       "is_major": false
     },
     {
+      "id": 84,
       "era_name": "Ming Dynasty",
       "sort_year": 1368.5,
       "display_date": "1368",
@@ -1348,6 +1433,7 @@
       "is_major": true
     },
     {
+      "id": 85,
       "era_name": "Ming Dynasty",
       "sort_year": 1405,
       "display_date": "1405",
@@ -1363,6 +1449,7 @@
       "is_major": true
     },
     {
+      "id": 86,
       "era_name": "Ming Dynasty",
       "sort_year": 1406,
       "display_date": "1406",
@@ -1378,6 +1465,7 @@
       "is_major": true
     },
     {
+      "id": 87,
       "era_name": "Ming Dynasty",
       "sort_year": 1421,
       "display_date": "1421",
@@ -1392,6 +1480,7 @@
       "is_major": false
     },
     {
+      "id": 88,
       "era_name": "Ming Dynasty",
       "sort_year": 1433,
       "display_date": "1433",
@@ -1407,6 +1496,7 @@
       "is_major": true
     },
     {
+      "id": 89,
       "era_name": "Ming Dynasty",
       "sort_year": 1449,
       "display_date": "1449",
@@ -1421,6 +1511,7 @@
       "is_major": false
     },
     {
+      "id": 90,
       "era_name": "Ming Dynasty",
       "sort_year": 1550,
       "display_date": "c. 1550",
@@ -1435,6 +1526,7 @@
       "is_major": false
     },
     {
+      "id": 91,
       "era_name": "Ming Dynasty",
       "sort_year": 1557,
       "display_date": "1557",
@@ -1450,6 +1542,7 @@
       "is_major": false
     },
     {
+      "id": 92,
       "era_name": "Ming Dynasty",
       "sort_year": 1573,
       "display_date": "1573",
@@ -1465,6 +1558,7 @@
       "is_major": false
     },
     {
+      "id": 93,
       "era_name": "Ming Dynasty",
       "sort_year": 1582,
       "display_date": "1582",
@@ -1480,6 +1574,7 @@
       "is_major": false
     },
     {
+      "id": 94,
       "era_name": "Ming Dynasty",
       "sort_year": 1592,
       "display_date": "1592",
@@ -1495,6 +1590,7 @@
       "is_major": false
     },
     {
+      "id": 95,
       "era_name": "Ming Dynasty",
       "sort_year": 1616,
       "display_date": "1616",
@@ -1510,6 +1606,7 @@
       "is_major": false
     },
     {
+      "id": 96,
       "era_name": "Ming Dynasty",
       "sort_year": 1627,
       "display_date": "c. 1627",
@@ -1524,6 +1621,7 @@
       "is_major": false
     },
     {
+      "id": 97,
       "era_name": "Ming Dynasty",
       "sort_year": 1644,
       "display_date": "April 1644",
@@ -1539,6 +1637,7 @@
       "is_major": false
     },
     {
+      "id": 98,
       "era_name": "Qing Dynasty",
       "sort_year": 1644.5,
       "display_date": "May 1644",
@@ -1553,6 +1652,7 @@
       "is_major": true
     },
     {
+      "id": 99,
       "era_name": "Qing Dynasty",
       "sort_year": 1645,
       "display_date": "1645",
@@ -1568,6 +1668,7 @@
       "is_major": false
     },
     {
+      "id": 100,
       "era_name": "Qing Dynasty",
       "sort_year": 1661,
       "display_date": "1661",
@@ -1582,6 +1683,7 @@
       "is_major": false
     },
     {
+      "id": 101,
       "era_name": "Qing Dynasty",
       "sort_year": 1683,
       "display_date": "1683",
@@ -1597,6 +1699,7 @@
       "is_major": false
     },
     {
+      "id": 102,
       "era_name": "Qing Dynasty",
       "sort_year": 1689,
       "display_date": "1689",
@@ -1611,6 +1714,7 @@
       "is_major": false
     },
     {
+      "id": 103,
       "era_name": "Qing Dynasty",
       "sort_year": 1720,
       "display_date": "c. 1720",
@@ -1626,6 +1730,7 @@
       "is_major": false
     },
     {
+      "id": 104,
       "era_name": "Qing Dynasty",
       "sort_year": 1755,
       "display_date": "1755",
@@ -1640,6 +1745,7 @@
       "is_major": false
     },
     {
+      "id": 105,
       "era_name": "Qing Dynasty",
       "sort_year": 1793,
       "display_date": "1793",
@@ -1654,6 +1760,7 @@
       "is_major": false
     },
     {
+      "id": 106,
       "era_name": "Qing Dynasty",
       "sort_year": 1839,
       "display_date": "1839",
@@ -1669,6 +1776,7 @@
       "is_major": true
     },
     {
+      "id": 107,
       "era_name": "Qing Dynasty",
       "sort_year": 1842,
       "display_date": "1842",
@@ -1684,6 +1792,7 @@
       "is_major": true
     },
     {
+      "id": 108,
       "era_name": "Qing Dynasty",
       "sort_year": 1851,
       "display_date": "1851",
@@ -1699,6 +1808,7 @@
       "is_major": true
     },
     {
+      "id": 109,
       "era_name": "Qing Dynasty",
       "sort_year": 1860,
       "display_date": "1860",
@@ -1713,6 +1823,7 @@
       "is_major": false
     },
     {
+      "id": 110,
       "era_name": "Qing Dynasty",
       "sort_year": 1861,
       "display_date": "1861",
@@ -1728,6 +1839,7 @@
       "is_major": false
     },
     {
+      "id": 111,
       "era_name": "Qing Dynasty",
       "sort_year": 1894,
       "display_date": "1894",
@@ -1743,6 +1855,7 @@
       "is_major": true
     },
     {
+      "id": 112,
       "era_name": "Qing Dynasty",
       "sort_year": 1898,
       "display_date": "1898",
@@ -1757,6 +1870,7 @@
       "is_major": false
     },
     {
+      "id": 113,
       "era_name": "Qing Dynasty",
       "sort_year": 1900,
       "display_date": "1900",
@@ -1772,6 +1886,7 @@
       "is_major": true
     },
     {
+      "id": 114,
       "era_name": "Qing Dynasty",
       "sort_year": 1905,
       "display_date": "1905",
@@ -1787,6 +1902,7 @@
       "is_major": true
     },
     {
+      "id": 115,
       "era_name": "Qing Dynasty",
       "sort_year": 1911,
       "display_date": "10 October 1911",
@@ -1802,6 +1918,7 @@
       "is_major": true
     },
     {
+      "id": 116,
       "era_name": "Republic and War",
       "sort_year": 1912,
       "display_date": "1 January 1912",
@@ -1816,6 +1933,7 @@
       "is_major": true
     },
     {
+      "id": 117,
       "era_name": "Republic and War",
       "sort_year": 1915,
       "display_date": "1915",
@@ -1830,6 +1948,7 @@
       "is_major": false
     },
     {
+      "id": 118,
       "era_name": "Republic and War",
       "sort_year": 1916,
       "display_date": "1916",
@@ -1845,6 +1964,7 @@
       "is_major": false
     },
     {
+      "id": 119,
       "era_name": "Republic and War",
       "sort_year": 1919,
       "display_date": "4 May 1919",
@@ -1860,6 +1980,7 @@
       "is_major": true
     },
     {
+      "id": 120,
       "era_name": "Republic and War",
       "sort_year": 1921,
       "display_date": "July 1921",
@@ -1874,6 +1995,7 @@
       "is_major": true
     },
     {
+      "id": 121,
       "era_name": "Republic and War",
       "sort_year": 1926,
       "display_date": "1926",
@@ -1888,6 +2010,7 @@
       "is_major": false
     },
     {
+      "id": 122,
       "era_name": "Republic and War",
       "sort_year": 1927,
       "display_date": "April 1927",
@@ -1903,6 +2026,7 @@
       "is_major": true
     },
     {
+      "id": 123,
       "era_name": "Republic and War",
       "sort_year": 1928,
       "display_date": "1928",
@@ -1918,6 +2042,7 @@
       "is_major": false
     },
     {
+      "id": 124,
       "era_name": "Republic and War",
       "sort_year": 1931,
       "display_date": "18 September 1931",
@@ -1933,6 +2058,7 @@
       "is_major": true
     },
     {
+      "id": 125,
       "era_name": "Republic and War",
       "sort_year": 1934,
       "display_date": "October 1934",
@@ -1947,6 +2073,7 @@
       "is_major": true
     },
     {
+      "id": 126,
       "era_name": "Republic and War",
       "sort_year": 1936,
       "display_date": "December 1936",
@@ -1962,6 +2089,7 @@
       "is_major": false
     },
     {
+      "id": 127,
       "era_name": "Republic and War",
       "sort_year": 1937,
       "display_date": "1937",
@@ -1976,6 +2104,7 @@
       "is_major": true
     },
     {
+      "id": 128,
       "era_name": "Republic and War",
       "sort_year": 1938,
       "display_date": "1938",
@@ -1991,6 +2120,7 @@
       "is_major": false
     },
     {
+      "id": 129,
       "era_name": "Republic and War",
       "sort_year": 1945,
       "display_date": "August 1945",
@@ -2006,6 +2136,7 @@
       "is_major": false
     },
     {
+      "id": 130,
       "era_name": "Republic and War",
       "sort_year": 1946,
       "display_date": "1946",
@@ -2020,6 +2151,7 @@
       "is_major": false
     },
     {
+      "id": 131,
       "era_name": "Republic and War",
       "sort_year": 1949.1,
       "display_date": "1949",
@@ -2035,6 +2167,7 @@
       "is_major": true
     },
     {
+      "id": 132,
       "era_name": "People's Republic",
       "sort_year": 1949.8,
       "display_date": "1 October 1949",
@@ -2049,6 +2182,7 @@
       "is_major": true
     },
     {
+      "id": 133,
       "era_name": "People's Republic",
       "sort_year": 1950.2,
       "display_date": "1950",
@@ -2064,6 +2198,7 @@
       "is_major": false
     },
     {
+      "id": 134,
       "era_name": "People's Republic",
       "sort_year": 1950.6,
       "display_date": "October 1950",
@@ -2079,6 +2214,7 @@
       "is_major": false
     },
     {
+      "id": 135,
       "era_name": "People's Republic",
       "sort_year": 1951,
       "display_date": "1951",
@@ -2094,6 +2230,7 @@
       "is_major": false
     },
     {
+      "id": 136,
       "era_name": "People's Republic",
       "sort_year": 1958,
       "display_date": "1958",
@@ -2109,6 +2246,7 @@
       "is_major": true
     },
     {
+      "id": 137,
       "era_name": "People's Republic",
       "sort_year": 1959,
       "display_date": "1959",
@@ -2123,6 +2261,7 @@
       "is_major": true
     },
     {
+      "id": 138,
       "era_name": "People's Republic",
       "sort_year": 1964,
       "display_date": "16 October 1964",
@@ -2138,6 +2277,7 @@
       "is_major": false
     },
     {
+      "id": 139,
       "era_name": "People's Republic",
       "sort_year": 1966,
       "display_date": "1966",
@@ -2153,6 +2293,7 @@
       "is_major": true
     },
     {
+      "id": 140,
       "era_name": "People's Republic",
       "sort_year": 1971,
       "display_date": "25 October 1971",
@@ -2167,6 +2308,7 @@
       "is_major": false
     },
     {
+      "id": 141,
       "era_name": "People's Republic",
       "sort_year": 1972,
       "display_date": "February 1972",
@@ -2181,6 +2323,7 @@
       "is_major": true
     },
     {
+      "id": 142,
       "era_name": "People's Republic",
       "sort_year": 1976,
       "display_date": "September 1976",
@@ -2195,6 +2338,7 @@
       "is_major": false
     },
     {
+      "id": 143,
       "era_name": "People's Republic",
       "sort_year": 1978,
       "display_date": "December 1978",
@@ -2210,6 +2354,7 @@
       "is_major": true
     },
     {
+      "id": 144,
       "era_name": "People's Republic",
       "sort_year": 1980,
       "display_date": "1980",
@@ -2224,6 +2369,7 @@
       "is_major": false
     },
     {
+      "id": 145,
       "era_name": "People's Republic",
       "sort_year": 1980.5,
       "display_date": "1980",
@@ -2238,6 +2384,7 @@
       "is_major": false
     },
     {
+      "id": 146,
       "era_name": "People's Republic",
       "sort_year": 1989,
       "display_date": "4 June 1989",
@@ -2253,6 +2400,7 @@
       "is_major": true
     },
     {
+      "id": 147,
       "era_name": "People's Republic",
       "sort_year": 1997,
       "display_date": "1 July 1997",
@@ -2268,6 +2416,7 @@
       "is_major": true
     },
     {
+      "id": 148,
       "era_name": "People's Republic",
       "sort_year": 2001,
       "display_date": "December 2001",
@@ -2283,6 +2432,7 @@
       "is_major": true
     },
     {
+      "id": 149,
       "era_name": "People's Republic",
       "sort_year": 2008,
       "display_date": "August 2008",
@@ -2297,6 +2447,7 @@
       "is_major": false
     },
     {
+      "id": 150,
       "era_name": "People's Republic",
       "sort_year": 2013,
       "display_date": "2013",
@@ -2312,6 +2463,7 @@
       "is_major": false
     },
     {
+      "id": 151,
       "era_name": "People's Republic",
       "sort_year": 2020,
       "display_date": "January 2020",

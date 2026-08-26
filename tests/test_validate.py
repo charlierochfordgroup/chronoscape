@@ -45,6 +45,12 @@ def _doc(**over):
         ],
     }
     doc.update(over)
+    # Every event needs a permanent id. Filled in here rather than written into
+    # each fixture so that tests overriding "events" get them too; a test that
+    # wants to check a MISSING or duplicate id sets it explicitly and this
+    # leaves it alone.
+    for i, ev in enumerate(doc.get("events") or []):
+        ev.setdefault("id", i)
     return doc
 
 
@@ -285,7 +291,7 @@ def _with_major_ratio(n_major, n_total):
     """A doc with exactly n_major of n_total events flagged."""
     d = _doc()
     d["events"] = [
-        {"era_name": "Early", "sort_year": 50, "display_date": "50",
+        {"id": i, "era_name": "Early", "sort_year": 50, "display_date": "50",
          "title": f"Event {i}", "categories": [], "lat": None, "lng": None,
          "is_major": i < n_major,
          **({"source": f"Article_{i}"} if i < n_major else {})}
@@ -359,4 +365,42 @@ def test_an_unbalanced_quote_in_a_title_is_an_error():
 def test_a_balanced_quote_in_a_title_is_fine():
     d = _doc()
     d["events"][0]["title"] = 'Described as "a state of rebellion"'
+    assert errs(d) == []
+
+
+# --- permanent event ids ----------------------------------------------------
+#
+# The id used to be the array index in build.py, so moving or inserting one
+# event silently renumbered every later event and broke their
+# /country/#event-N deep links. It now lives in the data and never changes.
+# Each of these was checked to FAIL with the validator rule removed.
+
+def test_missing_id_is_an_error():
+    d = _doc()
+    del d["events"][1]["id"]
+    assert any("missing 'id'" in x for x in errs(d))
+
+
+def test_duplicate_ids_are_an_error():
+    d = _doc()
+    d["events"][1]["id"] = d["events"][0]["id"]
+    assert any("duplicate event ids" in x for x in errs(d))
+
+
+def test_a_negative_id_is_an_error():
+    d = _doc()
+    d["events"][0]["id"] = -1
+    assert any("negative id" in x for x in errs(d))
+
+
+def test_a_non_integer_id_is_an_error():
+    d = _doc()
+    d["events"][0]["id"] = "7"
+    assert any("non-integer" in x for x in errs(d))
+
+
+def test_ids_need_not_match_the_array_order():
+    # The whole point: an event can be moved without renumbering anything.
+    d = _doc()
+    d["events"][0]["id"], d["events"][1]["id"] = 99, 98
     assert errs(d) == []
