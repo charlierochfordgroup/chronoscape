@@ -71,7 +71,10 @@ h1 {
   font-size: 2.3rem; text-transform: uppercase; letter-spacing: 1.6px; line-height: 1.1;
 }
 .tagline { color: var(--faint); font-size: 0.85rem; margin: 2px 0 0; }
-.hub-link {
+/* Right, like the other seventeen. `space-between` on .site-header only holds
+   while this shares a line with the title; the header wraps on a phone and the
+   link then took a line of its own on the LEFT. auto margin puts it back. */
+.hub-link { margin-left: auto;
   display: inline-flex; align-items: center; gap: 6px;
   border: 1px solid var(--border-strong); border-radius: 999px;
   padding: 5px 18px; font-size: 0.85rem; font-weight: 500;
