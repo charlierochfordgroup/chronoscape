@@ -620,14 +620,25 @@ For a side project this "generate locally, commit, push" flow is probably fine -
 
 ### The workflow's actions are on deprecated Node 20 (added 20/08/2026)
 
-- [ ] **Bump the four GitHub Actions off Node 20.** Every Deploy run carries the
-      annotation "Node.js 20 is deprecated ... being forced to run on Node.js 24" for
-      `actions/checkout@v4`, `actions/setup-python@v5`, `actions/upload-artifact@v4`
-      and `actions/deploy-pages@v4`. It is a warning today because the runner is
-      substituting Node 24; when the shim is withdrawn the deploy breaks, and this is
-      now the only route the site ships by. Bump each to the current major and confirm
-      a run stays green. Also worth checking the other repos in the estate at the same
-      time - they will all be on the same pinned versions.
+- [x] **Bump the four GitHub Actions off Node 20.** DONE 26/08/2026 - `checkout@v4->v7`,
+      `setup-python@v5->v7`, `upload-pages-artifact@v3->v5`, `deploy-pages@v4->v5`, and
+      the run confirmed green with the live-version guard passing. Node runtimes were
+      checked rather than assumed: `checkout`, `setup-python` and `deploy-pages` all
+      declared `using: node20` on the old pins and `node24` on the new ones.
+      **Correcting this item as written:** the third action was `upload-pages-artifact@v3`,
+      not `upload-artifact@v4`, and it is a `composite` action that declares no Node
+      runtime at all - it was never a source of the deprecation, it just wraps
+      `upload-artifact` internally. Its v4 has the one real breaking change in the set,
+      dropping hidden files from the artifact; `site/dist` has no dotfiles and no
+      `_`-prefixed paths, so nothing is lost, and there is now a comment in `deploy.yml`
+      saying to revisit if a `.nojekyll` is ever added.
+- [ ] **Bump the same actions in the other repos.** Split out 26/08/2026 from the item
+      above, which closed on Chronoscape only. The estate pins the same versions
+      everywhere, so `charlie-tren.github.io`, `consensus-drift`, `lindy-effect`,
+      `crowdwise`, `dcf-studio`, `the-aftertimes` and `photocopy` are all likely still on
+      Node 20 actions and carrying the same deprecation. Same check as above: confirm
+      each repo's artifact directory has no dotfiles before taking
+      `upload-pages-artifact` past v3.
 
 ### The orphaned Pages project in the other Cloudflare account (added 20/08/2026)
 

@@ -46,13 +46,13 @@ jobs:
       name: github-pages
       url: ${{ steps.pages.outputs.page_url }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with:
           # version() reads git history and has already shipped a production bug on
           # Cloudflare's shallow clone - give it the full history here.
           fetch-depth: 0
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with:
           python-version: "3.12"
           cache: pip
@@ -76,13 +76,16 @@ jobs:
         env:
           SITE_URL: https://charlietrenorden.com/chronoscape
 
+      # upload-pages-artifact v4 stopped including hidden files in the artifact.
+      # Checked before bumping: site/dist has no dotfiles and no `_`-prefixed paths,
+      # so nothing is dropped. If a `.nojekyll` is ever added, revisit this.
       - name: Publish to GitHub Pages
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: site/dist
 
       - id: pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
       # A green deploy is not proof the page changed - that mistake has been made on this
       # repo three times. Check the live URL for the version string this run built, and
