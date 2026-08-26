@@ -28,6 +28,30 @@ Adding a country: see `countries/README.md`. Tests: `python -m pytest tests -q`.
 
 ## Outstanding
 
+- [ ] **The retired subdomain never became a redirect - it is still serving a stale second
+      copy of the whole site.** Found 26/08/2026 at a hub wrap. `deploy.yml`'s header says
+      this was RESOLVED on 20/08/2026, with `chronoscape-timeline` reduced to a `_redirects`
+      file that 301s to `charlietrenorden.com/chronoscape/:splat`. It is not doing that.
+      MEASURED, not inferred:
+        - `curl -I https://chronoscape.charlietrenorden.com/` returns **200, no Location
+          header**. Following it lands back on the subdomain, not the canonical URL.
+        - That copy is genuinely OLD: no Australia (added the same morning in `0a2a73a`)
+          and no `beacon.charlietrenorden.com/b.js` (added in `24a959c`). 173,879 bytes
+          against the canonical page's 172,962.
+      LIMITED DAMAGE, worth stating so this is not over-read: both copies declare the SAME
+      `<link rel="canonical">` pointing at `charlietrenorden.com/chronoscape/taiwan/`, so
+      the duplicate-canonical problem the 20/08 change was fixing has NOT come back. The
+      harm is a visitor arriving on the old URL getting a stale site that reports no
+      returning-visitor data.
+      THE FIX IS THE ONE THIS REPO ALREADY PRESCRIBES: deploy a directory containing ONLY
+      `_redirects` to `chronoscape-timeline`. Do NOT `wrangler pages deploy site/dist`
+      against it - see the `deploy.yml` header for why that recreates the worse problem.
+      NOT DONE HERE because it is a Cloudflare deploy against a project this repo's own
+      workflow deliberately holds no token for.
+      THE CLASS WORTH REMEMBERING: a comment saying a thing was resolved is not evidence
+      it is resolved. This one had been wrong for six days and the header read as settled.
+
+
 - [x] **Two dead Supabase secrets on this repo.** DELETED 14/08/2026. `SUPABASE_ANON_KEY`
       and `SUPABASE_URL` (set 19/05/2026) were removed with `gh secret delete` after
       grepping the whole repo - no code, template or workflow referenced either, and
