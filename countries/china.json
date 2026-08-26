@@ -1,0 +1,2330 @@
+{
+  "country": {
+    "name": "China",
+    "center_lat": 35.0,
+    "center_lng": 105.0,
+    "default_zoom": 3
+  },
+  "eras": [
+    {
+      "name": "Ancient and Shang",
+      "short_name": "Ancient",
+      "sort_order": 0,
+      "year_start": -7000,
+      "year_end": -1046,
+      "date_label": "to 1046 BCE",
+      "width_pct": 7,
+      "color": "#5a8a9a"
+    },
+    {
+      "name": "Zhou Dynasty",
+      "short_name": "Zhou",
+      "sort_order": 1,
+      "year_start": -1046,
+      "year_end": -256,
+      "date_label": "1046-256 BCE",
+      "width_pct": 10,
+      "color": "#6b7f9e"
+    },
+    {
+      "name": "Qin and Han",
+      "short_name": "Qin and Han",
+      "sort_order": 2,
+      "year_start": -221,
+      "year_end": 220,
+      "date_label": "221 BCE-220 CE",
+      "width_pct": 11,
+      "color": "#7a6fa0"
+    },
+    {
+      "name": "Division and Reunification",
+      "short_name": "Division",
+      "sort_order": 3,
+      "year_start": 220,
+      "year_end": 618,
+      "date_label": "220-618",
+      "width_pct": 8,
+      "color": "#8a6b93"
+    },
+    {
+      "name": "Tang Dynasty",
+      "short_name": "Tang",
+      "sort_order": 4,
+      "year_start": 618,
+      "year_end": 907,
+      "date_label": "618-907",
+      "width_pct": 10,
+      "color": "#9c6a7d"
+    },
+    {
+      "name": "Song and Yuan",
+      "short_name": "Song and Yuan",
+      "sort_order": 5,
+      "year_start": 907,
+      "year_end": 1368,
+      "date_label": "907-1368",
+      "width_pct": 11,
+      "color": "#a87356"
+    },
+    {
+      "name": "Ming Dynasty",
+      "short_name": "Ming",
+      "sort_order": 6,
+      "year_start": 1368,
+      "year_end": 1644,
+      "date_label": "1368-1644",
+      "width_pct": 10,
+      "color": "#b08a45"
+    },
+    {
+      "name": "Qing Dynasty",
+      "short_name": "Qing",
+      "sort_order": 7,
+      "year_start": 1644,
+      "year_end": 1912,
+      "date_label": "1644-1912",
+      "width_pct": 12,
+      "color": "#8f9a4a"
+    },
+    {
+      "name": "Republic and War",
+      "short_name": "Republic",
+      "sort_order": 8,
+      "year_start": 1912,
+      "year_end": 1949,
+      "date_label": "1912-1949",
+      "width_pct": 11,
+      "color": "#5f9a6a"
+    },
+    {
+      "name": "People's Republic",
+      "short_name": "PRC",
+      "sort_order": 9,
+      "year_start": 1949,
+      "year_end": 2026,
+      "date_label": "1949 to now",
+      "width_pct": 10,
+      "color": "#4fa3a0"
+    }
+  ],
+  "events": [
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -7000,
+      "display_date": "c. 7000 BCE",
+      "title": "Millet farming on the Yellow River",
+      "description": "Villages at Jiahu and Peiligang grow millet, keep pigs and make some of the world's earliest playable flutes. Chinese civilisation starts on a river that floods.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Jiahu",
+      "lat": 33.62,
+      "lng": 113.68,
+      "is_major": false
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -5000,
+      "display_date": "c. 5000 BCE",
+      "title": "Yangshao painted pottery",
+      "description": "The Banpo village outside modern Xi'an leaves round houses, communal graves and red pottery painted with fish and human faces.",
+      "categories": [
+        "Cultural",
+        "Social"
+      ],
+      "source": "Yangshao_culture",
+      "lat": 34.27,
+      "lng": 109.05,
+      "is_major": false
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -3300,
+      "display_date": "c. 3300 BCE",
+      "title": "The jade city of Liangzhu",
+      "description": "A walled settlement in the Yangtze delta builds vast water works and buries its elite with worked jade. Complex society in China is not only a northern story.",
+      "categories": [
+        "Cultural",
+        "Social"
+      ],
+      "source": "Liangzhu_culture",
+      "lat": 30.4,
+      "lng": 119.99,
+      "is_major": false
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -2070,
+      "display_date": "c. 2070 BCE",
+      "title": "The Xia, half history and half legend",
+      "description": "Traditional histories name the Xia as the first dynasty. The bronze-age site at Erlitou is the best candidate, but nothing found there yet says the name.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Xia_dynasty",
+      "lat": 34.7,
+      "lng": 112.69,
+      "is_major": false
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -1600,
+      "display_date": "c. 1600 BCE",
+      "title": "The Shang dynasty founded",
+      "description": "The first Chinese dynasty attested in its own writing rules the middle Yellow River from a series of capitals, the last of them at Anyang.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Shang_dynasty",
+      "lat": 34.75,
+      "lng": 113.63,
+      "is_major": true
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -1250,
+      "display_date": "c. 1250 BCE",
+      "title": "Oracle bones at Anyang",
+      "description": "Diviners scorch ox scapulae and turtle shells, then record the question and the answer beside the cracks. It is the earliest Chinese writing, and it is directly ancestral to the script still in use.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Oracle_bone_script",
+      "lat": 36.1,
+      "lng": 114.35,
+      "is_major": true
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -1200,
+      "display_date": "c. 1200 BCE",
+      "title": "The bronze masks of Sanxingdui",
+      "description": "A culture in Sichuan with no place in the traditional histories buries pits of gold, jade and enormous bronze heads with protruding eyes.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Sanxingdui",
+      "lat": 30.99,
+      "lng": 104.2,
+      "is_major": false
+    },
+    {
+      "era_name": "Ancient and Shang",
+      "sort_year": -1046,
+      "display_date": "c. 1046 BCE",
+      "title": "Battle of Muye ends the Shang",
+      "description": "Zhou armies break the last Shang king, who burns himself in his palace. The victors write the losers up as drunkards and tyrants.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Battle_of_Muye",
+      "lat": 35.3,
+      "lng": 114.05,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -1045,
+      "display_date": "c. 1045 BCE",
+      "title": "The Mandate of Heaven",
+      "description": "The Zhou justify the conquest with a doctrine that will outlast them by three thousand years: heaven backs a just ruler and withdraws that backing from a bad one. It makes rebellion legitimate in principle.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "Mandate_of_Heaven",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -1000,
+      "display_date": "c. 1000 BCE",
+      "title": "The fengjian order",
+      "description": "Kinsmen and allies are granted territories in return for military service. It works while the royal house is strong and dissolves into independent states when it is not.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Fengjian",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -771,
+      "display_date": "771 BCE",
+      "title": "The capital moves east to Luoyang",
+      "description": "Nomadic raiders sack Haojing and kill King You. The court re-establishes itself downstream, and royal authority never recovers.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Zhou_dynasty",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -722,
+      "display_date": "722 BCE",
+      "title": "The Spring and Autumn Annals begin",
+      "description": "The terse court chronicle of the state of Lu gives its name to two and a half centuries in which the great states swallow the small ones.",
+      "categories": [
+        "Cultural",
+        "Political"
+      ],
+      "source": "Spring_and_Autumn_Annals",
+      "lat": 35.6,
+      "lng": 116.99,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -651,
+      "display_date": "651 BCE",
+      "title": "Duke Huan of Qi becomes hegemon",
+      "description": "With the king reduced to a figurehead, the strongest ruler is acknowledged as protector of the Zhou order. It is the first of several such arrangements.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Duke_Huan_of_Qi",
+      "lat": 36.83,
+      "lng": 118.31,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -551,
+      "display_date": "551 BCE",
+      "title": "Confucius is born at Qufu",
+      "description": "A minor official who never held real power spends his life arguing that government is a moral craft, ritual makes people humane, and the past is the syllabus.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Confucius",
+      "lat": 35.6,
+      "lng": 116.99,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -500,
+      "display_date": "c. 500 BCE",
+      "title": "The Art of War",
+      "description": "The text attributed to Sun Tzu treats war as a problem in deception, logistics and knowing when not to fight. It is still on staff college reading lists.",
+      "categories": [
+        "Cultural",
+        "Military"
+      ],
+      "source": "The_Art_of_War",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -475,
+      "display_date": "475 BCE",
+      "title": "The Warring States period opens",
+      "description": "Seven large states fight for two and a half centuries with mass conscript armies, iron weapons and no pretence of Zhou authority.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Warring_States_period",
+      "lat": null,
+      "lng": null,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -400,
+      "display_date": "c. 400 BCE",
+      "title": "Cast iron and the crossbow",
+      "description": "China casts iron roughly seventeen centuries before Europe manages it, and fields a trigger-locked crossbow that lets a conscript outrange a trained archer.",
+      "categories": [
+        "Scientific",
+        "Military"
+      ],
+      "source": "History_of_metallurgy_in_China",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -370,
+      "display_date": "c. 370 BCE",
+      "title": "Laozi and the Daoist current",
+      "description": "The Tao Te Ching sets a counterweight to Confucian earnestness: govern less, yield rather than resist, and distrust the categories you are using.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Tao_Te_Ching",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -359,
+      "display_date": "359 BCE",
+      "title": "Shang Yang's reforms in Qin",
+      "description": "Rank by battlefield merit rather than birth, collective punishment, land made saleable, and the whole population registered. Qin becomes the most efficient and least pleasant state in China.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Shang_Yang",
+      "lat": 34.33,
+      "lng": 108.71,
+      "is_major": true
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -256.5,
+      "display_date": "c. 256 BCE",
+      "title": "The Dujiangyan irrigation works",
+      "description": "Li Bing splits the Min River without a dam, turning the Chengdu plain into the granary that will feed Qin's conquest. It still irrigates farmland today.",
+      "categories": [
+        "Scientific",
+        "Economic"
+      ],
+      "source": "Dujiangyan",
+      "lat": 31.0,
+      "lng": 103.61,
+      "is_major": false
+    },
+    {
+      "era_name": "Zhou Dynasty",
+      "sort_year": -256,
+      "display_date": "256 BCE",
+      "title": "Qin extinguishes the last Zhou king",
+      "description": "The dynasty that had been nominal for five hundred years is formally ended. Nobody outside Luoyang appears to have minded much.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -221,
+      "display_date": "221 BCE",
+      "title": "Qin Shi Huang unifies China",
+      "description": "The king of Qin defeats the last rival state and invents a title for himself: First Emperor. The unit of Chinese politics becomes the empire, and stays that way.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Qin_Shi_Huang",
+      "lat": 34.33,
+      "lng": 108.71,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -220,
+      "display_date": "c. 220 BCE",
+      "title": "Script, coin and axle widths standardised",
+      "description": "One writing system, one currency, one cart gauge so wheels fit the ruts. The empire is welded together by administration as much as by armies.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Qin_dynasty",
+      "lat": null,
+      "lng": null,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -215,
+      "display_date": "215 BCE",
+      "title": "The northern walls are joined",
+      "description": "Existing state walls are linked into a single frontier against the Xiongnu, at a cost in conscript lives that becomes proverbial.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Great_Wall_of_China",
+      "lat": 40.43,
+      "lng": 116.57,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -213,
+      "display_date": "213 BCE",
+      "title": "Books burned, scholars buried",
+      "description": "Histories of the defeated states and copies of the classics are destroyed to remove any standard against which the present might be judged. The story may be exaggerated; the intent was not.",
+      "categories": [
+        "Cultural",
+        "Political"
+      ],
+      "source": "Burning_of_books_and_burying_of_scholars",
+      "lat": 34.33,
+      "lng": 108.71,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -210,
+      "display_date": "210 BCE",
+      "title": "The Terracotta Army",
+      "description": "Some eight thousand individually modelled soldiers are buried to guard a dead emperor who had spent years hunting for an elixir of immortality.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Terracotta_Army",
+      "lat": 34.38,
+      "lng": 109.27,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -209,
+      "display_date": "209 BCE",
+      "title": "The Dazexiang uprising",
+      "description": "Conscripts who will be executed for arriving late decide they may as well rebel. Within three years the Qin, which was to last ten thousand generations, is gone.",
+      "categories": [
+        "Social",
+        "Military"
+      ],
+      "source": "Dazexiang_uprising",
+      "lat": 33.64,
+      "lng": 117.02,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -202,
+      "display_date": "202 BCE",
+      "title": "Liu Bang founds the Han",
+      "description": "A village official beats an aristocratic rival and takes the throne. The Han keep the Qin machinery and drop the worst of its cruelty, and Chinese people still call themselves Han.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Han_dynasty",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -141,
+      "display_date": "141 BCE",
+      "title": "Emperor Wu takes the throne",
+      "description": "Fifty-four years of expansion in every direction, paid for by state monopolies on salt and iron and by taxing merchants nearly out of existence.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Emperor_Wu_of_Han",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -138,
+      "display_date": "138 BCE",
+      "title": "Zhang Qian is sent west",
+      "description": "An envoy looking for allies against the Xiongnu is captured, escapes after a decade, and comes back with the first solid Chinese account of Central Asia.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Zhang_Qian",
+      "lat": 39.47,
+      "lng": 75.99,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -136,
+      "display_date": "136 BCE",
+      "title": "Confucianism becomes state doctrine",
+      "description": "The classics become the curriculum of officialdom. Government by examined scholars rather than by hereditary warriors starts here.",
+      "categories": [
+        "Religious",
+        "Political"
+      ],
+      "source": "Confucianism",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -130,
+      "display_date": "c. 130 BCE",
+      "title": "The Silk Road opens",
+      "description": "Garrisons along the Gansu corridor make the overland route to the west safe enough for silk to travel one way and horses, glass and Buddhism the other.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Silk_Road",
+      "lat": 40.14,
+      "lng": 94.66,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": -91,
+      "display_date": "c. 91 BCE",
+      "title": "Sima Qian's Records of the Grand Historian",
+      "description": "A court official castrated for defending a disgraced general finishes the history anyway, and sets the form every later Chinese dynastic history will follow.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Sima_Qian",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 9,
+      "display_date": "9",
+      "title": "Wang Mang usurps the throne",
+      "description": "A regent takes the throne outright and attempts land nationalisation and currency reform. Both fail, the Yellow River changes course, and rebellion finishes him.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Wang_Mang",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 25,
+      "display_date": "25",
+      "title": "The Han restored at Luoyang",
+      "description": "A distant relative of the imperial house rebuilds the dynasty from the eastern capital. The second Han is wealthier and less adventurous than the first.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Eastern_Han",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 65,
+      "display_date": "c. 65",
+      "title": "Buddhism reaches the Han court",
+      "description": "Monks arrive along the trade routes with texts that need translating and ideas that have no Chinese equivalent. It takes centuries to naturalise, and then it is everywhere.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Chinese_Buddhism",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 105,
+      "display_date": "105",
+      "title": "Cai Lun's papermaking",
+      "description": "Bark, hemp and old rags are pulped into a cheap writing surface. Everything about how China governs and remembers itself changes downstream of this.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Cai_Lun",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 132,
+      "display_date": "132",
+      "title": "Zhang Heng's seismoscope",
+      "description": "A bronze vessel drops a ball from a dragon's mouth to indicate the direction of a distant earthquake, several days before the report arrives by road.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Zhang_Heng",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 184,
+      "display_date": "184",
+      "title": "The Yellow Turban Rebellion",
+      "description": "A Daoist healing movement turns into a mass rising against a court run by eunuchs. Suppressing it hands real power to regional generals.",
+      "categories": [
+        "Social",
+        "Military"
+      ],
+      "source": "Yellow_Turban_Rebellion",
+      "lat": 36.1,
+      "lng": 114.5,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 208,
+      "display_date": "208",
+      "title": "Battle of Red Cliffs",
+      "description": "A southern alliance burns Cao Cao's fleet on the Yangtze and stops him unifying the country. The romance written about it a millennium later is the best-known story in China.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Battle_of_Red_Cliffs",
+      "lat": 29.87,
+      "lng": 113.62,
+      "is_major": true
+    },
+    {
+      "era_name": "Qin and Han",
+      "sort_year": 220,
+      "display_date": "220",
+      "title": "The Han ends and three kingdoms divide",
+      "description": "The last Han emperor abdicates. Wei, Shu and Wu spend sixty years fighting over the wreckage.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Three_Kingdoms",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 263,
+      "display_date": "263",
+      "title": "Shu Han falls to Wei",
+      "description": "The smallest of the three kingdoms is taken from the north, and the balance that had held since Red Cliffs collapses.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Conquest_of_Shu_by_Wei",
+      "lat": 30.66,
+      "lng": 104.07,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 280,
+      "display_date": "280",
+      "title": "The Jin briefly reunite China",
+      "description": "One dynasty holds the whole country again for about twenty years, then tears itself apart in a war between eight princes.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Jin_dynasty_(266–420)",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 311,
+      "display_date": "311",
+      "title": "The Disaster of Yongjia",
+      "description": "Xiongnu forces sack Luoyang and carry off the emperor. Northern China passes out of Han Chinese control for over two centuries.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Disaster_of_Yongjia",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 317,
+      "display_date": "317",
+      "title": "The court flees south to Jiankang",
+      "description": "The refugee gentry re-found the dynasty on the Yangtze. The economic centre of China begins its long move south, and never moves back.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Eastern_Jin",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 386,
+      "display_date": "386",
+      "title": "The Tuoba found the Northern Wei",
+      "description": "A steppe people take the north, adopt Chinese administration, and eventually legislate their own language and dress out of existence.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Northern_Wei",
+      "lat": 40.09,
+      "lng": 113.3,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 399,
+      "display_date": "399",
+      "title": "Faxian sets out for India",
+      "description": "A monk in his sixties walks across the Taklamakan to find a complete monastic rule, and comes home by sea fifteen years later with the texts.",
+      "categories": [
+        "Religious",
+        "Foreign Relations"
+      ],
+      "source": "Faxian",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 460,
+      "display_date": "460",
+      "title": "The Yungang grottoes",
+      "description": "Northern Wei rulers cut colossal Buddhas into a sandstone cliff, with faces that carry Gandharan and Central Asian features as much as Chinese ones.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Yungang_Grottoes",
+      "lat": 40.11,
+      "lng": 113.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 494,
+      "display_date": "494",
+      "title": "Northern Wei moves to Luoyang",
+      "description": "The court relocates south and orders Chinese dress, surnames and speech. It buys legitimacy and costs the dynasty its own army's loyalty.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 581,
+      "display_date": "581",
+      "title": "The Sui dynasty founded",
+      "description": "A northern general seizes the throne from his grandson and begins the reunification that the Tang will inherit.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Sui_dynasty",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 589,
+      "display_date": "589",
+      "title": "Sui conquers Chen; China is one again",
+      "description": "Three centuries of division end. The institutional repairs made in these thirty years underwrite the next three hundred.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Chen_dynasty",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 605,
+      "display_date": "605",
+      "title": "The Grand Canal",
+      "description": "Millions of conscripts link the Yellow and Yangtze rivers so southern rice can feed northern capitals. It works magnificently and it helps destroy the dynasty that built it.",
+      "categories": [
+        "Scientific",
+        "Economic"
+      ],
+      "source": "Grand_Canal_(China)",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 612,
+      "display_date": "612",
+      "title": "The invasions of Goguryeo fail",
+      "description": "Three enormous campaigns against Korea end in disaster. The cost in men and grain turns exhaustion into revolt.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Goguryeo–Sui_War",
+      "lat": 39.02,
+      "lng": 125.75,
+      "is_major": false
+    },
+    {
+      "era_name": "Division and Reunification",
+      "sort_year": 618,
+      "display_date": "618",
+      "title": "The Sui collapse and the Tang are proclaimed",
+      "description": "The second Sui emperor is strangled by his own guard. A garrison commander from Taiyuan takes the capital and founds a dynasty that lasts three centuries.",
+      "categories": [
+        "Political"
+      ],
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 626,
+      "display_date": "626",
+      "title": "The Xuanwu Gate incident",
+      "description": "Li Shimin kills two brothers at the palace gate and takes the throne from his father. As Emperor Taizong he becomes the model ruler of Chinese history.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Xuanwu_Gate_Incident",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 629,
+      "display_date": "629",
+      "title": "Xuanzang leaves for India",
+      "description": "A monk defies a travel ban and spends sixteen years crossing Central Asia and studying at Nalanda, then writes the geography up so precisely that archaeologists still use it.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Xuanzang",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": true
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 640,
+      "display_date": "640",
+      "title": "Tang power reaches the Tarim Basin",
+      "description": "Garrisons at Kucha, Khotan, Kashgar and Karashahr put the oasis cities under Chinese protection and the trade routes under Chinese tax.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Anxi_Protectorate",
+      "lat": 41.72,
+      "lng": 82.95,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 645,
+      "display_date": "645",
+      "title": "Xuanzang returns with the sutras",
+      "description": "Six hundred and fifty texts come back by camel, and a pagoda is built at Chang'an to house them while a state-funded team spends decades translating.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Giant_Wild_Goose_Pagoda",
+      "lat": 34.22,
+      "lng": 108.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 690,
+      "display_date": "690",
+      "title": "Wu Zetian declares herself emperor",
+      "description": "A former concubine becomes the only woman to rule China in her own name, promotes officials on examination results, and is written up ferociously by the men who came after.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Wu_Zetian",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 713,
+      "display_date": "713",
+      "title": "The Leshan Giant Buddha begun",
+      "description": "A monk starts carving a seventy-one metre Buddha into a cliff at a dangerous river confluence, on the theory that the rubble alone will calm the water. It takes ninety years.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Leshan_Giant_Buddha",
+      "lat": 29.55,
+      "lng": 103.77,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 730,
+      "display_date": "c. 730",
+      "title": "Li Bai and Du Fu",
+      "description": "The two greatest Chinese poets are alive at the same time, briefly travel together, and write from opposite temperaments about the same collapsing world.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Tang_poetry",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 751,
+      "display_date": "751",
+      "title": "Battle of Talas",
+      "description": "An Arab and Karluk force stops Tang expansion in Central Asia. Chinese prisoners are said to have carried papermaking west from here.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Battle_of_Talas",
+      "lat": 42.52,
+      "lng": 72.23,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 755,
+      "display_date": "755",
+      "title": "An Lushan rebels",
+      "description": "A frontier general with three commands marches on the capital. Eight years of war leave the census down by tens of millions and the dynasty permanently weakened.",
+      "categories": [
+        "Military"
+      ],
+      "source": "An_Lushan_rebellion",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 780,
+      "display_date": "780",
+      "title": "The twice-a-year tax",
+      "description": "The equal-field system has collapsed, so the state stops taxing bodies and starts taxing land and wealth. Landholding is effectively legalised.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Two-tax_system",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 845,
+      "display_date": "845",
+      "title": "The great persecution of Buddhism",
+      "description": "Forty thousand shrines are closed and a quarter of a million monks and nuns returned to lay life, largely to seize monastic land and metal. Chinese Buddhism never regains its institutional weight.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Great_Anti-Buddhist_Persecution",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 868,
+      "display_date": "868",
+      "title": "The Diamond Sutra is printed",
+      "description": "A scroll from the Dunhuang caves carries the world's earliest dated printed book, six centuries before Gutenberg, and says so in its own colophon.",
+      "categories": [
+        "Cultural",
+        "Scientific"
+      ],
+      "source": "Diamond_Sutra",
+      "lat": 40.14,
+      "lng": 94.66,
+      "is_major": true
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 875,
+      "display_date": "875",
+      "title": "Huang Chao's rebellion",
+      "description": "A failed examination candidate and salt smuggler leads a rising that sacks both capitals and massacres the foreign merchant community at Guangzhou.",
+      "categories": [
+        "Military",
+        "Social"
+      ],
+      "source": "Huang_Chao",
+      "lat": 23.13,
+      "lng": 113.26,
+      "is_major": false
+    },
+    {
+      "era_name": "Tang Dynasty",
+      "sort_year": 907,
+      "display_date": "907",
+      "title": "The Tang fall and five dynasties follow",
+      "description": "A warlord deposes the last Tang emperor. Half a century of short-lived regimes follows in the north and ten kingdoms in the south.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Five_Dynasties_and_Ten_Kingdoms_period",
+      "lat": 34.62,
+      "lng": 112.45,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 960,
+      "display_date": "960",
+      "title": "The Song founded at Kaifeng",
+      "description": "A general is handed the throne by his own troops and then spends his reign making sure no general can ever do that again. Civil officials outrank soldiers from here on.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Song_dynasty",
+      "lat": 34.8,
+      "lng": 114.31,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1000,
+      "display_date": "c. 1000",
+      "title": "Gunpowder goes to war",
+      "description": "Alchemists looking for an elixir of life produce an incendiary. Song armies field fire arrows, bombs and eventually the first true guns.",
+      "categories": [
+        "Scientific",
+        "Military"
+      ],
+      "source": "History_of_gunpowder",
+      "lat": null,
+      "lng": null,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1041,
+      "display_date": "c. 1041",
+      "title": "Bi Sheng invents movable type",
+      "description": "Individual characters are cut in fired clay and set in an iron frame. With tens of thousands of characters to store, woodblock printing stays more practical in China.",
+      "categories": [
+        "Scientific",
+        "Cultural"
+      ],
+      "source": "Bi_Sheng",
+      "lat": 34.8,
+      "lng": 114.31,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1069,
+      "display_date": "1069",
+      "title": "Wang Anshi's New Policies",
+      "description": "State loans to farmers, a hired militia, and government trading to break merchant cartels. The reforms split the bureaucracy into factions for a century.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Wang_Anshi",
+      "lat": 34.8,
+      "lng": 114.31,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1085,
+      "display_date": "c. 1085",
+      "title": "The first government paper money",
+      "description": "Sichuan merchant notes are taken over by the state. China runs a paper currency roughly six hundred years before anywhere in Europe tries it.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Jiaozi_(currency)",
+      "lat": 30.66,
+      "lng": 104.07,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1127,
+      "display_date": "1127",
+      "title": "The Jingkang incident",
+      "description": "Jurchen armies take Kaifeng and carry two emperors north as prisoners. It is the most humiliating date in the Chinese calendar and it is invoked for centuries.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Jingkang_incident",
+      "lat": 34.8,
+      "lng": 114.31,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1138,
+      "display_date": "1138",
+      "title": "The Southern Song capital at Lin'an",
+      "description": "The rump dynasty settles at modern Hangzhou and becomes the richest, most urban and most commercial state in the world at that date.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Southern_Song",
+      "lat": 30.27,
+      "lng": 120.16,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1142,
+      "display_date": "1142",
+      "title": "Yue Fei is executed",
+      "description": "The general who wanted to reconquer the north is killed on a fabricated charge by a court that wanted peace. He becomes the standard Chinese emblem of loyalty betrayed.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Yue_Fei",
+      "lat": 30.25,
+      "lng": 120.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1206,
+      "display_date": "1206",
+      "title": "Genghis Khan unites the Mongols",
+      "description": "A confederation on the northern steppe acquires a single leader and a discipline no settled army can match. Within seventy years it will hold all of China.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Genghis_Khan",
+      "lat": 47.92,
+      "lng": 106.92,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1234,
+      "display_date": "1234",
+      "title": "The Mongols destroy the Jin",
+      "description": "The Jurchen state that had humbled the Song is annihilated, with Song help. The Song have removed their only buffer.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Mongol_conquest_of_the_Jin_dynasty",
+      "lat": 34.4,
+      "lng": 113.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1271,
+      "display_date": "1271",
+      "title": "Kublai Khan proclaims the Yuan",
+      "description": "The Mongol ruler takes a Chinese dynastic name and rules from a new capital on the site of modern Beijing. China is governed by a foreign house for the first time in its entirety.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Yuan_dynasty",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1275,
+      "display_date": "c. 1275",
+      "title": "Marco Polo at the Yuan court",
+      "description": "A Venetian describes a country with paper money, coal fires and cities larger than anything in Europe. Readers assume he is lying.",
+      "categories": [
+        "Foreign Relations",
+        "Cultural"
+      ],
+      "source": "Marco_Polo",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1279,
+      "display_date": "1279",
+      "title": "Battle of Yamen ends the Song",
+      "description": "The Song fleet is destroyed off the Pearl River delta and a minister jumps into the sea holding the seven-year-old emperor.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Battle_of_Yamen",
+      "lat": 22.17,
+      "lng": 113.03,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1281,
+      "display_date": "1281",
+      "title": "The invasions of Japan fail",
+      "description": "A second seaborne assault on Kyushu is wrecked by a typhoon the Japanese name the divine wind. Yuan naval ambition dies with the fleet.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Mongol_invasions_of_Japan",
+      "lat": 33.6,
+      "lng": 130.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1351,
+      "display_date": "1351",
+      "title": "The Red Turban rebellions",
+      "description": "Yellow River floods, forced canal labour and a millenarian Buddhist sect combine into a rising the Yuan cannot put down.",
+      "categories": [
+        "Social",
+        "Military"
+      ],
+      "source": "Red_Turban_Rebellions",
+      "lat": 34.8,
+      "lng": 114.31,
+      "is_major": false
+    },
+    {
+      "era_name": "Song and Yuan",
+      "sort_year": 1368,
+      "display_date": "1368",
+      "title": "Ming armies take Dadu",
+      "description": "The Mongol court withdraws to the steppe rather than fight for the capital, and continues to call itself the Yuan for another two centuries.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1368.5,
+      "display_date": "1368",
+      "title": "Zhu Yuanzhang founds the Ming",
+      "description": "An orphaned peasant who spent years as a begging monk ends up emperor. He abolishes the chancellorship, purges tens of thousands, and runs the empire personally.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Hongwu_Emperor",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1405,
+      "display_date": "1405",
+      "title": "Zheng He's first treasure voyage",
+      "description": "A Muslim eunuch admiral sails to India with over three hundred ships and perhaps twenty-eight thousand men, decades before the Portuguese round Africa.",
+      "categories": [
+        "Foreign Relations",
+        "Economic"
+      ],
+      "source": "Zheng_He",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1406,
+      "display_date": "1406",
+      "title": "The Forbidden City begun",
+      "description": "A million workers spend fourteen years on nine hundred buildings. It is the seat of Chinese government for five centuries.",
+      "categories": [
+        "Cultural",
+        "Political"
+      ],
+      "source": "Forbidden_City",
+      "lat": 39.92,
+      "lng": 116.39,
+      "is_major": true
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1421,
+      "display_date": "1421",
+      "title": "The capital moves to Beijing",
+      "description": "The Yongle Emperor shifts the centre of gravity north to face the steppe, and commits the state permanently to feeding a capital that cannot feed itself.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Yongle_Emperor",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1433,
+      "display_date": "1433",
+      "title": "The treasure fleets are ended",
+      "description": "The voyages are stopped, the records suppressed and ocean-going shipbuilding restricted. China turns inward at the exact moment Europe turns outward.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Haijin",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1449,
+      "display_date": "1449",
+      "title": "The Tumu Crisis",
+      "description": "A eunuch-led campaign loses an army and an emperor to the Mongols within a day's march of the Great Wall. The Ming go permanently on the defensive.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Tumu_Crisis",
+      "lat": 40.42,
+      "lng": 115.44,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1550,
+      "display_date": "c. 1550",
+      "title": "The Great Wall rebuilt in brick",
+      "description": "The wall most visitors picture is Ming work: faced in brick and stone, garrisoned in depth, and built because the field army could no longer win in the open.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Great_Wall_of_China",
+      "lat": 40.43,
+      "lng": 116.57,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1557,
+      "display_date": "1557",
+      "title": "The Portuguese settle at Macau",
+      "description": "A trading post at the mouth of the Pearl River becomes the first permanent European foothold in China, and holds it for four hundred and forty-two years.",
+      "categories": [
+        "Foreign Relations",
+        "Economic"
+      ],
+      "source": "Portuguese_Macau",
+      "lat": 22.2,
+      "lng": 113.54,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1573,
+      "display_date": "1573",
+      "title": "Zhang Juzheng's reforms",
+      "description": "The Single Whip reform consolidates a tangle of taxes and labour dues into one silver payment. It works, and it ties the empire's finances to imported American silver.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Zhang_Juzheng",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1582,
+      "display_date": "1582",
+      "title": "Matteo Ricci reaches China",
+      "description": "A Jesuit learns the classics well enough to argue in them, and trades European clockwork, cartography and geometry for permission to stay.",
+      "categories": [
+        "Religious",
+        "Scientific"
+      ],
+      "source": "Matteo_Ricci",
+      "lat": 22.2,
+      "lng": 113.54,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1592,
+      "display_date": "1592",
+      "title": "Ming armies fight Japan in Korea",
+      "description": "Two Japanese invasions of Korea are met by Ming intervention. Six years of war drain the treasury of the dynasty that wins.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Imjin_War",
+      "lat": 37.57,
+      "lng": 126.98,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1616,
+      "display_date": "1616",
+      "title": "Nurhaci founds the Later Jin",
+      "description": "A Jurchen chief organises his people into banners, declares a state, and lists seven grievances against the Ming. His grandson will rule China.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Nurhaci",
+      "lat": 41.8,
+      "lng": 123.43,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1627,
+      "display_date": "c. 1627",
+      "title": "Famine and rebellion in Shaanxi",
+      "description": "Cold weather, failed harvests, unpaid soldiers and a silver shortage produce risings across the northwest that the Ming never suppress.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Ming Dynasty",
+      "sort_year": 1644,
+      "display_date": "April 1644",
+      "title": "Li Zicheng takes Beijing",
+      "description": "The rebel armies enter the capital and the last Ming emperor hangs himself on a hill behind the palace. He had reigned for seventeen increasingly impossible years.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Li_Zicheng",
+      "lat": 39.92,
+      "lng": 116.39,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1644.5,
+      "display_date": "May 1644",
+      "title": "The Manchus enter through Shanhai Pass",
+      "description": "A Ming general opens the gate to the Qing rather than submit to the rebels. The Manchus take Beijing and stay for two hundred and sixty-eight years.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Qing_dynasty",
+      "lat": 40.01,
+      "lng": 119.75,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1645,
+      "display_date": "1645",
+      "title": "The queue order",
+      "description": "Han men are given ten days to shave the front of the head and wear the Manchu braid, or lose the head. Resistance to it costs tens of thousands of lives.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Queue_(hairstyle)",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1661,
+      "display_date": "1661",
+      "title": "Koxinga takes Taiwan from the Dutch",
+      "description": "A Ming loyalist besieges Fort Zeelandia and turns the island into a base for a restoration that never comes.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Koxinga",
+      "lat": 23.0,
+      "lng": 120.2,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1683,
+      "display_date": "1683",
+      "title": "The Qing annex Taiwan",
+      "description": "The Kangxi Emperor takes the island, absorbs it into Fujian province, and then discourages migration to it for decades.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Kingdom_of_Tungning",
+      "lat": 23.48,
+      "lng": 120.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1689,
+      "display_date": "1689",
+      "title": "The Treaty of Nerchinsk",
+      "description": "China's first treaty with a European power fixes the Amur frontier with Russia and is negotiated in Latin by Jesuit interpreters.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Treaty_of_Nerchinsk",
+      "lat": 51.99,
+      "lng": 116.57,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1720,
+      "display_date": "c. 1720",
+      "title": "The Canton System",
+      "description": "All Western trade is funnelled through licensed merchant houses at one city. It is orderly, lucrative and deeply resented by the people it excludes.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Canton_System",
+      "lat": 23.11,
+      "lng": 113.25,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1755,
+      "display_date": "1755",
+      "title": "The Dzungar campaigns",
+      "description": "Qing armies destroy the last steppe empire and settle the northwest. The territory becomes Xinjiang, the new frontier.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Dzungar_genocide",
+      "lat": 43.83,
+      "lng": 87.62,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1793,
+      "display_date": "1793",
+      "title": "The Macartney embassy is rebuffed",
+      "description": "A British mission asking for open trade is told that the empire possesses all things and has no use for foreign manufactures. Within fifty years the argument is settled by gunboat.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Macartney_Embassy",
+      "lat": 41.0,
+      "lng": 117.94,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1839,
+      "display_date": "1839",
+      "title": "Lin Zexu destroys the opium at Humen",
+      "description": "Twenty thousand chests of British opium are dissolved in seawater over three weeks. It is a legitimate act of drug enforcement and it is used as a pretext for war.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Lin_Zexu",
+      "lat": 22.82,
+      "lng": 113.67,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1842,
+      "display_date": "1842",
+      "title": "The Treaty of Nanking",
+      "description": "Defeat in the First Opium War opens five ports, hands over Hong Kong and sets an indemnity. It is the first of what China calls the unequal treaties.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Treaty_of_Nanking",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1851,
+      "display_date": "1851",
+      "title": "The Taiping Rebellion begins",
+      "description": "A failed examination candidate who believes he is the younger brother of Jesus raises an army, takes Nanjing and holds it for eleven years. Twenty million or more die.",
+      "categories": [
+        "Military",
+        "Religious"
+      ],
+      "source": "Taiping_Rebellion",
+      "lat": 23.36,
+      "lng": 110.1,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1860,
+      "display_date": "1860",
+      "title": "The Summer Palace is burned",
+      "description": "British and French troops loot and destroy the imperial gardens in reprisal. The ruins are deliberately left standing as a national grievance.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Old_Summer_Palace",
+      "lat": 40.0,
+      "lng": 116.27,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1861,
+      "display_date": "1861",
+      "title": "The Self-Strengthening Movement",
+      "description": "Arsenals, shipyards, a translation bureau and students sent abroad, on the theory that Chinese learning can be the substance and Western learning the tool.",
+      "categories": [
+        "Scientific",
+        "Political"
+      ],
+      "source": "Self-Strengthening_Movement",
+      "lat": 31.23,
+      "lng": 121.47,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1894,
+      "display_date": "1894",
+      "title": "War with Japan; Taiwan ceded",
+      "description": "The modernised Japanese navy destroys the Beiyang fleet. Losing to a country China had regarded as a student is a greater shock than losing to Europe.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "First_Sino-Japanese_War",
+      "lat": 37.47,
+      "lng": 122.1,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1898,
+      "display_date": "1898",
+      "title": "The Hundred Days' Reform",
+      "description": "A young emperor issues over a hundred reform edicts in three months. His aunt places him under arrest and has six of the reformers executed.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Hundred_Days'_Reform",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1900,
+      "display_date": "1900",
+      "title": "The Boxer Uprising",
+      "description": "An anti-foreign militia movement besieges the legations with court backing. An eight-nation force takes Beijing and imposes an indemnity payable until 1940.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Boxer_Rebellion",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1905,
+      "display_date": "1905",
+      "title": "The imperial examinations abolished",
+      "description": "Thirteen centuries of recruitment by classical essay end at a stroke. An entire educated class loses its route into the state overnight.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Imperial_examination",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Qing Dynasty",
+      "sort_year": 1911,
+      "display_date": "10 October 1911",
+      "title": "The Wuchang Uprising",
+      "description": "An accidental bomb explosion forces a garrison mutiny into the open. Province after province declares independence and the dynasty has no army willing to stop them.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Wuchang_Uprising",
+      "lat": 30.55,
+      "lng": 114.31,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1912,
+      "display_date": "1 January 1912",
+      "title": "The Republic of China is proclaimed",
+      "description": "Sun Yat-sen is sworn in at Nanjing and hands the presidency to Yuan Shikai six weeks later in exchange for the emperor's abdication. Two millennia of dynastic rule end.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Republic_of_China_(1912–1949)",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1915,
+      "display_date": "1915",
+      "title": "Japan's Twenty-One Demands",
+      "description": "Tokyo presents terms that would reduce China to a protectorate. Yuan Shikai concedes most of them and destroys his own standing doing it.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Twenty-One_Demands",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1916,
+      "display_date": "1916",
+      "title": "The warlord era begins",
+      "description": "Yuan Shikai dies after a failed attempt to make himself emperor, and the country splits among regional commanders for a decade.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Warlord_Era",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1919,
+      "display_date": "4 May 1919",
+      "title": "The May Fourth Movement",
+      "description": "Students protest the transfer of German concessions to Japan at Versailles. The demonstration turns into a wholesale attack on Confucian tradition and classical language.",
+      "categories": [
+        "Social",
+        "Cultural"
+      ],
+      "source": "May_Fourth_Movement",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1921,
+      "display_date": "July 1921",
+      "title": "The Communist Party is founded",
+      "description": "Thirteen delegates meet in a Shanghai house and then finish the meeting on a lake boat to avoid the police.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Chinese_Communist_Party",
+      "lat": 31.23,
+      "lng": 121.47,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1926,
+      "display_date": "1926",
+      "title": "The Northern Expedition",
+      "description": "Nationalist and Communist forces march north from Guangzhou and break the warlords in two years.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Northern_Expedition",
+      "lat": 23.13,
+      "lng": 113.26,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1927,
+      "display_date": "April 1927",
+      "title": "The Shanghai massacre",
+      "description": "Chiang Kai-shek turns on his Communist allies with the help of the city's gangs. The united front ends in a week and the civil war begins.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Shanghai_massacre",
+      "lat": 31.23,
+      "lng": 121.47,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1928,
+      "display_date": "1928",
+      "title": "The Nanjing decade opens",
+      "description": "The Nationalists set up a national government with a new capital, a central bank and genuine modernisation, on a base that never covers the whole country.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Nanjing_decade",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1931,
+      "display_date": "18 September 1931",
+      "title": "Japan seizes Manchuria",
+      "description": "A staged explosion on a railway is used to justify occupying the northeast, which becomes the puppet state of Manchukuo.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Mukden_incident",
+      "lat": 41.8,
+      "lng": 123.43,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1934,
+      "display_date": "October 1934",
+      "title": "The Long March",
+      "description": "Encircled Communist forces break out and walk some nine thousand kilometres to Shaanxi. Most do not arrive, and Mao emerges from it as leader.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Long_March",
+      "lat": 26.58,
+      "lng": 106.71,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1936,
+      "display_date": "December 1936",
+      "title": "The Xi'an incident",
+      "description": "Chiang Kai-shek is kidnapped by his own generals and released on condition he fight Japan rather than the Communists.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Xi'an_incident",
+      "lat": 34.27,
+      "lng": 108.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1937,
+      "display_date": "1937",
+      "title": "Full war with Japan",
+      "description": "Fighting at the Marco Polo Bridge becomes total war. Shanghai falls after three months and Nanjing is subjected to a massacre of tens of thousands.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Nanjing_Massacre",
+      "lat": 32.06,
+      "lng": 118.8,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1938,
+      "display_date": "1938",
+      "title": "The capital moves to Chongqing",
+      "description": "The government retreats up the Yangtze behind the gorges, taking universities and whole factories with it, and is bombed there for six years.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Chongqing",
+      "lat": 29.56,
+      "lng": 106.55,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1945,
+      "display_date": "August 1945",
+      "title": "Japan surrenders",
+      "description": "Eight years of war end with fourteen million Chinese dead or more. Taiwan is handed to the Republic after fifty years of Japanese rule.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Second_Sino-Japanese_War",
+      "lat": 25.04,
+      "lng": 121.51,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1946,
+      "display_date": "1946",
+      "title": "Civil war resumes",
+      "description": "American mediation fails. Within three years an apparently dominant Nationalist army has lost the north, its currency and its conscripts.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Chinese_Civil_War",
+      "lat": 41.8,
+      "lng": 123.43,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic and War",
+      "sort_year": 1949.1,
+      "display_date": "1949",
+      "title": "The Nationalists withdraw to Taiwan",
+      "description": "The government, the gold reserve and the palace collection are shipped across the strait, and the Republic of China continues on an island of six million.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Retreat_of_the_Republic_of_China_to_Taiwan",
+      "lat": 25.04,
+      "lng": 121.51,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1949.8,
+      "display_date": "1 October 1949",
+      "title": "The People's Republic is proclaimed",
+      "description": "Mao announces the new state from the Gate of Heavenly Peace. The civil war is effectively over and the strait is not crossed.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Proclamation_of_the_People's_Republic_of_China",
+      "lat": 39.91,
+      "lng": 116.39,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1950.2,
+      "display_date": "1950",
+      "title": "Land reform",
+      "description": "Landlord holdings are redistributed to tenants in mass village trials. It is genuinely popular, and it kills something between one and two million people.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Land_reform_in_China",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1950.6,
+      "display_date": "October 1950",
+      "title": "Chinese troops enter Korea",
+      "description": "Volunteers cross the Yalu and push United Nations forces back from the Chinese border. The war ends near where it started, and the intervention is treated as proof China can no longer be pushed around.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Korean_War",
+      "lat": 40.12,
+      "lng": 124.39,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1951,
+      "display_date": "1951",
+      "title": "The Seventeen Point Agreement on Tibet",
+      "description": "Tibet is incorporated under an agreement its delegates sign under duress. Eight years later the arrangement collapses.",
+      "categories": [
+        "Political",
+        "Foreign Relations"
+      ],
+      "source": "Seventeen_Point_Agreement",
+      "lat": 29.65,
+      "lng": 91.14,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1958,
+      "display_date": "1958",
+      "title": "The Great Leap Forward",
+      "description": "Communes, backyard steel furnaces and impossible grain quotas. It is intended to overtake Britain in fifteen years and instead causes the largest famine in recorded history.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Great_Leap_Forward",
+      "lat": null,
+      "lng": null,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1959,
+      "display_date": "1959",
+      "title": "Famine, and the Dalai Lama flees",
+      "description": "Between fifteen and forty-five million die of hunger over three years while grain is exported. A rising in Lhasa is crushed and the Dalai Lama escapes to India.",
+      "categories": [
+        "Social"
+      ],
+      "source": "Great_Chinese_Famine",
+      "lat": 29.65,
+      "lng": 91.14,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1964,
+      "display_date": "16 October 1964",
+      "title": "China tests an atomic bomb",
+      "description": "A device is detonated at Lop Nur, fifteen years after the founding of the state and two years after a border war with India.",
+      "categories": [
+        "Scientific",
+        "Military"
+      ],
+      "source": "Project_596",
+      "lat": 40.82,
+      "lng": 89.53,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1966,
+      "display_date": "1966",
+      "title": "The Cultural Revolution begins",
+      "description": "Mao mobilises students against the party itself. Schools close, officials are beaten, temples and libraries are destroyed, and it runs for a decade.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Cultural_Revolution",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1971,
+      "display_date": "25 October 1971",
+      "title": "The PRC takes China's seat at the UN",
+      "description": "The General Assembly votes to recognise Beijing and expel Taipei. The Republic of China loses its international standing almost overnight.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "United_Nations_General_Assembly_Resolution_2758",
+      "lat": 40.75,
+      "lng": -73.97,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1972,
+      "display_date": "February 1972",
+      "title": "Nixon visits Beijing",
+      "description": "A week that ends twenty-three years of mutual non-recognition and splits the Communist bloc down the middle.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "1972_visit_by_Richard_Nixon_to_China",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1976,
+      "display_date": "September 1976",
+      "title": "Mao dies and the Gang of Four fall",
+      "description": "Within a month of his death his closest allies are arrested, and the Cultural Revolution is officially over.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Mao_Zedong",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1978,
+      "display_date": "December 1978",
+      "title": "Deng Xiaoping opens the economy",
+      "description": "Household farming, foreign investment and price reform, all under one-party rule. Something like eight hundred million people leave poverty over the next forty years.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Chinese_economic_reform",
+      "lat": 39.9,
+      "lng": 116.4,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1980,
+      "display_date": "1980",
+      "title": "Shenzhen becomes a special economic zone",
+      "description": "A fishing county opposite Hong Kong is designated an experiment in market rules, and grows into a city of seventeen million.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Shenzhen",
+      "lat": 22.54,
+      "lng": 114.06,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1980.5,
+      "display_date": "1980",
+      "title": "The one-child policy",
+      "description": "Birth limits are imposed nationally and enforced with fines, sterilisation and abortion. They are relaxed in 2016, by which time the demographic damage is done.",
+      "categories": [
+        "Social"
+      ],
+      "source": "One-child_policy",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1989,
+      "display_date": "4 June 1989",
+      "title": "Tiananmen Square",
+      "description": "Seven weeks of student-led protest end when the army is sent into the centre of Beijing. The death toll has never been officially stated and the subject is unmentionable in China.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "1989_Tiananmen_Square_protests_and_massacre",
+      "lat": 39.9,
+      "lng": 116.39,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 1997,
+      "display_date": "1 July 1997",
+      "title": "Hong Kong returns to Chinese rule",
+      "description": "Britain hands back the territory under a promise of one country and two systems for fifty years.",
+      "categories": [
+        "Political",
+        "Foreign Relations"
+      ],
+      "source": "Handover_of_Hong_Kong",
+      "lat": 22.32,
+      "lng": 114.17,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 2001,
+      "display_date": "December 2001",
+      "title": "China joins the World Trade Organization",
+      "description": "Fifteen years of negotiation end with China inside the trading system. Global manufacturing reorganises itself around the decision.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "China_and_the_World_Trade_Organization",
+      "lat": 46.21,
+      "lng": 6.14,
+      "is_major": true
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 2008,
+      "display_date": "August 2008",
+      "title": "The Beijing Olympics",
+      "description": "A forty-billion-dollar opening statement that China has arrived, staged three months after an earthquake in Sichuan killed nearly ninety thousand people.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "2008_Summer_Olympics",
+      "lat": 39.99,
+      "lng": 116.39,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 2013,
+      "display_date": "2013",
+      "title": "The Belt and Road Initiative",
+      "description": "Infrastructure lending across Asia, Africa and Europe, framed as a revival of the Silk Road and read abroad as a bid for strategic reach.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Belt_and_Road_Initiative",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "People's Republic",
+      "sort_year": 2020,
+      "display_date": "January 2020",
+      "title": "Covid emerges in Wuhan",
+      "description": "An outbreak in a city of eleven million becomes a pandemic. China holds a zero-tolerance line for nearly three years, then abandons it in weeks.",
+      "categories": [
+        "Social",
+        "Scientific"
+      ],
+      "source": "COVID-19_pandemic_in_mainland_China",
+      "lat": 30.59,
+      "lng": 114.31,
+      "is_major": false
+    }
+  ]
+}

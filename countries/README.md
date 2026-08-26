@@ -64,6 +64,12 @@ new one that deviates looks broken next to the others.
 - **`width_pct` is editorial, not proportional to time.** Greece's Bronze Age
   covers two thousand years and gets 8; the Classical era covers 157 years and
   gets 12. Weight by how much there is to show, or antiquity swallows the strip.
+- **`default_zoom` has to be checked by eye, not guessed.** Nothing validates it.
+  The map pane is narrower than it looks, so a value that frames Italy cuts the
+  whole south off India. Roughly: 7 for Taiwan or Ireland, 5 for Egypt or Peru,
+  4 for Mexico, **3 for China, India and Australia**. China and Australia were
+  first written at 4 and both opened on a provincial close-up rather than a
+  country. Load the built page and look at it before committing.
 - **35-45% `is_major`. Enforced** - warns outside 35-45%, errors outside 25-55%,
   on both tails. If most dots are key events, none of them are.
 

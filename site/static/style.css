@@ -123,8 +123,9 @@ h1 {
 .tl-container:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 /* No visible scrollbars anywhere. The timeline keeps its edge fades and the
    event list its cut-off cards, so both still read as scrollable. */
-.tl-container, .list-pane { scrollbar-width: none; -ms-overflow-style: none; }
-.tl-container::-webkit-scrollbar, .list-pane::-webkit-scrollbar { width: 0; height: 0; display: none; }
+.tl-container, .list-pane, .detail-pane { scrollbar-width: none; -ms-overflow-style: none; }
+.tl-container::-webkit-scrollbar, .list-pane::-webkit-scrollbar,
+.detail-pane::-webkit-scrollbar { width: 0; height: 0; display: none; }
 .tl-ribbon { display: flex; position: relative; }
 .tl-era { position: relative; flex-shrink: 0; }
 .tl-era-bg { position: absolute; inset: 0; }

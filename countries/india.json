@@ -1,0 +1,2146 @@
+{
+  "country": {
+    "name": "India",
+    "center_lat": 22.5,
+    "center_lng": 79.0,
+    "default_zoom": 3
+  },
+  "eras": [
+    {
+      "name": "Indus Valley Civilisation",
+      "short_name": "Indus Valley",
+      "sort_order": 0,
+      "year_start": -7000,
+      "year_end": -1300,
+      "date_label": "to 1300 BCE",
+      "width_pct": 8,
+      "color": "#5a8a9a"
+    },
+    {
+      "name": "Vedic Period",
+      "short_name": "Vedic",
+      "sort_order": 1,
+      "year_start": -1500,
+      "year_end": -600,
+      "date_label": "1500-600 BCE",
+      "width_pct": 8,
+      "color": "#6b7f9e"
+    },
+    {
+      "name": "Mahajanapadas and Maurya",
+      "short_name": "Maurya",
+      "sort_order": 2,
+      "year_start": -600,
+      "year_end": -185,
+      "date_label": "600-185 BCE",
+      "width_pct": 10,
+      "color": "#7a6fa0"
+    },
+    {
+      "name": "Classical India",
+      "short_name": "Classical",
+      "sort_order": 3,
+      "year_start": -185,
+      "year_end": 550,
+      "date_label": "185 BCE-550 CE",
+      "width_pct": 11,
+      "color": "#8a6b93"
+    },
+    {
+      "name": "Early Medieval India",
+      "short_name": "Early Medieval",
+      "sort_order": 4,
+      "year_start": 550,
+      "year_end": 1206,
+      "date_label": "550-1206",
+      "width_pct": 10,
+      "color": "#9c6a7d"
+    },
+    {
+      "name": "Delhi Sultanate",
+      "short_name": "Sultanate",
+      "sort_order": 5,
+      "year_start": 1206,
+      "year_end": 1526,
+      "date_label": "1206-1526",
+      "width_pct": 10,
+      "color": "#a87356"
+    },
+    {
+      "name": "Mughal Empire",
+      "short_name": "Mughal",
+      "sort_order": 6,
+      "year_start": 1526,
+      "year_end": 1757,
+      "date_label": "1526-1757",
+      "width_pct": 12,
+      "color": "#b08a45"
+    },
+    {
+      "name": "Company Rule",
+      "short_name": "Company Rule",
+      "sort_order": 7,
+      "year_start": 1757,
+      "year_end": 1858,
+      "date_label": "1757-1858",
+      "width_pct": 10,
+      "color": "#8f9a4a"
+    },
+    {
+      "name": "British Raj",
+      "short_name": "British Raj",
+      "sort_order": 8,
+      "year_start": 1858,
+      "year_end": 1947,
+      "date_label": "1858-1947",
+      "width_pct": 11,
+      "color": "#5f9a6a"
+    },
+    {
+      "name": "Republic of India",
+      "short_name": "Republic",
+      "sort_order": 9,
+      "year_start": 1947,
+      "year_end": 2026,
+      "date_label": "1947 to now",
+      "width_pct": 10,
+      "color": "#4fa3a0"
+    }
+  ],
+  "events": [
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -7000,
+      "display_date": "c. 7000 BCE",
+      "title": "Farming begins at Mehrgarh",
+      "description": "Wheat, barley, cattle and mud-brick houses at the edge of the Bolan Pass. Dentistry is being practised here with bow drills two thousand years before the cities appear.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Mehrgarh",
+      "lat": 29.38,
+      "lng": 67.62,
+      "is_major": false
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -3300,
+      "display_date": "c. 3300 BCE",
+      "title": "The Indus cities begin",
+      "description": "Settlements along the Indus and the Ghaggar-Hakra grow into the largest urban culture of the Bronze Age, spread across a million square kilometres.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Indus_Valley_Civilisation",
+      "lat": 27.32,
+      "lng": 68.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -2600,
+      "display_date": "c. 2600 BCE",
+      "title": "Mohenjo-daro and Harappa at their height",
+      "description": "Grid streets, standardised fired bricks, covered drains and a public bath, with no palace and no obvious temple. Nobody has found the rulers.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Mohenjo-daro",
+      "lat": 27.32,
+      "lng": 68.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -2500,
+      "display_date": "c. 2500 BCE",
+      "title": "The Indus script",
+      "description": "Some four thousand short inscriptions survive, mostly on seals, and none of them has been read. The longest runs to about twenty-six signs.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Indus_script",
+      "lat": 30.63,
+      "lng": 72.86,
+      "is_major": false
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -2400,
+      "display_date": "c. 2400 BCE",
+      "title": "Trade with Mesopotamia",
+      "description": "Indus seals turn up in Sumerian cities and Mesopotamian texts mention a land called Meluhha. Lothal on the Gujarat coast may hold the world's oldest dock.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Lothal",
+      "lat": 22.52,
+      "lng": 72.25,
+      "is_major": false
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -2100,
+      "display_date": "c. 2100 BCE",
+      "title": "The water works of Dholavira",
+      "description": "A city on a salt desert island survives on sixteen reservoirs cut into rock, catching two seasonal streams. It is engineering as the whole condition of settlement.",
+      "categories": [
+        "Scientific",
+        "Social"
+      ],
+      "source": "Dholavira",
+      "lat": 23.89,
+      "lng": 70.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Indus Valley Civilisation",
+      "sort_year": -1900,
+      "display_date": "c. 1900 BCE",
+      "title": "The Indus cities are abandoned",
+      "description": "Weakening monsoons and a shifting river system drain the cities over a few centuries. There is no evidence of invasion, and populations drift east.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Indus_Valley_Civilisation",
+      "lat": 27.32,
+      "lng": 68.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -1500,
+      "display_date": "c. 1500 BCE",
+      "title": "Indo-Aryan speakers arrive",
+      "description": "Pastoral groups from Central Asia move into the northwest with horses, chariots and an early Indo-European language. Genetics has now largely settled a very long argument.",
+      "categories": [
+        "Social",
+        "Foreign Relations"
+      ],
+      "source": "Indo-Aryan_migrations",
+      "lat": 32.08,
+      "lng": 74.55,
+      "is_major": true
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -1400,
+      "display_date": "c. 1400 BCE",
+      "title": "The Rigveda is composed",
+      "description": "More than a thousand hymns to fire, storm and dawn, memorised and transmitted orally with such precision that they survive for three thousand years before being written down.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Rigveda",
+      "lat": null,
+      "lng": null,
+      "is_major": true
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -1000,
+      "display_date": "c. 1000 BCE",
+      "title": "Iron and the move east",
+      "description": "Iron tools open the forested Ganges plain to the plough. The centre of Indian life shifts from the Punjab rivers to the Doab.",
+      "categories": [
+        "Scientific",
+        "Economic"
+      ],
+      "source": "Painted_Grey_Ware_culture",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -900,
+      "display_date": "c. 900 BCE",
+      "title": "The war remembered as the Mahabharata",
+      "description": "A dynastic battle in the Kurukshetra plain becomes, over centuries of retelling, the longest poem ever composed and the frame for the Bhagavad Gita.",
+      "categories": [
+        "Cultural",
+        "Military"
+      ],
+      "source": "Mahabharata",
+      "lat": 29.97,
+      "lng": 76.88,
+      "is_major": true
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -800,
+      "display_date": "c. 800 BCE",
+      "title": "The varna order hardens",
+      "description": "Ritual rank divides priests, warriors, producers and servants, and a later hymn gives it a cosmic origin. What starts as a scheme becomes a hereditary cage.",
+      "categories": [
+        "Social",
+        "Religious"
+      ],
+      "source": "Varna_(Hinduism)",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -700,
+      "display_date": "c. 700 BCE",
+      "title": "The Upanishads",
+      "description": "A body of dialogue turns from sacrifice to the self, asking what underlies experience. It is the philosophical foundation most later Indian thought argues with.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Upanishads",
+      "lat": 25.32,
+      "lng": 83.01,
+      "is_major": true
+    },
+    {
+      "era_name": "Vedic Period",
+      "sort_year": -650,
+      "display_date": "c. 650 BCE",
+      "title": "Panini's grammar of Sanskrit",
+      "description": "About four thousand rules describe the language completely enough that linguists still call it the earliest generative grammar of anything.",
+      "categories": [
+        "Scientific",
+        "Cultural"
+      ],
+      "source": "Pāṇini",
+      "lat": 34.02,
+      "lng": 71.58,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -600,
+      "display_date": "c. 600 BCE",
+      "title": "The sixteen mahajanapadas",
+      "description": "The Ganges plain organises into sixteen states, some monarchies and some republics with assemblies. Magadha will eat the rest.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Mahajanapadas",
+      "lat": 25.03,
+      "lng": 85.42,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -563,
+      "display_date": "c. 563 BCE",
+      "title": "The Buddha is born at Lumbini",
+      "description": "A prince of the Shakya clan leaves his household, and after years of ascetic practice concludes that suffering has a cause and a cure.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Gautama_Buddha",
+      "lat": 27.47,
+      "lng": 83.28,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -528,
+      "display_date": "c. 528 BCE",
+      "title": "Enlightenment at Bodh Gaya",
+      "description": "Under a fig tree beside the Phalgu river the Buddha works out the four noble truths and spends the next forty-five years teaching them.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Bodh_Gaya",
+      "lat": 24.7,
+      "lng": 84.99,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -527,
+      "display_date": "c. 527 BCE",
+      "title": "Mahavira and Jainism",
+      "description": "The twenty-fourth tirthankara teaches non-violence so thoroughly that the doctrine reaches breathing and walking. It shapes Indian ethics far beyond its own numbers.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Mahavira",
+      "lat": 25.03,
+      "lng": 85.42,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -500,
+      "display_date": "c. 500 BCE",
+      "title": "Sushruta and early surgery",
+      "description": "A Sanskrit compendium describes cataract removal, lithotomy and a nose reconstruction from a forehead flap that European surgeons copy in the 1790s.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Sushruta_Samhita",
+      "lat": 25.32,
+      "lng": 83.01,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -326,
+      "display_date": "326 BCE",
+      "title": "Alexander reaches the Beas",
+      "description": "The Macedonians beat Porus on the Jhelum, then refuse to march further east. The contact leaves Greek kingdoms on the northwest frontier for two centuries.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Indian_campaign_of_Alexander_the_Great",
+      "lat": 32.94,
+      "lng": 73.73,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -321,
+      "display_date": "321 BCE",
+      "title": "Chandragupta founds the Mauryan Empire",
+      "description": "A young adventurer takes Magadha, then pushes to the Indus, and builds the first state to hold most of the subcontinent.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Chandragupta_Maurya",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -305,
+      "display_date": "305 BCE",
+      "title": "Peace with Seleucus",
+      "description": "The Mauryans take the eastern satrapies and send five hundred war elephants back the other way. The elephants turn up at Ipsus four years later.",
+      "categories": [
+        "Foreign Relations",
+        "Military"
+      ],
+      "source": "Seleucid–Mauryan_war",
+      "lat": 33.74,
+      "lng": 72.79,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -300,
+      "display_date": "c. 300 BCE",
+      "title": "The Arthashastra",
+      "description": "Kautilya's manual of statecraft is coldly practical about taxation, spies and when to break a treaty. It was lost for centuries and rediscovered in 1905.",
+      "categories": [
+        "Political",
+        "Cultural"
+      ],
+      "source": "Arthashastra",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -261,
+      "display_date": "261 BCE",
+      "title": "Ashoka's war in Kalinga",
+      "description": "A hundred thousand die and a hundred and fifty thousand are deported. The emperor's own inscription says he was sickened by it, which is not a thing conquerors usually record.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Kalinga_War",
+      "lat": 20.19,
+      "lng": 85.84,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -260,
+      "display_date": "c. 260 BCE",
+      "title": "The edicts of Ashoka",
+      "description": "Rock and pillar inscriptions across the empire preach non-violence, religious tolerance and welfare, in local languages and scripts. They are the oldest deciphered Indian writing.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "Edicts_of_Ashoka",
+      "lat": 25.02,
+      "lng": 85.0,
+      "is_major": true
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -250,
+      "display_date": "c. 250 BCE",
+      "title": "Buddhism is sent abroad",
+      "description": "Missions go to Sri Lanka, Central Asia and the Greek kingdoms. The religion becomes a transcontinental one from a state decision.",
+      "categories": [
+        "Religious",
+        "Foreign Relations"
+      ],
+      "source": "Third_Buddhist_council",
+      "lat": 23.48,
+      "lng": 77.74,
+      "is_major": false
+    },
+    {
+      "era_name": "Mahajanapadas and Maurya",
+      "sort_year": -185,
+      "display_date": "185 BCE",
+      "title": "The Mauryas fall",
+      "description": "The last emperor is killed by his own general and the empire fragments. No power holds that much of India again for five hundred years.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Shunga_Empire",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": -180,
+      "display_date": "c. 180 BCE",
+      "title": "The Indo-Greek kingdoms",
+      "description": "Bactrian Greeks rule the northwest and strike bilingual coins. King Menander appears in a Buddhist text debating a monk, and apparently loses.",
+      "categories": [
+        "Political",
+        "Cultural"
+      ],
+      "source": "Indo-Greek_Kingdom",
+      "lat": 33.74,
+      "lng": 72.79,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": -100,
+      "display_date": "c. 100 BCE",
+      "title": "Roman trade and the monsoon",
+      "description": "Sailors learn to ride the monsoon straight across the Arabian Sea. Pepper, pearls and cotton go west, and so much Roman gold comes east that Pliny complains about it.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Indo-Roman_trade_relations",
+      "lat": 11.25,
+      "lng": 75.78,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 50,
+      "display_date": "c. 50",
+      "title": "Christianity reaches the Malabar coast",
+      "description": "Tradition puts the apostle Thomas in Kerala in 52. Whatever the truth of it, the Saint Thomas Christians are among the oldest continuous communities in the world.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Saint_Thomas_Christians",
+      "lat": 9.98,
+      "lng": 76.28,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 78,
+      "display_date": "c. 78",
+      "title": "The Kushans under Kanishka",
+      "description": "A Central Asian dynasty rules from Bactria to Varanasi, sponsors Buddhism heavily, and sits astride the routes that carry it into China.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "Kanishka",
+      "lat": 34.01,
+      "lng": 71.58,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 100,
+      "display_date": "c. 100",
+      "title": "Gandharan sculpture",
+      "description": "Buddhist stone carving in the northwest adopts Hellenistic drapery and proportion. It is the first time the Buddha is shown as a human figure at all.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Greco-Buddhist_art",
+      "lat": 34.2,
+      "lng": 72.05,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 150,
+      "display_date": "c. 150",
+      "title": "The Sangam poets of the Tamil country",
+      "description": "Some two thousand poems of love and war in Old Tamil, produced under the Chera, Chola and Pandya kings. Tamil is the oldest literary language still spoken.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Sangam_literature",
+      "lat": 9.93,
+      "lng": 78.12,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 320,
+      "display_date": "320",
+      "title": "The Gupta Empire founded",
+      "description": "A dynasty out of Magadha reunites northern India and presides over three centuries in which classical Indian art, science and Sanskrit letters take their final shape.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Gupta_Empire",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 400,
+      "display_date": "c. 400",
+      "title": "Kalidasa",
+      "description": "The playwright of Shakuntala and the poet of the Meghaduta becomes the standard against which Sanskrit literature is measured ever afterwards.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Kalidasa",
+      "lat": 23.18,
+      "lng": 75.78,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 405,
+      "display_date": "405",
+      "title": "Faxian reports on Gupta India",
+      "description": "A Chinese pilgrim spends six years in the country and describes free hospitals, safe roads and a government that does not require travel documents.",
+      "categories": [
+        "Foreign Relations",
+        "Religious"
+      ],
+      "source": "Faxian",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 450,
+      "display_date": "c. 450",
+      "title": "The Ajanta caves painted",
+      "description": "Thirty caves cut into a river gorge carry the finest surviving ancient Indian painting. They are abandoned, forgotten, and stumbled on by a British hunting party in 1819.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Ajanta_Caves",
+      "lat": 20.55,
+      "lng": 75.7,
+      "is_major": false
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 499,
+      "display_date": "499",
+      "title": "Aryabhata's astronomy",
+      "description": "At twenty-three he gives a value for pi good to four places, explains eclipses without demons, and says the earth rotates on its axis.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Aryabhata",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": true
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 500,
+      "display_date": "c. 500",
+      "title": "The decimal place value system",
+      "description": "A written zero used as a number in its own right, with place value, makes arithmetic tractable. It reaches Europe through Arabic intermediaries and is still called Arabic numerals there.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Hindu–Arabic_numeral_system",
+      "lat": 26.2,
+      "lng": 78.16,
+      "is_major": true
+    },
+    {
+      "era_name": "Classical India",
+      "sort_year": 528,
+      "display_date": "528",
+      "title": "The Huna invasions break the Guptas",
+      "description": "White Hun incursions from the northwest are eventually repulsed, but the empire never recovers its finances or its reach.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Alchon_Huns",
+      "lat": 23.18,
+      "lng": 75.78,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 606,
+      "display_date": "606",
+      "title": "Harsha rules the north",
+      "description": "The last great classical northern kingdom lasts as long as its founder does, and dissolves on his death forty-one years later.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Harsha",
+      "lat": 27.19,
+      "lng": 78.02,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 630,
+      "display_date": "630",
+      "title": "Xuanzang travels in India",
+      "description": "The Chinese monk spends fourteen years studying at Nalanda and leaves a description of the country detailed enough to guide excavation twelve centuries later.",
+      "categories": [
+        "Foreign Relations",
+        "Religious"
+      ],
+      "source": "Xuanzang",
+      "lat": 25.14,
+      "lng": 85.44,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 650,
+      "display_date": "c. 650",
+      "title": "Nalanda at its height",
+      "description": "A monastic university of some ten thousand students and two thousand teachers, with a nine-storey library, drawing scholars from Tibet, China, Korea and Persia.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Nalanda_mahavihara",
+      "lat": 25.14,
+      "lng": 85.44,
+      "is_major": true
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 712,
+      "display_date": "712",
+      "title": "The Arab conquest of Sindh",
+      "description": "An Umayyad expedition takes the lower Indus. Islam arrives in India by sea and by frontier, three centuries before it arrives by army.",
+      "categories": [
+        "Military",
+        "Religious"
+      ],
+      "source": "Umayyad_campaigns_in_India",
+      "lat": 27.55,
+      "lng": 68.22,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 750,
+      "display_date": "c. 750",
+      "title": "The tripartite struggle",
+      "description": "Palas, Pratiharas and Rashtrakutas fight over Kanauj for two centuries. Nobody wins, and the north stays divided when the Turks arrive.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Tripartite_Struggle",
+      "lat": 27.07,
+      "lng": 79.92,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 788,
+      "display_date": "c. 788",
+      "title": "Adi Shankara",
+      "description": "A philosopher who dies at thirty-two reorganises Hindu thought around non-dualism and founds monastic centres at the four corners of the country.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Adi_Shankara",
+      "lat": 10.18,
+      "lng": 76.42,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 800,
+      "display_date": "c. 800",
+      "title": "The Kailasa temple at Ellora",
+      "description": "A full temple carved downward out of one basalt hill, some two hundred thousand tonnes of rock removed, with no possibility of correcting a mistake.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Kailasa_Temple,_Ellora",
+      "lat": 20.02,
+      "lng": 75.18,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 985,
+      "display_date": "985",
+      "title": "Rajaraja Chola comes to the throne",
+      "description": "The Chola state runs a professional navy, an audited village administration and a temple economy that functions as a banking system.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Rajaraja_I",
+      "lat": 10.79,
+      "lng": 79.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1010,
+      "display_date": "1010",
+      "title": "The Brihadeeswarar temple completed",
+      "description": "A granite tower over sixty metres high, built in seven years, in a region with no granite. The Cholas moved the stone fifty kilometres.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Brihadeeswarar_Temple",
+      "lat": 10.78,
+      "lng": 79.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1025,
+      "display_date": "1025",
+      "title": "Mahmud of Ghazni sacks Somnath",
+      "description": "The last of seventeen raids strips the temple treasury. The looting is remembered for a thousand years and is still being used politically.",
+      "categories": [
+        "Military",
+        "Religious"
+      ],
+      "source": "Mahmud_of_Ghazni",
+      "lat": 20.89,
+      "lng": 70.4,
+      "is_major": true
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1025.5,
+      "display_date": "c. 1025",
+      "title": "Chola fleets raid Srivijaya",
+      "description": "A naval expedition across the Bay of Bengal attacks the trading empire of Sumatra. It is the only sustained Indian projection of sea power before the modern era.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Chola_invasion_of_Srivijaya",
+      "lat": 3.6,
+      "lng": 98.68,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1030,
+      "display_date": "1030",
+      "title": "Al-Biruni's book on India",
+      "description": "A Persian scholar learns Sanskrit and writes an account of Indian science and religion so even-handed that it is startling from the entourage of an invader.",
+      "categories": [
+        "Cultural",
+        "Scientific"
+      ],
+      "source": "Al-Biruni",
+      "lat": 33.6,
+      "lng": 73.05,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1120,
+      "display_date": "c. 1120",
+      "title": "Bhaskara II and the Lilavati",
+      "description": "Algebra, quadratic equations and the beginnings of differential reasoning, written partly as arithmetic problems addressed to his daughter.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Bhāskara_II",
+      "lat": 16.83,
+      "lng": 74.5,
+      "is_major": false
+    },
+    {
+      "era_name": "Early Medieval India",
+      "sort_year": 1192,
+      "display_date": "1192",
+      "title": "The second battle of Tarain",
+      "description": "Muhammad of Ghor defeats Prithviraj Chauhan and the Rajput confederacy. Northern India passes under Turkic rule within fifteen years.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Second_Battle_of_Tarain",
+      "lat": 29.77,
+      "lng": 76.86,
+      "is_major": true
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1199,
+      "display_date": "1199",
+      "title": "Nalanda is destroyed",
+      "description": "Bakhtiyar Khalji's cavalry burn the monastic university. The library is said to have smouldered for months, and Indian Buddhism effectively ends.",
+      "categories": [
+        "Military",
+        "Religious"
+      ],
+      "source": "Nalanda_mahavihara",
+      "lat": 25.14,
+      "lng": 85.44,
+      "is_major": true
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1206,
+      "display_date": "1206",
+      "title": "The Delhi Sultanate founded",
+      "description": "A Turkic slave-general takes Delhi on his master's death and founds a state that lasts three hundred and twenty years under five dynasties.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Delhi_Sultanate",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1231,
+      "display_date": "1231",
+      "title": "The Qutb Minar completed",
+      "description": "A seventy-three metre victory tower in red sandstone, raised beside a mosque built from the columns of twenty-seven demolished temples.",
+      "categories": [
+        "Cultural",
+        "Religious"
+      ],
+      "source": "Qutb_Minar",
+      "lat": 28.52,
+      "lng": 77.19,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1236,
+      "display_date": "1236",
+      "title": "Razia Sultana takes the throne",
+      "description": "The only woman to rule Delhi in her own right lasts less than four years against a nobility that will not accept her.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Razia_Sultana",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1292,
+      "display_date": "1292",
+      "title": "The Mongols are held on the Indus",
+      "description": "Repeated Mongol invasions are beaten back, largely by Alauddin Khalji. India is one of the few settled regions they never take.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Mongol_invasions_of_India",
+      "lat": 31.55,
+      "lng": 74.34,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1303,
+      "display_date": "1303",
+      "title": "Alauddin Khalji's price controls",
+      "description": "To pay for a standing army against the Mongols, the sultan fixes the price of grain, cloth and horses and polices the markets brutally. It works while he lives.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Alauddin_Khalji",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1327,
+      "display_date": "1327",
+      "title": "The capital is marched to Daulatabad",
+      "description": "Muhammad bin Tughlaq moves the entire population of Delhi eleven hundred kilometres south, then changes his mind. Many die on each journey.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Muhammad_bin_Tughluq",
+      "lat": 19.94,
+      "lng": 75.22,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1336,
+      "display_date": "1336",
+      "title": "Vijayanagara is founded",
+      "description": "A southern empire rises on the Tungabhadra and holds the Deccan for two centuries. Its capital becomes one of the largest cities in the world.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Vijayanagara_Empire",
+      "lat": 15.34,
+      "lng": 76.46,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1398,
+      "display_date": "1398",
+      "title": "Timur sacks Delhi",
+      "description": "The city is taken, the population massacred over several days, and the Sultanate reduced to a district. Timur takes the stonemasons back to Samarkand.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Sack_of_Delhi_(1398)",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1440,
+      "display_date": "c. 1440",
+      "title": "Kabir",
+      "description": "A weaver from Varanasi writes verse that attacks Hindu and Muslim orthodoxy with equal contempt, and is claimed by both after his death.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Kabir",
+      "lat": 25.32,
+      "lng": 83.01,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1469,
+      "display_date": "1469",
+      "title": "Guru Nanak is born",
+      "description": "The founder of Sikhism preaches one God, rejects caste and ritual, and institutes a common kitchen where anyone eats beside anyone.",
+      "categories": [
+        "Religious",
+        "Social"
+      ],
+      "source": "Guru_Nanak",
+      "lat": 31.55,
+      "lng": 74.34,
+      "is_major": true
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1498,
+      "display_date": "May 1498",
+      "title": "Vasco da Gama reaches Calicut",
+      "description": "A sea route from Europe to the pepper coast is opened. Within a decade the Portuguese are using naval force to control who may trade in the Indian Ocean.",
+      "categories": [
+        "Foreign Relations",
+        "Economic"
+      ],
+      "source": "Vasco_da_Gama",
+      "lat": 11.25,
+      "lng": 75.78,
+      "is_major": true
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1510,
+      "display_date": "1510",
+      "title": "The Portuguese take Goa",
+      "description": "Afonso de Albuquerque seizes a base that Portugal holds for four hundred and fifty-one years, longer than any other European possession in India.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Portuguese_India",
+      "lat": 15.5,
+      "lng": 73.83,
+      "is_major": false
+    },
+    {
+      "era_name": "Delhi Sultanate",
+      "sort_year": 1526,
+      "display_date": "21 April 1526",
+      "title": "The first battle of Panipat",
+      "description": "Babur beats a far larger Sultanate army with field artillery and mobile cavalry, and founds the Mughal dynasty.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "First_Battle_of_Panipat",
+      "lat": 29.39,
+      "lng": 76.97,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1540,
+      "display_date": "1540",
+      "title": "Sher Shah Suri interrupts the Mughals",
+      "description": "An Afghan noble drives Humayun out and in five years builds the Grand Trunk Road, a silver rupee and a land survey the Mughals simply inherit.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Sher_Shah_Suri",
+      "lat": 25.61,
+      "lng": 85.14,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1556,
+      "display_date": "1556",
+      "title": "Akbar comes to the throne at thirteen",
+      "description": "Forty-nine years of expansion, a land revenue system based on measured yields, and Rajput marriages that turn defeated enemies into the officer corps.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Akbar",
+      "lat": 27.18,
+      "lng": 78.02,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1564,
+      "display_date": "1564",
+      "title": "The jizya is abolished",
+      "description": "Akbar removes the tax on non-Muslims and the pilgrim tax with it. It is reimposed a century later, and the reversal is remembered as the turn.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "Jizya",
+      "lat": 27.18,
+      "lng": 78.02,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1571,
+      "display_date": "1571",
+      "title": "Fatehpur Sikri built",
+      "description": "A new capital in red sandstone, finished in fifteen years and abandoned in fourteen more, apparently for want of water.",
+      "categories": [
+        "Cultural",
+        "Political"
+      ],
+      "source": "Fatehpur_Sikri",
+      "lat": 27.09,
+      "lng": 77.66,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1576,
+      "display_date": "1576",
+      "title": "The battle of Haldighati",
+      "description": "Maharana Pratap of Mewar fights the Mughals to a standstill and refuses submission for the rest of his life. He becomes the Rajput symbol of it.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Battle_of_Haldighati",
+      "lat": 24.94,
+      "lng": 73.63,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1582,
+      "display_date": "1582",
+      "title": "The Din-i Ilahi",
+      "description": "Akbar's synthetic court religion attracts a couple of dozen followers and dies with him, but the debates behind it are the most open in Indian courtly history.",
+      "categories": [
+        "Religious"
+      ],
+      "source": "Din-i_Ilahi",
+      "lat": 27.09,
+      "lng": 77.66,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1600,
+      "display_date": "31 December 1600",
+      "title": "The East India Company is chartered",
+      "description": "Elizabeth grants a monopoly on trade east of the Cape to a syndicate of London merchants. It ends up governing a subcontinent.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "East_India_Company",
+      "lat": 51.51,
+      "lng": -0.09,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1612,
+      "display_date": "1612",
+      "title": "The Company gets a factory at Surat",
+      "description": "A trading post is permitted after the Company beats a Portuguese squadron offshore. The English are in as a naval power from the start.",
+      "categories": [
+        "Economic",
+        "Foreign Relations"
+      ],
+      "source": "Surat",
+      "lat": 21.17,
+      "lng": 72.83,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1631,
+      "display_date": "1631",
+      "title": "The Taj Mahal begun",
+      "description": "Shah Jahan builds a tomb for Mumtaz Mahal over twenty-two years. It is the high point of Mughal building and a serious drain on the treasury.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Taj_Mahal",
+      "lat": 27.17,
+      "lng": 78.04,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1658,
+      "display_date": "1658",
+      "title": "Aurangzeb takes the throne",
+      "description": "He imprisons his father, kills his brothers, and rules for forty-nine years. The empire reaches its greatest extent and exhausts itself doing so.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Aurangzeb",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1674,
+      "display_date": "1674",
+      "title": "Shivaji is crowned",
+      "description": "A Maratha commander who has spent twenty years raiding the Deccan has himself formally enthroned, and founds the power that inherits Mughal India.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Shivaji",
+      "lat": 18.23,
+      "lng": 73.44,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1679,
+      "display_date": "1679",
+      "title": "The jizya returns",
+      "description": "Aurangzeb reimposes the tax on non-Muslims and orders temples demolished. It hardens Rajput, Maratha and Sikh opposition into permanent war.",
+      "categories": [
+        "Religious",
+        "Political"
+      ],
+      "source": "Aurangzeb",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1699,
+      "display_date": "1699",
+      "title": "The Khalsa is founded",
+      "description": "Guru Gobind Singh initiates a martial order with its own discipline and names, after two Sikh gurus have been executed by the Mughal state.",
+      "categories": [
+        "Religious",
+        "Military"
+      ],
+      "source": "Khalsa",
+      "lat": 31.19,
+      "lng": 76.5,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1707,
+      "display_date": "1707",
+      "title": "Aurangzeb dies and the empire fractures",
+      "description": "Within a generation the Mughals are a Delhi court with a large title. The Marathas, the Nizam, Awadh and Bengal are the real powers.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Mughal_Empire",
+      "lat": 17.68,
+      "lng": 75.91,
+      "is_major": true
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1739,
+      "display_date": "1739",
+      "title": "Nadir Shah sacks Delhi",
+      "description": "The Persian ruler takes the city, kills tens of thousands, and leaves with the Peacock Throne and the Koh-i-Noor. Mughal prestige never returns.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Nader_Shah's_invasion_of_India",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Mughal Empire",
+      "sort_year": 1757,
+      "display_date": "23 June 1757",
+      "title": "The battle of Plassey",
+      "description": "Robert Clive beats the Nawab of Bengal with an army a tenth the size, after buying his commander. A trading company acquires a province.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Battle_of_Plassey",
+      "lat": 23.8,
+      "lng": 88.25,
+      "is_major": true
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1761,
+      "display_date": "1761",
+      "title": "The third battle of Panipat",
+      "description": "Ahmad Shah Durrani destroys the Maratha army in a single day. The one Indian power that might have replaced the Mughals is crippled.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Third_Battle_of_Panipat",
+      "lat": 29.39,
+      "lng": 76.97,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1765,
+      "display_date": "1765",
+      "title": "The Company takes the revenues of Bengal",
+      "description": "The diwani grants the right to collect tax from thirty million people. The Company is now a government that answers to shareholders.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Treaty_of_Allahabad",
+      "lat": 25.44,
+      "lng": 81.85,
+      "is_major": true
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1770,
+      "display_date": "1770",
+      "title": "The great Bengal famine of 1770",
+      "description": "Perhaps ten million die, a third of the province, while revenue collection is enforced and grain is held for price. It is the first great scandal of Company rule.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Great_Bengal_famine_of_1770",
+      "lat": 23.68,
+      "lng": 88.36,
+      "is_major": true
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1784,
+      "display_date": "1784",
+      "title": "The Asiatic Society founded",
+      "description": "William Jones notices that Sanskrit, Greek and Latin are related, and the Indo-European family is discovered from Calcutta.",
+      "categories": [
+        "Scientific",
+        "Cultural"
+      ],
+      "source": "Asiatic_Society",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1793,
+      "display_date": "1793",
+      "title": "The Permanent Settlement",
+      "description": "Bengal revenue is fixed forever with zamindars as landlords. It creates a rentier class, wrecks tenant security, and is never undone before 1947.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Permanent_Settlement",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1799,
+      "display_date": "1799",
+      "title": "Tipu Sultan is killed at Seringapatam",
+      "description": "The last serious armed resistance in the south ends. Tipu's rocket artillery is shipped to Woolwich and copied.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Siege_of_Seringapatam_(1799)",
+      "lat": 12.42,
+      "lng": 76.69,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1818,
+      "display_date": "1818",
+      "title": "The Marathas are defeated",
+      "description": "The third Anglo-Maratha war ends the confederacy. The Company is now the paramount power from Cape Comorin to the Sutlej.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Third_Anglo-Maratha_War",
+      "lat": 18.52,
+      "lng": 73.86,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1829,
+      "display_date": "1829",
+      "title": "Sati is banned",
+      "description": "Widow burning is made a criminal offence after a long campaign by Ram Mohan Roy. Reform from within and reform imposed from outside arrive together.",
+      "categories": [
+        "Social",
+        "Religious"
+      ],
+      "source": "Sati_(practice)",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1835,
+      "display_date": "1835",
+      "title": "Macaulay's minute on education",
+      "description": "English becomes the language of instruction, to form a class Indian in blood and English in taste. It produces the professionals who later demand independence.",
+      "categories": [
+        "Social",
+        "Cultural"
+      ],
+      "source": "English_Education_Act_1835",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1849,
+      "display_date": "1849",
+      "title": "The Punjab is annexed",
+      "description": "Two wars with the Sikh empire end with the Company holding the last independent Indian state of any size, and the Koh-i-Noor going to London.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Second_Anglo-Sikh_War",
+      "lat": 31.55,
+      "lng": 74.34,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1853,
+      "display_date": "16 April 1853",
+      "title": "The first railway",
+      "description": "Thirty-four kilometres from Bombay to Thane. Within fifty years India has one of the largest networks in the world, laid out to move goods to ports.",
+      "categories": [
+        "Economic",
+        "Scientific"
+      ],
+      "source": "Rail_transport_in_India",
+      "lat": 18.96,
+      "lng": 72.82,
+      "is_major": false
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1857,
+      "display_date": "10 May 1857",
+      "title": "The rebellion begins at Meerut",
+      "description": "Sepoys mutiny over greased cartridges and much else, and the rising spreads across the north. Both sides commit atrocities and the reprisals go on for a year.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Indian_Rebellion_of_1857",
+      "lat": 28.98,
+      "lng": 77.71,
+      "is_major": true
+    },
+    {
+      "era_name": "Company Rule",
+      "sort_year": 1858,
+      "display_date": "1858",
+      "title": "The Company is abolished",
+      "description": "The Crown takes over directly, the last Mughal is exiled to Rangoon, and India is governed from Whitehall through a viceroy.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Government_of_India_Act_1858",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1861,
+      "display_date": "1861",
+      "title": "The Indian Councils Act",
+      "description": "A handful of Indians are admitted to advisory councils with no power. It sets the pattern of concession by instalment for the next eighty years.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Indian_Councils_Act_1861",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1876,
+      "display_date": "1876",
+      "title": "Famine in the Deccan",
+      "description": "Between five and ten million die while grain is exported and relief is rationed on the theory that generosity encourages dependence.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Great_Famine_of_1876–1878",
+      "lat": 17.38,
+      "lng": 78.49,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1885,
+      "display_date": "December 1885",
+      "title": "The Indian National Congress",
+      "description": "Seventy-two delegates meet in Bombay to petition for a larger Indian share in government. It becomes the vehicle of the independence movement.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Indian_National_Congress",
+      "lat": 18.96,
+      "lng": 72.82,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1893,
+      "display_date": "1893",
+      "title": "Vivekananda in Chicago",
+      "description": "An address to the World Parliament of Religions makes Hindu thought internationally visible and gives Indian nationalism a confidence it had lacked.",
+      "categories": [
+        "Religious",
+        "Cultural"
+      ],
+      "source": "Swami_Vivekananda",
+      "lat": 41.88,
+      "lng": -87.62,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1905,
+      "display_date": "1905",
+      "title": "The partition of Bengal",
+      "description": "Curzon splits the province on lines that look designed to divide Hindus and Muslims. Mass boycott of British goods follows and the partition is reversed in 1911.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Partition_of_Bengal_(1905)",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1906,
+      "display_date": "1906",
+      "title": "The Muslim League founded",
+      "description": "A separate political body at Dacca, initially loyal, eventually the vehicle for a separate state.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "All-India_Muslim_League",
+      "lat": 23.81,
+      "lng": 90.41,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1911,
+      "display_date": "1911",
+      "title": "The capital moves to Delhi",
+      "description": "The government leaves Calcutta for a purpose-built imperial city. Lutyens takes twenty years over it and it is finished sixteen years before the British leave.",
+      "categories": [
+        "Political"
+      ],
+      "source": "New_Delhi",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1915,
+      "display_date": "1915",
+      "title": "Gandhi returns from South Africa",
+      "description": "Twenty-one years of campaigning against racial laws have produced a method: mass non-violent refusal, and a willingness to go to prison for it.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Mahatma_Gandhi",
+      "lat": 21.17,
+      "lng": 72.83,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1919,
+      "display_date": "13 April 1919",
+      "title": "The Jallianwala Bagh massacre",
+      "description": "Troops fire on a penned crowd at Amritsar for ten minutes. Several hundred are killed at least, and Indian faith in British justice does not survive it.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Jallianwala_Bagh_massacre",
+      "lat": 31.62,
+      "lng": 74.88,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1920,
+      "display_date": "1920",
+      "title": "Non-cooperation",
+      "description": "Congress under Gandhi calls for boycott of courts, schools and titles. He calls it off in 1922 after a mob at Chauri Chaura burns policemen alive.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Non-cooperation_movement_(1919–1922)",
+      "lat": 26.65,
+      "lng": 83.6,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1927,
+      "display_date": "1927",
+      "title": "Ambedkar burns the Manusmriti",
+      "description": "A Dalit lawyer with doctorates from Columbia and the LSE leads a march to drink from a public tank, and attacks caste as the central Indian injustice.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "B._R._Ambedkar",
+      "lat": 19.99,
+      "lng": 73.79,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1930,
+      "display_date": "March 1930",
+      "title": "The Salt March",
+      "description": "Gandhi walks three hundred and eighty-five kilometres to the sea and picks up a lump of salt. Sixty thousand are jailed and the campaign is reported worldwide.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Salt_March",
+      "lat": 20.92,
+      "lng": 72.66,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1935,
+      "display_date": "1935",
+      "title": "The Government of India Act",
+      "description": "Provincial autonomy and elections that Congress wins nearly everywhere. Much of it survives as the structure of the Indian constitution.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Government_of_India_Act_1935",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1940,
+      "display_date": "March 1940",
+      "title": "The Lahore Resolution",
+      "description": "The Muslim League demands independent states in the Muslim-majority regions. Partition moves from an idea to a negotiating position.",
+      "categories": [
+        "Political",
+        "Religious"
+      ],
+      "source": "Lahore_Resolution",
+      "lat": 31.55,
+      "lng": 74.34,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1942,
+      "display_date": "August 1942",
+      "title": "Quit India",
+      "description": "Congress demands immediate withdrawal and its entire leadership is jailed for the rest of the war. Meanwhile two and a half million Indians serve in the British army.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Quit_India_Movement",
+      "lat": 18.96,
+      "lng": 72.82,
+      "is_major": true
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1943,
+      "display_date": "1943",
+      "title": "The Bengal famine of 1943",
+      "description": "Around three million die, with wartime requisitioning, boat confiscation and refusal to divert shipping among the causes. There is no drought that year worth the name.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Bengal_famine_of_1943",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1946,
+      "display_date": "August 1946",
+      "title": "Direct Action Day",
+      "description": "Four days of killing in Calcutta leave several thousand dead and make an orderly transfer of power much harder to imagine.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Direct_Action_Day",
+      "lat": 22.57,
+      "lng": 88.36,
+      "is_major": false
+    },
+    {
+      "era_name": "British Raj",
+      "sort_year": 1947.5,
+      "display_date": "15 August 1947",
+      "title": "Independence and partition",
+      "description": "Two states are created on a line drawn in five weeks by a man who had never been to India. Ten to twenty million are displaced and perhaps a million die.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Partition_of_India",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1947.8,
+      "display_date": "October 1947",
+      "title": "The first war over Kashmir",
+      "description": "The maharaja accedes to India as tribesmen from Pakistan invade. A ceasefire line in 1949 becomes a border that is still contested.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Indo-Pakistani_War_of_1947–1948",
+      "lat": 34.08,
+      "lng": 74.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1948,
+      "display_date": "30 January 1948",
+      "title": "Gandhi is assassinated",
+      "description": "A Hindu nationalist shoots him at a prayer meeting in Delhi, five months after independence, for being too conciliatory towards Muslims.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Assassination_of_Mahatma_Gandhi",
+      "lat": 28.6,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1948.5,
+      "display_date": "1948",
+      "title": "The princely states are integrated",
+      "description": "Five hundred and sixty-two states are absorbed, mostly by negotiation, with Hyderabad taken by force in five days.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Political_integration_of_India",
+      "lat": 17.38,
+      "lng": 78.49,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1950,
+      "display_date": "26 January 1950",
+      "title": "The constitution comes into force",
+      "description": "The longest written constitution in the world, drafted under Ambedkar, abolishes untouchability and gives universal adult suffrage to a country that is largely illiterate.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Constitution_of_India",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1951,
+      "display_date": "1951",
+      "title": "The first general election",
+      "description": "One hundred and seventy-three million voters, symbols on the ballot for those who cannot read, and six months of polling. It works.",
+      "categories": [
+        "Political"
+      ],
+      "source": "1951–52_Indian_general_election",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1956,
+      "display_date": "1956",
+      "title": "States reorganised on language",
+      "description": "Provincial boundaries are redrawn along linguistic lines after protest and a hunger strike death. It defuses the issue that was expected to break the country.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "States_Reorganisation_Act,_1956",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1961,
+      "display_date": "December 1961",
+      "title": "Goa is annexed",
+      "description": "Indian troops end four and a half centuries of Portuguese rule in thirty-six hours.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Annexation_of_Goa",
+      "lat": 15.5,
+      "lng": 73.83,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1962,
+      "display_date": "October 1962",
+      "title": "The war with China",
+      "description": "A month of fighting in the Himalayas ends in defeat and a unilateral Chinese withdrawal. Non-alignment loses much of its shine.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Sino-Indian_War",
+      "lat": 27.6,
+      "lng": 92.0,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1966,
+      "display_date": "1966",
+      "title": "The Green Revolution",
+      "description": "Dwarf wheat, fertiliser and tube wells turn a country importing grain under American licence into a net exporter within a decade.",
+      "categories": [
+        "Economic",
+        "Scientific"
+      ],
+      "source": "Green_Revolution_in_India",
+      "lat": 30.9,
+      "lng": 75.85,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1971,
+      "display_date": "December 1971",
+      "title": "The war that creates Bangladesh",
+      "description": "India intervenes in the Pakistani civil war after ten million refugees cross the border. Ninety thousand Pakistani troops surrender in thirteen days.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Bangladesh_Liberation_War",
+      "lat": 23.81,
+      "lng": 90.41,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1974,
+      "display_date": "May 1974",
+      "title": "The first nuclear test",
+      "description": "A device is detonated at Pokhran and called a peaceful nuclear explosion. India is placed under technology sanctions for two decades.",
+      "categories": [
+        "Scientific",
+        "Military"
+      ],
+      "source": "Smiling_Buddha",
+      "lat": 27.09,
+      "lng": 71.92,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1975,
+      "display_date": "June 1975",
+      "title": "The Emergency",
+      "description": "Indira Gandhi suspends civil liberties for twenty-one months, jails the opposition and censors the press, then calls an election and loses it.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "The_Emergency_(India)",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1984,
+      "display_date": "1984",
+      "title": "Operation Blue Star and its aftermath",
+      "description": "The army storms the Golden Temple, and Indira Gandhi is assassinated by her Sikh bodyguards. Some three thousand Sikhs are killed in Delhi in the following days.",
+      "categories": [
+        "Military",
+        "Social"
+      ],
+      "source": "Operation_Blue_Star",
+      "lat": 31.62,
+      "lng": 74.88,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1984.9,
+      "display_date": "December 1984",
+      "title": "The Bhopal gas disaster",
+      "description": "Methyl isocyanate leaks from a Union Carbide plant and kills thousands within days. The site is still not properly cleaned.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Bhopal_disaster",
+      "lat": 23.26,
+      "lng": 77.41,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1991,
+      "display_date": "July 1991",
+      "title": "The economy is opened",
+      "description": "With three weeks of reserves left, licensing is dismantled and the rupee devalued. Growth roughly doubles over the following two decades.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "1991_Indian_economic_crisis",
+      "lat": 28.61,
+      "lng": 77.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1992,
+      "display_date": "December 1992",
+      "title": "The Babri Masjid is demolished",
+      "description": "A mosque at Ayodhya is pulled down by a crowd and riots follow across the country. It reshapes Indian politics along religious lines.",
+      "categories": [
+        "Religious",
+        "Social"
+      ],
+      "source": "Demolition_of_the_Babri_Masjid",
+      "lat": 26.8,
+      "lng": 82.2,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1998,
+      "display_date": "May 1998",
+      "title": "Nuclear tests at Pokhran",
+      "description": "Five devices are detonated and India declares itself a nuclear weapons state. Pakistan follows within a fortnight.",
+      "categories": [
+        "Military",
+        "Scientific"
+      ],
+      "source": "Pokhran-II",
+      "lat": 27.09,
+      "lng": 71.92,
+      "is_major": true
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 1999,
+      "display_date": "1999",
+      "title": "The Kargil conflict",
+      "description": "Pakistani troops occupy heights on the Indian side of the line of control and are pushed off over ten weeks. It is the first war between two nuclear states.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Kargil_War",
+      "lat": 34.56,
+      "lng": 76.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 2000,
+      "display_date": "c. 2000",
+      "title": "The software industry takes off",
+      "description": "Bangalore and Hyderabad build a services export sector on the back of the Y2K remediation work and English-language engineering graduates.",
+      "categories": [
+        "Economic",
+        "Scientific"
+      ],
+      "source": "Information_technology_in_India",
+      "lat": 12.97,
+      "lng": 77.59,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 2008,
+      "display_date": "November 2008",
+      "title": "The Mumbai attacks",
+      "description": "Ten gunmen from Pakistan hold parts of the city for four days and kill one hundred and seventy-five people.",
+      "categories": [
+        "Military",
+        "Social"
+      ],
+      "source": "2008_Mumbai_attacks",
+      "lat": 18.94,
+      "lng": 72.83,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 2014,
+      "display_date": "September 2014",
+      "title": "Mangalyaan reaches Mars",
+      "description": "India puts an orbiter around Mars at the first attempt, for less than the budget of a Hollywood film about doing so.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Mars_Orbiter_Mission",
+      "lat": 13.72,
+      "lng": 80.23,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 2023,
+      "display_date": "August 2023",
+      "title": "Chandrayaan-3 lands near the lunar south pole",
+      "description": "The first soft landing in that region by anyone, four years after the previous attempt crashed.",
+      "categories": [
+        "Scientific"
+      ],
+      "source": "Chandrayaan-3",
+      "lat": 13.72,
+      "lng": 80.23,
+      "is_major": false
+    },
+    {
+      "era_name": "Republic of India",
+      "sort_year": 2023.5,
+      "display_date": "2023",
+      "title": "India becomes the most populous country",
+      "description": "It passes China at about 1.43 billion people, with a median age of twenty-eight against China's thirty-nine.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Demographics_of_India",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    }
+  ]
+}

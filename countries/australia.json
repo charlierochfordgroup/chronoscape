@@ -1,0 +1,1923 @@
+{
+  "country": {
+    "name": "Australia",
+    "center_lat": -25.5,
+    "center_lng": 134.0,
+    "default_zoom": 3
+  },
+  "eras": [
+    {
+      "name": "Deep Time",
+      "short_name": "Deep Time",
+      "sort_order": 0,
+      "year_start": -65000,
+      "year_end": 1605,
+      "date_label": "to 1606",
+      "width_pct": 8,
+      "color": "#5a8a9a"
+    },
+    {
+      "name": "European Contact",
+      "short_name": "Contact",
+      "sort_order": 1,
+      "year_start": 1606,
+      "year_end": 1787,
+      "date_label": "1606-1787",
+      "width_pct": 7,
+      "color": "#6b7f9e"
+    },
+    {
+      "name": "Convict Colony",
+      "short_name": "Convict Era",
+      "sort_order": 2,
+      "year_start": 1788,
+      "year_end": 1820,
+      "date_label": "1788-1820",
+      "width_pct": 10,
+      "color": "#7a6fa0"
+    },
+    {
+      "name": "Exploration and Expansion",
+      "short_name": "Expansion",
+      "sort_order": 3,
+      "year_start": 1820,
+      "year_end": 1850,
+      "date_label": "1820-1850",
+      "width_pct": 10,
+      "color": "#8a6b93"
+    },
+    {
+      "name": "Gold Rushes",
+      "short_name": "Gold",
+      "sort_order": 4,
+      "year_start": 1851,
+      "year_end": 1870,
+      "date_label": "1851-1870",
+      "width_pct": 10,
+      "color": "#9c6a7d"
+    },
+    {
+      "name": "Colonial Maturity",
+      "short_name": "Late Colonial",
+      "sort_order": 5,
+      "year_start": 1870,
+      "year_end": 1900,
+      "date_label": "1870-1900",
+      "width_pct": 10,
+      "color": "#a87356"
+    },
+    {
+      "name": "Federation and the Great War",
+      "short_name": "Federation",
+      "sort_order": 6,
+      "year_start": 1901,
+      "year_end": 1918,
+      "date_label": "1901-1918",
+      "width_pct": 11,
+      "color": "#b08a45"
+    },
+    {
+      "name": "Between the Wars",
+      "short_name": "Interwar",
+      "sort_order": 7,
+      "year_start": 1919,
+      "year_end": 1938,
+      "date_label": "1919-1938",
+      "width_pct": 10,
+      "color": "#8f9a4a"
+    },
+    {
+      "name": "War and Postwar",
+      "short_name": "War and After",
+      "sort_order": 8,
+      "year_start": 1939,
+      "year_end": 1965,
+      "date_label": "1939-1965",
+      "width_pct": 12,
+      "color": "#5f9a6a"
+    },
+    {
+      "name": "Modern Australia",
+      "short_name": "Modern",
+      "sort_order": 9,
+      "year_start": 1966,
+      "year_end": 2026,
+      "date_label": "1966 to now",
+      "width_pct": 12,
+      "color": "#4fa3a0"
+    }
+  ],
+  "events": [
+    {
+      "era_name": "Deep Time",
+      "sort_year": -65000,
+      "display_date": "c. 65,000 years ago",
+      "title": "First arrival at Madjedbebe",
+      "description": "Stone tools and ground ochre under a rock shelter in Arnhem Land give the oldest secure date for people in Australia, and one of the oldest for modern humans outside Africa.",
+      "categories": [
+        "Aboriginal",
+        "Social"
+      ],
+      "source": "Madjedbebe",
+      "lat": -12.35,
+      "lng": 132.9,
+      "is_major": true
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -50000,
+      "display_date": "c. 50,000 years ago",
+      "title": "The megafauna disappear",
+      "description": "Diprotodon, a marsupial lion and a three-metre kangaroo vanish within a few thousand years of human arrival. How much was hunting and how much was climate is still argued.",
+      "categories": [
+        "Aboriginal",
+        "Scientific"
+      ],
+      "source": "Australian_megafauna",
+      "lat": -33.75,
+      "lng": 143.1,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -42000,
+      "display_date": "c. 42,000 years ago",
+      "title": "The burials at Lake Mungo",
+      "description": "A cremation and an ochred burial beside a lake that is now dry are among the earliest ritual human burials known anywhere.",
+      "categories": [
+        "Aboriginal",
+        "Religious"
+      ],
+      "source": "Lake_Mungo_remains",
+      "lat": -33.75,
+      "lng": 143.1,
+      "is_major": true
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -40000,
+      "display_date": "c. 40,000 years ago",
+      "title": "The rock art of Murujuga",
+      "description": "The Burrup peninsula holds perhaps a million petroglyphs, including images of animals that have been extinct for thousands of years.",
+      "categories": [
+        "Aboriginal",
+        "Cultural"
+      ],
+      "source": "Murujuga",
+      "lat": -20.62,
+      "lng": 116.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -18000,
+      "display_date": "c. 18,000 years ago",
+      "title": "The glacial maximum",
+      "description": "Sea level is a hundred and twenty metres lower, Tasmania and New Guinea are joined to the mainland, and the interior is colder and far drier than now.",
+      "categories": [
+        "Aboriginal",
+        "Scientific"
+      ],
+      "source": "Last_Glacial_Maximum",
+      "lat": -25.0,
+      "lng": 134.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -12000,
+      "display_date": "c. 12,000 years ago",
+      "title": "Tasmania is cut off",
+      "description": "Rising seas flood the Bassian plain. The people of Tasmania are isolated for four hundred generations, the longest isolation of any human population.",
+      "categories": [
+        "Aboriginal",
+        "Social"
+      ],
+      "source": "Tasmania",
+      "lat": -40.1,
+      "lng": 145.6,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -6600,
+      "display_date": "c. 6,600 years ago",
+      "title": "The eel traps at Budj Bim",
+      "description": "Gunditjmara people cut channels and weirs through lava flow to farm eels, and build stone houses beside them. It is aquaculture older than the pyramids.",
+      "categories": [
+        "Aboriginal",
+        "Economic"
+      ],
+      "source": "Budj_Bim",
+      "lat": -38.05,
+      "lng": 141.92,
+      "is_major": true
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -4000,
+      "display_date": "c. 4,000 years ago",
+      "title": "The dingo arrives",
+      "description": "Australia's only placental land predator before Europeans comes by sea with Asian seafarers, and reshapes the ecology of the mainland.",
+      "categories": [
+        "Aboriginal",
+        "Scientific"
+      ],
+      "source": "Dingo",
+      "lat": -25.0,
+      "lng": 134.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": -1000,
+      "display_date": "c. 1,000 years ago",
+      "title": "Songlines and the Dreaming",
+      "description": "Law, geography and genealogy are carried in song cycles that run for hundreds of kilometres across the country and hand between language groups at the boundary.",
+      "categories": [
+        "Aboriginal",
+        "Cultural"
+      ],
+      "source": "Songline",
+      "lat": null,
+      "lng": null,
+      "is_major": false
+    },
+    {
+      "era_name": "Deep Time",
+      "sort_year": 1500,
+      "display_date": "c. 1500",
+      "title": "Makassan trade with Arnhem Land",
+      "description": "Praus from Sulawesi come south each monsoon for trepang, trading iron, cloth and tobacco. It is regular international commerce, and it predates the British by centuries.",
+      "categories": [
+        "Aboriginal",
+        "Economic"
+      ],
+      "source": "Makassan_contact_with_Australia",
+      "lat": -12.2,
+      "lng": 136.79,
+      "is_major": true
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1606,
+      "display_date": "March 1606",
+      "title": "The Duyfken makes landfall",
+      "description": "Willem Janszoon charts part of Cape York for the Dutch, takes it for a southern extension of New Guinea, and loses men in the first recorded clash with Aboriginal people.",
+      "categories": [
+        "Foreign Relations",
+        "Military"
+      ],
+      "source": "Duyfken",
+      "lat": -12.2,
+      "lng": 141.75,
+      "is_major": true
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1606.5,
+      "display_date": "1606",
+      "title": "Torres sails the strait",
+      "description": "Luis Vaez de Torres passes between New Guinea and Cape York without apparently realising a continent lies to the south. The strait carries his name.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Torres_Strait",
+      "lat": -10.0,
+      "lng": 142.5,
+      "is_major": false
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1616,
+      "display_date": "October 1616",
+      "title": "Dirk Hartog leaves a plate",
+      "description": "A Dutch captain nails an inscribed pewter dish to a post on a Western Australian island. It is the oldest known European artefact in Australia.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Dirk_Hartog",
+      "lat": -25.83,
+      "lng": 112.98,
+      "is_major": false
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1629,
+      "display_date": "1629",
+      "title": "The wreck of the Batavia",
+      "description": "A Dutch East India ship strikes a reef and the survivors are subjected to a mutiny and a massacre. Two men are marooned on the mainland and never seen again.",
+      "categories": [
+        "Foreign Relations",
+        "Military"
+      ],
+      "source": "Batavia_(1628_ship)",
+      "lat": -28.48,
+      "lng": 113.79,
+      "is_major": false
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1642,
+      "display_date": "1642",
+      "title": "Tasman charts Van Diemen's Land",
+      "description": "Abel Tasman finds Tasmania and New Zealand while sailing around the continent without seeing its east coast, and concludes it is not worth much.",
+      "categories": [
+        "Foreign Relations"
+      ],
+      "source": "Abel_Tasman",
+      "lat": -42.88,
+      "lng": 147.33,
+      "is_major": false
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1688,
+      "display_date": "1688",
+      "title": "Dampier on the northwest coast",
+      "description": "An English buccaneer spends weeks on the Kimberley shore and writes it up so unfavourably that it discourages British interest for eighty years.",
+      "categories": [
+        "Foreign Relations",
+        "Cultural"
+      ],
+      "source": "William_Dampier",
+      "lat": -16.42,
+      "lng": 123.03,
+      "is_major": false
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1770,
+      "display_date": "April 1770",
+      "title": "Cook charts the east coast",
+      "description": "The Endeavour maps two thousand miles of coastline, nearly sinks on the Great Barrier Reef, and its naturalists collect a flora nobody in Europe has seen.",
+      "categories": [
+        "Foreign Relations",
+        "Scientific"
+      ],
+      "source": "First_voyage_of_James_Cook",
+      "lat": -33.99,
+      "lng": 151.2,
+      "is_major": true
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1770.5,
+      "display_date": "22 August 1770",
+      "title": "Possession Island",
+      "description": "Cook claims the whole eastern coast for Britain from an island off Cape York, on the legal fiction that the land belongs to nobody.",
+      "categories": [
+        "Political",
+        "Foreign Relations"
+      ],
+      "source": "Terra_nullius",
+      "lat": -10.72,
+      "lng": 142.4,
+      "is_major": true
+    },
+    {
+      "era_name": "European Contact",
+      "sort_year": 1786,
+      "display_date": "August 1786",
+      "title": "Botany Bay chosen for a penal colony",
+      "description": "With American independence closing the old destination for transported convicts, the British cabinet picks a harbour on the other side of the world on a decade-old report.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Convicts_in_Australia",
+      "lat": -33.99,
+      "lng": 151.2,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1788,
+      "display_date": "26 January 1788",
+      "title": "The First Fleet arrives",
+      "description": "Eleven ships and about fourteen hundred people, more than half of them convicts, land at Sydney Cove after Botany Bay proves unsuitable. Australia Day and Invasion Day are the same date.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "First_Fleet",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1789,
+      "display_date": "April 1789",
+      "title": "Smallpox devastates the Eora",
+      "description": "An epidemic kills perhaps half the Aboriginal people around Sydney within a year. Its origin has never been settled and the argument is not academic.",
+      "categories": [
+        "Aboriginal",
+        "Social"
+      ],
+      "source": "1789_Sydney_smallpox_outbreak",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1790,
+      "display_date": "June 1790",
+      "title": "The Second Fleet",
+      "description": "Contractors paid per head embarked rather than landed deliver a quarter of their convicts dead and most of the rest unable to walk. The scandal forces reform of the trade.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Second_Fleet_(Australia)",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1790.5,
+      "display_date": "1790",
+      "title": "Pemulwuy's resistance",
+      "description": "A Bidjigal man leads twelve years of raids against the settlements around Sydney. He is shot in 1802 and his head is sent to England.",
+      "categories": [
+        "Aboriginal",
+        "Military"
+      ],
+      "source": "Pemulwuy",
+      "lat": -33.95,
+      "lng": 150.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1793,
+      "display_date": "1793",
+      "title": "The first free settlers",
+      "description": "A handful of families arrive with land grants and convict labour. The colony starts becoming a society rather than a prison.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "History_of_Australia_(1788–1850)",
+      "lat": -33.81,
+      "lng": 151.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1797,
+      "display_date": "1797",
+      "title": "Merino sheep are landed",
+      "description": "John Macarthur and others import Spanish merinos. Within fifty years wool is the reason the colony pays for itself.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Merino",
+      "lat": -33.81,
+      "lng": 151.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1803,
+      "display_date": "1803",
+      "title": "Settlement at Risdon Cove",
+      "description": "The British occupy Van Diemen's Land to forestall the French. Within thirty years the Aboriginal population of the island is almost entirely destroyed.",
+      "categories": [
+        "Political",
+        "Aboriginal"
+      ],
+      "source": "History_of_Tasmania",
+      "lat": -42.83,
+      "lng": 147.33,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1804,
+      "display_date": "March 1804",
+      "title": "The Castle Hill rebellion",
+      "description": "Several hundred mostly Irish convicts rise and are broken in fifteen minutes by the New South Wales Corps. Nine are hanged.",
+      "categories": [
+        "Military",
+        "Social"
+      ],
+      "source": "Castle_Hill_convict_rebellion",
+      "lat": -33.73,
+      "lng": 150.98,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1808,
+      "display_date": "January 1808",
+      "title": "The Rum Rebellion",
+      "description": "Officers of the New South Wales Corps depose Governor Bligh. It is the only successful armed takeover of government in Australian history.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "Rum_Rebellion",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1810,
+      "display_date": "1810",
+      "title": "Macquarie begins building",
+      "description": "A new governor puts up roads, hospitals and public buildings, employs emancipated convicts, and is recalled for treating them as citizens.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Lachlan_Macquarie",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1813,
+      "display_date": "May 1813",
+      "title": "The Blue Mountains are crossed",
+      "description": "Blaxland, Lawson and Wentworth find a route along the ridges rather than the valleys. The inland grasslands open and pastoral expansion begins.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Blue_Mountains_(New_South_Wales)",
+      "lat": -33.72,
+      "lng": 150.31,
+      "is_major": true
+    },
+    {
+      "era_name": "Convict Colony",
+      "sort_year": 1817,
+      "display_date": "1817",
+      "title": "The Bank of New South Wales",
+      "description": "The colony gets its first bank, and eventually a currency that is not measured in rum.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Westpac",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1824,
+      "display_date": "1824",
+      "title": "Moreton Bay penal settlement",
+      "description": "A place of secondary punishment is founded at what becomes Brisbane. Free settlement is banned within eighty kilometres for another two decades.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Moreton_Bay_penal_settlement",
+      "lat": -27.47,
+      "lng": 153.03,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1828,
+      "display_date": "1828",
+      "title": "Martial law in Van Diemen's Land",
+      "description": "The Black War brings a declaration of martial law against Aboriginal Tasmanians, then a failed human chain across the island to drive them into a corner.",
+      "categories": [
+        "Aboriginal",
+        "Military"
+      ],
+      "source": "Black_War",
+      "lat": -42.0,
+      "lng": 147.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1829,
+      "display_date": "June 1829",
+      "title": "The Swan River Colony",
+      "description": "Western Australia is settled as a free colony without convicts. It struggles so badly for labour that it asks for convicts twenty years later.",
+      "categories": [
+        "Political",
+        "Economic"
+      ],
+      "source": "Swan_River_Colony",
+      "lat": -31.95,
+      "lng": 115.86,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1835,
+      "display_date": "1835",
+      "title": "Batman's treaty and the founding of Melbourne",
+      "description": "John Batman claims to buy six hundred thousand acres from Kulin elders for blankets and tomahawks. The governor voids it, because only the Crown may acquire land.",
+      "categories": [
+        "Political",
+        "Aboriginal"
+      ],
+      "source": "Batman's_Treaty",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": true
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1836,
+      "display_date": "December 1836",
+      "title": "South Australia is proclaimed",
+      "description": "A colony designed by Wakefield on paper: no convicts, land sold rather than granted, and religious freedom written in from the start.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "History_of_South_Australia",
+      "lat": -34.93,
+      "lng": 138.6,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1838,
+      "display_date": "June 1838",
+      "title": "The Myall Creek massacre",
+      "description": "Twenty-eight Wirrayaraay people are killed by stockmen. Seven of the killers are hanged, the only such convictions of the century, and the frontier learns to leave no evidence.",
+      "categories": [
+        "Aboriginal",
+        "Military"
+      ],
+      "source": "Myall_Creek_massacre",
+      "lat": -29.75,
+      "lng": 150.62,
+      "is_major": true
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1840,
+      "display_date": "1840",
+      "title": "Transportation to New South Wales ends",
+      "description": "Eighty thousand convicts have been landed in the colony. Free immigrants now outnumber them and want the stigma gone.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Penal_transportation",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1841,
+      "display_date": "1841",
+      "title": "Eyre crosses the Nullarbor",
+      "description": "Edward Eyre walks two thousand kilometres along the Great Australian Bight, surviving because his Aboriginal companion Wylie keeps finding water.",
+      "categories": [
+        "Social",
+        "Scientific"
+      ],
+      "source": "Edward_John_Eyre",
+      "lat": -31.9,
+      "lng": 129.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1844,
+      "display_date": "1844",
+      "title": "Ludwig Leichhardt reaches Port Essington",
+      "description": "A German naturalist crosses from the Darling Downs to Arnhem Land, is given a hero's welcome, and vanishes without trace on his next attempt.",
+      "categories": [
+        "Scientific",
+        "Social"
+      ],
+      "source": "Ludwig_Leichhardt",
+      "lat": -11.36,
+      "lng": 132.16,
+      "is_major": false
+    },
+    {
+      "era_name": "Exploration and Expansion",
+      "sort_year": 1847,
+      "display_date": "1847",
+      "title": "The squatters get their runs",
+      "description": "Pastoralists who had simply occupied land beyond the settled districts are granted long leases over it. The frontier is legalised after the fact.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Squatting_(Australian_history)",
+      "lat": -31.0,
+      "lng": 146.0,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1851,
+      "display_date": "May 1851",
+      "title": "Gold is found near Bathurst",
+      "description": "Edward Hargraves publicises a find at Ophir and the colonies empty into the diggings. Victoria's population triples in three years.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Australian_gold_rushes",
+      "lat": -33.2,
+      "lng": 149.15,
+      "is_major": true
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1851.5,
+      "display_date": "1851",
+      "title": "Victoria separates from New South Wales",
+      "description": "The Port Phillip district becomes its own colony weeks before the gold rush makes it the richest place in the empire.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Colony_of_Victoria",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1852,
+      "display_date": "1852",
+      "title": "The Chinese arrive on the goldfields",
+      "description": "Tens of thousands come from Guangdong. Within five years the colonies begin passing the entry taxes and residence laws that become the White Australia policy.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Chinese_Australians",
+      "lat": -37.06,
+      "lng": 144.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1854,
+      "display_date": "3 December 1854",
+      "title": "The Eureka Stockade",
+      "description": "Ballarat diggers burn their licences and build a stockade over mining fees and the vote. Twenty-two are killed, every man tried is acquitted, and the licence is abolished.",
+      "categories": [
+        "Military",
+        "Political"
+      ],
+      "source": "Eureka_Rebellion",
+      "lat": -37.56,
+      "lng": 143.85,
+      "is_major": true
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1855,
+      "display_date": "1855",
+      "title": "Responsible government",
+      "description": "New South Wales, Victoria, South Australia and Tasmania get elected parliaments running their own affairs. It is remarkably early by any standard.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Responsible_government",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1856,
+      "display_date": "April 1856",
+      "title": "The eight hour day",
+      "description": "Stonemasons on the Melbourne University site down tools and win eight hours work, eight hours recreation and eight hours rest. It is one of the first such wins anywhere.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Eight-hour_day",
+      "lat": -37.8,
+      "lng": 144.96,
+      "is_major": true
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1858,
+      "display_date": "1858",
+      "title": "Manhood suffrage in Victoria",
+      "description": "Every adult male gets the vote and the secret ballot is already in use. The Australian ballot is exported to Britain and the United States.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Secret_ballot",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1859,
+      "display_date": "December 1859",
+      "title": "Queensland separates",
+      "description": "The northern districts become a colony. The frontier there is the most violent in Australia and the Native Police are the instrument of it.",
+      "categories": [
+        "Political",
+        "Aboriginal"
+      ],
+      "source": "Colony_of_Queensland",
+      "lat": -27.47,
+      "lng": 153.03,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1860,
+      "display_date": "August 1860",
+      "title": "Burke and Wills set out",
+      "description": "A lavishly funded expedition crosses the continent and both leaders die at Cooper Creek, beside a tree carved with the word DIG, having failed to eat what the Yandruwandha ate.",
+      "categories": [
+        "Social",
+        "Scientific"
+      ],
+      "source": "Burke_and_Wills_expedition",
+      "lat": -27.63,
+      "lng": 141.08,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1861,
+      "display_date": "1861",
+      "title": "The Lambing Flat riots",
+      "description": "White miners drive Chinese diggers off the field at Young. The colonial response is to restrict Chinese immigration rather than to protect them.",
+      "categories": [
+        "Social"
+      ],
+      "source": "Lambing_Flat_riots",
+      "lat": -34.31,
+      "lng": 148.3,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1868,
+      "display_date": "January 1868",
+      "title": "The last convict ship",
+      "description": "The Hougoumont lands at Fremantle. Eighty years and about a hundred and sixty-two thousand transported convicts come to an end.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Convicts_in_Australia",
+      "lat": -32.06,
+      "lng": 115.75,
+      "is_major": false
+    },
+    {
+      "era_name": "Gold Rushes",
+      "sort_year": 1868.5,
+      "display_date": "1868",
+      "title": "The first Australian cricket tour of England",
+      "description": "An all-Aboriginal team plays forty-seven matches in a season. They are not allowed to represent Australia again for over a century.",
+      "categories": [
+        "Cultural",
+        "Aboriginal"
+      ],
+      "source": "Australian_Aboriginal_cricket_team_in_England_in_1868",
+      "lat": 51.48,
+      "lng": -0.11,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1872,
+      "display_date": "August 1872",
+      "title": "The Overland Telegraph",
+      "description": "Three thousand kilometres of wire from Adelaide to Darwin connect Australia to London. A message that took two months now takes hours.",
+      "categories": [
+        "Scientific",
+        "Economic"
+      ],
+      "source": "Australian_Overland_Telegraph_Line",
+      "lat": -12.46,
+      "lng": 130.84,
+      "is_major": true
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1877,
+      "display_date": "March 1877",
+      "title": "The first Test match",
+      "description": "Australia beats England at the Melbourne Cricket Ground by forty-five runs. The Ashes follow five years later, after an obituary for English cricket.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Test_cricket",
+      "lat": -37.82,
+      "lng": 144.98,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1880,
+      "display_date": "June 1880",
+      "title": "Ned Kelly at Glenrowan",
+      "description": "A bushranger in homemade plate armour is taken after a siege and hanged at eleven. Whether he is a folk hero or a murderer has been argued ever since.",
+      "categories": [
+        "Social",
+        "Military"
+      ],
+      "source": "Ned_Kelly",
+      "lat": -36.46,
+      "lng": 146.22,
+      "is_major": true
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1883,
+      "display_date": "1883",
+      "title": "Silver at Broken Hill",
+      "description": "A boundary rider pegs a claim on a broken hill of ore. BHP is founded on it and becomes the largest company in the country.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Broken_Hill,_New_South_Wales",
+      "lat": -31.95,
+      "lng": 141.45,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1888,
+      "display_date": "1888",
+      "title": "The centenary, and the colour bar",
+      "description": "A hundred years of settlement is celebrated while the colonies coordinate to exclude Chinese immigrants. Aboriginal people are not counted in either conversation.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "White_Australia_policy",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1890,
+      "display_date": "1890",
+      "title": "The maritime strike",
+      "description": "A shearers and seamen's dispute spreads across the colonies and is defeated. Out of the defeat the unions decide to form a political party.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "1890_Australian_maritime_dispute",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1891,
+      "display_date": "May 1891",
+      "title": "The shearers' strike at Barcaldine",
+      "description": "Troopers break a shearers' camp in central Queensland. The Australian Labor Party traces itself to a tree in that town.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "1891_Australian_shearers'_strike",
+      "lat": -23.55,
+      "lng": 145.29,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1892,
+      "display_date": "September 1892",
+      "title": "Gold at Coolgardie and Kalgoorlie",
+      "description": "A rush into the Western Australian desert with almost no water. A pipeline five hundred and sixty kilometres long is built to supply it.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Kalgoorlie",
+      "lat": -30.75,
+      "lng": 121.47,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1894,
+      "display_date": "1894",
+      "title": "South Australian women win the vote",
+      "description": "They also win the right to stand for parliament, which no women anywhere else had. New Zealand had granted the vote a year earlier without the second half.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Women's_suffrage_in_Australia",
+      "lat": -34.93,
+      "lng": 138.6,
+      "is_major": true
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1895,
+      "display_date": "1895",
+      "title": "Waltzing Matilda",
+      "description": "Banjo Paterson writes a song about a swagman who drowns himself rather than be taken. It becomes the country's unofficial anthem.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Waltzing_Matilda",
+      "lat": -22.0,
+      "lng": 143.03,
+      "is_major": false
+    },
+    {
+      "era_name": "Colonial Maturity",
+      "sort_year": 1899,
+      "display_date": "1899",
+      "title": "The federation referendums",
+      "description": "Colonial voters approve a constitution drafted by their own elected conventions. Australia federates by argument and ballot rather than by war.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Federation_of_Australia",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1901,
+      "display_date": "1 January 1901",
+      "title": "Federation",
+      "description": "Six colonies become one Commonwealth. Aboriginal people are explicitly excluded from the census and from the new parliament's power to legislate for them.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Federation_of_Australia",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1901.5,
+      "display_date": "December 1901",
+      "title": "The Immigration Restriction Act",
+      "description": "The new parliament's first substantial law screens migrants with a dictation test in any European language. White Australia is the policy for seventy years.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Immigration_Restriction_Act_1901",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": true
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1902,
+      "display_date": "1902",
+      "title": "Women get the federal vote",
+      "description": "Australian women can vote and stand for the national parliament before those in any other self-governing country. Aboriginal women and men are excluded.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Commonwealth_Franchise_Act_1902",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1907,
+      "display_date": "November 1907",
+      "title": "The Harvester judgment",
+      "description": "A court rules a wage must keep a labourer, a wife and three children in frugal comfort. The basic wage is the foundation of Australian industrial relations for eighty years.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Harvester_case",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": true
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1908,
+      "display_date": "1908",
+      "title": "The old age pension",
+      "description": "A national pension is legislated seven years after federation, ahead of most of the world.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Social_security_in_Australia",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1913,
+      "display_date": "March 1913",
+      "title": "Canberra is named",
+      "description": "A capital is built from nothing on a site chosen because Sydney and Melbourne would not accept each other. Walter and Marion Griffin win the design competition.",
+      "categories": [
+        "Political",
+        "Cultural"
+      ],
+      "source": "Canberra",
+      "lat": -35.28,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1914,
+      "display_date": "August 1914",
+      "title": "Australia enters the Great War",
+      "description": "A population of fewer than five million sends over four hundred thousand volunteers. Sixty thousand do not come back.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Australia_in_World_War_I",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1915,
+      "display_date": "25 April 1915",
+      "title": "The Gallipoli landing",
+      "description": "A failed campaign on a Turkish peninsula becomes the national story, commemorated every year on the date of the landing rather than any victory.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Landing_at_Anzac_Cove",
+      "lat": 40.24,
+      "lng": 26.28,
+      "is_major": true
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1916,
+      "display_date": "1916",
+      "title": "The conscription referendums",
+      "description": "Two plebiscites on compulsory overseas service are both narrowly defeated, splitting the Labor Party and the country along sectarian lines.",
+      "categories": [
+        "Political",
+        "Military"
+      ],
+      "source": "1916_Australian_conscription_referendum",
+      "lat": -37.81,
+      "lng": 144.96,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1917,
+      "display_date": "1917",
+      "title": "Beersheba",
+      "description": "The Australian Light Horse charges Turkish trenches and takes the wells. It is one of the last effective cavalry charges in history.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Battle_of_Beersheba_(1917)",
+      "lat": 31.25,
+      "lng": 34.79,
+      "is_major": false
+    },
+    {
+      "era_name": "Federation and the Great War",
+      "sort_year": 1918,
+      "display_date": "April 1918",
+      "title": "Villers-Bretonneux",
+      "description": "Australian troops retake the town on the third anniversary of the landing. Monash's combined-arms methods at Hamel three months later are studied for decades.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Second_Battle_of_Villers-Bretonneux",
+      "lat": 49.87,
+      "lng": 2.52,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1919,
+      "display_date": "1919",
+      "title": "The influenza pandemic",
+      "description": "Quarantine keeps it out for months and about fifteen thousand die when it lands. Returning troops bring it home with them.",
+      "categories": [
+        "Social"
+      ],
+      "source": "Spanish_flu",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1920,
+      "display_date": "1920",
+      "title": "Qantas is founded",
+      "description": "An air service starts at Winton to connect western Queensland stations. It becomes the oldest continuously operating airline outside the Netherlands.",
+      "categories": [
+        "Economic",
+        "Scientific"
+      ],
+      "source": "Qantas",
+      "lat": -22.39,
+      "lng": 143.04,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1923,
+      "display_date": "1923",
+      "title": "The Country Party enters coalition",
+      "description": "Rural interests get a permanent seat at the table. The arrangement between the conservative parties still runs a century later.",
+      "categories": [
+        "Political"
+      ],
+      "source": "National_Party_of_Australia",
+      "lat": -35.28,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1927,
+      "display_date": "May 1927",
+      "title": "Parliament moves to Canberra",
+      "description": "The federal parliament finally leaves Melbourne for the provisional building in its own capital.",
+      "categories": [
+        "Political"
+      ],
+      "source": "Old_Parliament_House,_Canberra",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1928,
+      "display_date": "August 1928",
+      "title": "The Coniston massacre",
+      "description": "At least thirty-one Warlpiri, Anmatyerre and Kaytetye people are killed by a police party in the Northern Territory. It is the last known frontier massacre and the officer is exonerated.",
+      "categories": [
+        "Aboriginal",
+        "Military"
+      ],
+      "source": "Coniston_massacre",
+      "lat": -22.15,
+      "lng": 132.3,
+      "is_major": true
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1928.5,
+      "display_date": "1928",
+      "title": "The Flying Doctor",
+      "description": "John Flynn's aerial medical service starts at Cloncurry, using pedal radios to reach stations a week's ride from anywhere.",
+      "categories": [
+        "Social",
+        "Scientific"
+      ],
+      "source": "Royal_Flying_Doctor_Service_of_Australia",
+      "lat": -20.71,
+      "lng": 140.51,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1930,
+      "display_date": "November 1930",
+      "title": "Phar Lap wins the Melbourne Cup",
+      "description": "A horse becomes a Depression-era folk hero, then dies in California in circumstances people still argue about.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Phar_Lap",
+      "lat": -37.87,
+      "lng": 144.99,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1931,
+      "display_date": "1931",
+      "title": "The Depression bites",
+      "description": "Unemployment reaches nearly a third. The Premiers' Plan cuts wages and spending, and the Labor Party splits over it.",
+      "categories": [
+        "Economic",
+        "Social"
+      ],
+      "source": "Great_Depression_in_Australia",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1932,
+      "display_date": "March 1932",
+      "title": "The Sydney Harbour Bridge opens",
+      "description": "A right-wing paramilitary slashes the ribbon on horseback before the premier can cut it. The bridge itself was built through the worst of the Depression.",
+      "categories": [
+        "Economic",
+        "Cultural"
+      ],
+      "source": "Sydney_Harbour_Bridge",
+      "lat": -33.85,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1932.5,
+      "display_date": "1932",
+      "title": "The Emu War",
+      "description": "Soldiers with machine guns are sent against emus in Western Australia and lose. It is genuinely funny and it was a genuine agricultural crisis.",
+      "categories": [
+        "Economic"
+      ],
+      "source": "Emu_War",
+      "lat": -29.9,
+      "lng": 116.7,
+      "is_major": false
+    },
+    {
+      "era_name": "Between the Wars",
+      "sort_year": 1938,
+      "display_date": "26 January 1938",
+      "title": "The Day of Mourning",
+      "description": "Aboriginal activists hold a protest in Sydney on the sesquicentenary and demand citizenship and equality. It is the beginning of organised national Aboriginal politics.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Day_of_Mourning_(Australia)",
+      "lat": -33.87,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1939,
+      "display_date": "3 September 1939",
+      "title": "Australia is at war again",
+      "description": "Menzies announces that because Britain has declared war, Australia is also at war. The phrasing dates the relationship precisely.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Military_history_of_Australia_during_World_War_II",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1941,
+      "display_date": "December 1941",
+      "title": "Curtin turns to America",
+      "description": "With Japan in the war the prime minister says Australia looks to the United States free of any pangs about its traditional links with Britain.",
+      "categories": [
+        "Foreign Relations",
+        "Military"
+      ],
+      "source": "John_Curtin",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1942.1,
+      "display_date": "15 February 1942",
+      "title": "Singapore falls",
+      "description": "Fifteen thousand Australians go into Japanese captivity. A third of the prisoners taken do not survive the war.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Fall_of_Singapore",
+      "lat": 1.29,
+      "lng": 103.85,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1942.2,
+      "display_date": "19 February 1942",
+      "title": "Darwin is bombed",
+      "description": "Two raids by more aircraft than were used at Pearl Harbor kill at least two hundred and forty-three people. The scale is censored at the time.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Bombing_of_Darwin",
+      "lat": -12.46,
+      "lng": 130.84,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1942.4,
+      "display_date": "May 1942",
+      "title": "The Coral Sea and the Kokoda Track",
+      "description": "A carrier battle turns back the seaborne threat to Port Moresby, and militia and regulars fight the Japanese to a standstill along a mountain track.",
+      "categories": [
+        "Military"
+      ],
+      "source": "Kokoda_Track_campaign",
+      "lat": -8.88,
+      "lng": 147.73,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1945,
+      "display_date": "August 1945",
+      "title": "The war ends",
+      "description": "Nearly a million Australians served and about thirty-nine thousand died. The country comes out of it aligned with Washington rather than London.",
+      "categories": [
+        "Military",
+        "Foreign Relations"
+      ],
+      "source": "Australia_in_World_War_II",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1945.5,
+      "display_date": "1945",
+      "title": "Populate or perish",
+      "description": "A mass immigration programme opens to displaced Europeans, then to southern Europe. Two million arrive in twenty years and the country stops being British.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Immigration_to_Australia",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1948,
+      "display_date": "November 1948",
+      "title": "The first Holden",
+      "description": "A car designed for Australian roads is built at Fishermans Bend. It is the industrial confidence of the postwar decades in one object.",
+      "categories": [
+        "Economic",
+        "Cultural"
+      ],
+      "source": "Holden",
+      "lat": -37.83,
+      "lng": 144.9,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1949,
+      "display_date": "October 1949",
+      "title": "The Snowy Mountains Scheme",
+      "description": "Sixteen dams, a hundred and forty-five kilometres of tunnels and twenty-five years of work, built largely by migrant labour from thirty countries.",
+      "categories": [
+        "Economic",
+        "Scientific"
+      ],
+      "source": "Snowy_Mountains_Scheme",
+      "lat": -36.4,
+      "lng": 148.35,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1951,
+      "display_date": "September 1951",
+      "title": "The ANZUS treaty",
+      "description": "Australia, New Zealand and the United States sign a security pact. It replaces the assumption that Britain would be there.",
+      "categories": [
+        "Foreign Relations",
+        "Military"
+      ],
+      "source": "ANZUS",
+      "lat": 37.77,
+      "lng": -122.42,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1951.5,
+      "display_date": "September 1951",
+      "title": "The referendum to ban the Communist Party",
+      "description": "Menzies asks for the power to outlaw a political party and is narrowly refused. Australians decline to hand over that particular tool.",
+      "categories": [
+        "Political"
+      ],
+      "source": "1951_Australian_referendum",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1956,
+      "display_date": "November 1956",
+      "title": "The Melbourne Olympics and television",
+      "description": "The games come to the southern hemisphere for the first time, and television is switched on a few weeks before them.",
+      "categories": [
+        "Cultural",
+        "Scientific"
+      ],
+      "source": "1956_Summer_Olympics",
+      "lat": -37.82,
+      "lng": 144.98,
+      "is_major": false
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1956.5,
+      "display_date": "1956",
+      "title": "British nuclear tests at Maralinga",
+      "description": "Britain detonates weapons on Anangu land with Australian consent. The traditional owners are inadequately warned and the site is not properly cleaned for forty years.",
+      "categories": [
+        "Military",
+        "Aboriginal"
+      ],
+      "source": "British_nuclear_tests_at_Maralinga",
+      "lat": -30.16,
+      "lng": 131.62,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1962,
+      "display_date": "1962",
+      "title": "Aboriginal people get the federal vote",
+      "description": "The Commonwealth Electoral Act is amended. Voting is optional for them and compulsory for everyone else, which tells you the state of the argument.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Voting_rights_of_Indigenous_Australians",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "War and Postwar",
+      "sort_year": 1965,
+      "display_date": "February 1965",
+      "title": "The Freedom Ride",
+      "description": "Charles Perkins and Sydney students bus through country New South Wales and force segregation at pools and cinemas into the newspapers.",
+      "categories": [
+        "Aboriginal",
+        "Social"
+      ],
+      "source": "Freedom_Ride_(Australia)",
+      "lat": -29.94,
+      "lng": 148.61,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1966,
+      "display_date": "August 1966",
+      "title": "The Wave Hill walk-off",
+      "description": "Gurindji stockmen strike over wages and stay out for nine years, turning the dispute into a land claim. It becomes the start of the land rights movement.",
+      "categories": [
+        "Aboriginal",
+        "Economic"
+      ],
+      "source": "Wave_Hill_walk-off",
+      "lat": -17.39,
+      "lng": 130.83,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1967,
+      "display_date": "27 May 1967",
+      "title": "The 1967 referendum",
+      "description": "More than ninety per cent vote to count Aboriginal people in the census and let the Commonwealth legislate for them. It is the largest yes vote in Australian history.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "1967_Australian_referendum_(Aboriginals)",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1972.1,
+      "display_date": "January 1972",
+      "title": "The Aboriginal Tent Embassy",
+      "description": "Four men put a beach umbrella on the lawn opposite Parliament House to protest that they are treated as aliens in their own country. It is still there.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Aboriginal_Tent_Embassy",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1972.9,
+      "display_date": "December 1972",
+      "title": "Whitlam is elected",
+      "description": "Twenty-three years of conservative government end. Conscription is abolished, university fees are dropped and universal health insurance is legislated within three years.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Whitlam_government",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1973,
+      "display_date": "October 1973",
+      "title": "The Sydney Opera House opens",
+      "description": "Fourteen years late, fifteen times over budget, and the architect is not invited. It is on the world heritage list within a generation.",
+      "categories": [
+        "Cultural"
+      ],
+      "source": "Sydney_Opera_House",
+      "lat": -33.86,
+      "lng": 151.21,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1973.5,
+      "display_date": "1973",
+      "title": "The White Australia policy formally ends",
+      "description": "The last racial criteria are removed from immigration law. Within two years Vietnamese refugees are arriving by boat.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "White_Australia_policy",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1974,
+      "display_date": "December 1974",
+      "title": "Cyclone Tracy destroys Darwin",
+      "description": "Seventy-one people die and most of the city is flattened on Christmas Eve. Thirty thousand are evacuated in the largest airlift in Australian history.",
+      "categories": [
+        "Social"
+      ],
+      "source": "Cyclone_Tracy",
+      "lat": -12.46,
+      "lng": 130.84,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1975,
+      "display_date": "11 November 1975",
+      "title": "The Dismissal",
+      "description": "The governor-general sacks an elected prime minister over a blocked budget. It is the deepest constitutional crisis the country has had and it is resolved by an election.",
+      "categories": [
+        "Political"
+      ],
+      "source": "1975_Australian_constitutional_crisis",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1976,
+      "display_date": "1976",
+      "title": "Land rights in the Northern Territory",
+      "description": "The Fraser government legislates the first Aboriginal land rights act, granting inalienable freehold title over reserves.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Aboriginal_Land_Rights_Act_1976",
+      "lat": -12.46,
+      "lng": 130.84,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1983,
+      "display_date": "1983",
+      "title": "The dollar is floated",
+      "description": "The Hawke government floats the currency, then deregulates banking and cuts tariffs, with union agreement bought through the Accord.",
+      "categories": [
+        "Economic",
+        "Political"
+      ],
+      "source": "Economy_of_Australia",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1983.5,
+      "display_date": "July 1983",
+      "title": "The Franklin Dam is stopped",
+      "description": "The High Court blocks a Tasmanian dam using the external affairs power and a world heritage listing. Environmental politics arrives as a national force.",
+      "categories": [
+        "Political",
+        "Social"
+      ],
+      "source": "Franklin_Dam_controversy",
+      "lat": -42.5,
+      "lng": 145.8,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1984,
+      "display_date": "1984",
+      "title": "Medicare",
+      "description": "Universal health insurance is restored after being dismantled, and this time it survives every change of government since.",
+      "categories": [
+        "Social",
+        "Economic"
+      ],
+      "source": "Medicare_(Australia)",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1992,
+      "display_date": "3 June 1992",
+      "title": "The Mabo decision",
+      "description": "The High Court finds that native title survived British settlement, overturning terra nullius after two hundred and four years. Eddie Mabo had died five months earlier.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Mabo_v_Queensland_(No_2)",
+      "lat": -9.91,
+      "lng": 144.05,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1996,
+      "display_date": "April 1996",
+      "title": "Port Arthur and the gun laws",
+      "description": "Thirty-five people are killed by one man. Within twelve days every state agrees to a firearms ban and buyback, and there is no comparable massacre for over twenty years.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Port_Arthur_massacre_(Australia)",
+      "lat": -43.15,
+      "lng": 147.85,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1997,
+      "display_date": "May 1997",
+      "title": "The Bringing Them Home report",
+      "description": "An inquiry documents the removal of Aboriginal children from their families over decades. The government of the day refuses to apologise.",
+      "categories": [
+        "Aboriginal",
+        "Social"
+      ],
+      "source": "Bringing_Them_Home",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 1999,
+      "display_date": "November 1999",
+      "title": "The republic referendum",
+      "description": "Australians vote to keep the monarchy, with many republicans voting no because they wanted a directly elected president rather than one chosen by parliament.",
+      "categories": [
+        "Political"
+      ],
+      "source": "1999_Australian_republic_referendum",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2000,
+      "display_date": "September 2000",
+      "title": "The Sydney Olympics",
+      "description": "Cathy Freeman lights the cauldron and wins the four hundred metres. A quarter of a million people had walked across the bridge for reconciliation four months earlier.",
+      "categories": [
+        "Cultural",
+        "Aboriginal"
+      ],
+      "source": "2000_Summer_Olympics",
+      "lat": -33.85,
+      "lng": 151.07,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2008,
+      "display_date": "13 February 2008",
+      "title": "The Apology",
+      "description": "Kevin Rudd apologises in parliament to the Stolen Generations. It is broadcast to crowds in every capital and costs nothing anybody had claimed it would.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "Apology_to_the_Stolen_Generations",
+      "lat": -35.31,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2009,
+      "display_date": "February 2009",
+      "title": "Black Saturday",
+      "description": "Bushfires in Victoria kill one hundred and seventy-three people in a day, the deadliest in Australian history.",
+      "categories": [
+        "Social"
+      ],
+      "source": "Black_Saturday_bushfires",
+      "lat": -37.5,
+      "lng": 145.5,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2017,
+      "display_date": "December 2017",
+      "title": "Same-sex marriage",
+      "description": "A voluntary postal survey returns sixty-two per cent yes on an eighty per cent turnout, and parliament legislates within three weeks.",
+      "categories": [
+        "Social",
+        "Political"
+      ],
+      "source": "Same-sex_marriage_in_Australia",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2019,
+      "display_date": "2019",
+      "title": "The Black Summer",
+      "description": "Fires burn twenty-four million hectares over months, kill or displace an estimated three billion animals, and put smoke over the east coast for weeks.",
+      "categories": [
+        "Social",
+        "Scientific"
+      ],
+      "source": "2019–20_Australian_bushfire_season",
+      "lat": -35.5,
+      "lng": 149.9,
+      "is_major": false
+    },
+    {
+      "era_name": "Modern Australia",
+      "sort_year": 2023,
+      "display_date": "14 October 2023",
+      "title": "The Voice referendum",
+      "description": "A proposal for an Indigenous advisory body in the constitution is defeated in every state, with about sixty per cent voting no.",
+      "categories": [
+        "Aboriginal",
+        "Political"
+      ],
+      "source": "2023_Australian_Indigenous_Voice_referendum",
+      "lat": -35.3,
+      "lng": 149.13,
+      "is_major": true
+    }
+  ]
+}
