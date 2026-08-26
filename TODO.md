@@ -511,6 +511,12 @@ the live page:
 
 - [ ] **The search box is ~40% of the filter row** for a control most visitors never touch.
       Halving it would give the era and category selects room and calm the row down.
+- [ ] **Eyeball `default_zoom` on the other ten countries.** Added 26/08/2026. China, India
+      and Australia all shipped at 4 and all three opened on a province rather than a
+      country; they are now 3, and `countries/README.md` records the calibration. The
+      existing ten were never checked the same way - Italy is 5 and Norway is 4, and Norway
+      in particular spans more latitude than anything the value was tuned on. Nothing
+      validates this field, so it needs one pass of loading each built page and looking.
 - [ ] **Eleven legend chips in one row is noisy.** Now that the era bands are actually
       visible, the legend may be redundant - or could fold into the bands themselves.
 - [ ] **The key-event star in the list is easy to miss.** A small era-coloured pill on the
