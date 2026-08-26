@@ -676,8 +676,35 @@ For a side project this "generate locally, commit, push" flow is probably fine -
 
 ### Cleanup that needs a browser session
 
-- [ ] **Streamlit Cloud**: delete the `SUPABASE_URL` and `SUPABASE_KEY` entries from Streamlit Cloud Secrets - they're no longer read by the app.
-- [ ] **Supabase dashboard**: delete the paused project `xbhhdpcbrsgmactfuxlq` ("History Timeline", us-east-1). Frees a project slot in the Rochford org permanently. The Supabase MCP exposes pause/restore/create but NOT delete, so this has to be done via the dashboard UI (Project Settings -> General -> Danger Zone -> Delete Project). Irreversible.
+- [ ] **Streamlit Cloud**: delete the app `chronoscape.streamlit.app`, which also disposes of
+      the `SUPABASE_URL` and `SUPABASE_KEY` entries in its Secrets. Recommended 26/08/2026
+      after checking the things that would argue against it, none of which held:
+      the app's source (`app.py` and the rest) was removed from this repo in `83384d6`, so
+      it points at a repo that can no longer build it; **nothing links to it** - zero hits
+      for `streamlit.app` across the whole `charlie-tren.github.io` repo, and the only
+      surviving mentions anywhere are historical prose in `PLAN.md` / `README.md` / here;
+      and it is login-gated (`GET /` 303s to `/-/login`), so it is not even publicly
+      serving a broken page. The timelines it served now live in `countries/*.json`.
+      Charlie's hand - it is a browser flow behind his login, and irreversible.
+- [ ] **Supabase dashboard**: delete the paused project `xbhhdpcbrsgmactfuxlq`
+      ("History Timeline", us-east-1). Charlie's hand: the Supabase MCP exposes
+      pause/restore/create but NOT delete, so it is the dashboard UI
+      (Project Settings -> General -> Danger Zone -> Delete Project). Irreversible.
+
+      **State verified live 26/08/2026 via the MCP, not taken from this note:** status
+      `INACTIVE`, org `sqdcjfiocaqljpunwing`, sitting alongside `rochford-hub`,
+      `rochford-news-monitor` and `Vantage`. **That org is the ROCHFORD one, and this is
+      the real argument, which the earlier version of this item did not make:** a personal
+      side project's database is parked in a work organisation. The freed slot is a
+      secondary benefit, though `lexicon/TODO.md` does name Supabase as its persistence
+      plan, so it has somewhere to go.
+
+      **The one thing not verified:** the project is paused, and reading its tables would
+      mean restoring it, which is a state change. So "the data is safe" rests on
+      `countries/taiwan.json` and `countries/iceland.json` existing and serving live, plus
+      this file's record of the dump - not on a fresh diff against the database. If that
+      is not good enough before an irreversible delete, restore it once, dump, compare,
+      then delete.
 
 ---
 
