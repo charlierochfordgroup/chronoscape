@@ -252,7 +252,15 @@ question was "which Pages project" rather than "which URL".
       a fresh module graph. Applies to checking the live site after a deploy too: a hard
       refresh is not proof that a change shipped. Confirm against the version footer.
 
-- [ ] **The hub card reads "In progress" - and that is now a DECISION, not an oversight.**
+- [x] **The hub card reads "In progress".** DONE 26/08/2026 - Charlie handed the decision
+      back ("do either of these if worth doing"), and the facts had moved since the revert:
+      seven countries and no auto-publish then, thirteen countries and an auto-deploy with
+      tests and a live-version guard now. Flipped in `charlie-tren.github.io` as `cf84cbc`
+      and confirmed live. **The card does not move** - it already sat directly after the last
+      Live one, so only the `In progress from here down` comment moved past it and the badge
+      changed. Where it sits within the Live block is a curation call and was left alone.
+
+      Original note: - [ ] The hub card reads "In progress" - and that is now a DECISION, not an oversight.
       I flipped it to `s-live` / "Live" on 17/08/2026 (`5d2940d`), on the grounds that seven
       countries on a custom domain cleared the bar this item set. It was deliberately put
       back 42 minutes later by `9de2e67` "Reorder the project cards; Chronoscape back to In
