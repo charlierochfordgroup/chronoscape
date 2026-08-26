@@ -664,13 +664,17 @@ For a side project this "generate locally, commit, push" flow is probably fine -
       dropping hidden files from the artifact; `site/dist` has no dotfiles and no
       `_`-prefixed paths, so nothing is lost, and there is now a comment in `deploy.yml`
       saying to revisit if a `.nojekyll` is ever added.
-- [ ] **Bump the same actions in the other repos.** Split out 26/08/2026 from the item
-      above, which closed on Chronoscape only. The estate pins the same versions
-      everywhere, so `charlie-tren.github.io`, `consensus-drift`, `lindy-effect`,
-      `crowdwise`, `dcf-studio`, `the-aftertimes` and `photocopy` are all likely still on
-      Node 20 actions and carrying the same deprecation. Same check as above: confirm
-      each repo's artifact directory has no dotfiles before taking
-      `upload-pages-artifact` past v3.
+- [x] **Bump the same actions in the other repos.** DONE 26/08/2026. Ten repos bumped and
+      pushed: `charlie-tren.github.io`, `consensus-drift`, `crowdwise`, `dystopianist`,
+      `one-story`, `photocopy`, `public-eye`, `shortfall`, `site-stats`, `the-aftertimes`.
+      Three of them (`charlie-tren.github.io`, `crowdwise`, `one-story`) run their bumped
+      workflow on push and went green, which exercises `checkout@v7`, `setup-node@v7` and
+      `setup-python@v7`. **`upload-artifact@v7`, `download-artifact@v7` and `cache@v6` are
+      pinned but not yet exercised** - the workflows using them are cron or dispatch only,
+      and every dispatchable one does real work (draws frames, writes essays, ingests
+      GDELT), which is not worth triggering to prove a pin. They will be exercised by the
+      next scheduled run. `remote-role-scanner` was deliberately skipped: it has no git
+      remote at all, so its workflows never run anywhere.
 
 ### The orphaned Pages project in the other Cloudflare account (added 20/08/2026)
 
