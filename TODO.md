@@ -621,7 +621,25 @@ quote marks. That is why `"Taiwan receives $1"` existed for $1.5 billion.
       plus a negative case confirming a title legitimately ending in a figure
       ("Koxinga dies at age 37") still passes. 70 tests.
 
-- [ ] **Nine events are section headings, not events** - 69, 75, 77, 84, 86, 99,
+- [x] **Nine events are section headings, not events.** DONE 26/08/2026, but by the OTHER
+      branch of the choice below: each was given a real title rather than folded into a
+      neighbour or deleted, because on reading them eight of the nine carry content that
+      stands on its own - the Imperial Guard landing at Aoli, the surrender of Tainan, life
+      expectancy reaching sixty, defence at twelve per cent of GDP. Deleting them would have
+      removed real history to fix a labelling defect. The two that are genuinely summary
+      rather than event ("Significance" -> "What the republic left behind", "Japan brings" ->
+      "What Japanese rule builds") were kept as era closers, which is a judgement call and
+      easy to revisit.
+
+      **Event 19 is only half fixed and needs a decision.** Its three fields disagreed: title
+      "Early 7th century", `display_date` "c. 230", `sort_year` 1620, describing the Sui
+      expeditions to Liuqiu of about 610. Two different expeditions had been conflated, the
+      Wu mission of 230 and the Sui ones. It is now titled and dated for the Sui expeditions,
+      but **`sort_year` is still 1620**, so the dot sits in the wrong place on the strip.
+      Fixing that means moving it in the array, which renumbers every `#event-<id>` after it
+      and breaks existing deep links - so it wants doing deliberately, not in passing.
+
+      Original note: - [ ] Nine events are section headings, not events - 69, 75, 77, 84, 86, 99,
       104, 111, 136, titled "May 29", "October 21", "Significance", "Japan brings",
       "Average lifespan", "Total casualties", "Name-changing campaign", "Wall
       posters", "Military spending". They are sub-bullets of a neighbouring event
@@ -631,7 +649,20 @@ quote marks. That is why `"Taiwan receives $1"` existed for $1.5 billion.
       stays in band. Event 19 ("Early 7th century", whose description is the same
       three words) belongs in this group.
 
-- [ ] **56 Taiwan descriptions still open with a `Heading:` prefix** - "Tapani
+- [x] **56 Taiwan descriptions still open with a `Heading:` prefix.** DONE 26/08/2026 -
+      57 as it turned out. Each was rewritten by hand, not stripped: this note was right
+      that it is "not a blind regex", and the reason is sharper than "roughly half need a
+      judgement call". **Most of the remainders are sentence fragments that continue from
+      the heading** ("Average lifespan" + "reaches 60 years by 1945"), so a strip leaves the
+      description starting mid-sentence and makes it worse than it was. Three shapes came
+      out of it: the prefix is a date and moves to `display_date` (14 events in the 1895 and
+      1947 sequences that were showing only "c. 1895" despite having exact known dates), the
+      prefix and remainder are one sentence and rejoin, or the prefix echoes the title and
+      goes. A doubled colon, a markdown bold span and a mojibake "Communiqu[replacement
+      char]" went with them. The fix script asserts the expected text at every index before
+      touching it, so a re-import fails loudly rather than rewriting the wrong event.
+
+      Original note: - [ ] 56 Taiwan descriptions still open with a `Heading:` prefix - "Tapani
       Incident: Yu Qingfang's religious group defies...", "Dutch legacy:
       Introduced...". They read as redundant now the titles carry that content.
       Mechanical to strip in the cases where the prefix duplicates the new title,
