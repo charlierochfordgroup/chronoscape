@@ -50,6 +50,13 @@ Adding a country: see `countries/README.md`. Tests: `python -m pytest tests -q`.
       workflow deliberately holds no token for.
       THE CLASS WORTH REMEMBERING: a comment saying a thing was resolved is not evidence
       it is resolved. This one had been wrong for six days and the header read as settled.
+      STILL TRUE ON 27/08/2026, and it has now cost two things. The hub's own
+      `tools/test_estate_head.mjs` was pointed at the subdomain, so every estate check
+      for Chronoscape was passing against the frozen snapshot rather than anything
+      deployed - another session fixed that URL the same day (`03462dd` in the hub). And
+      a back-link layout sweep across the estate read this site as failing a rule it
+      passes, because the stale copy has an older header. The mirror does not announce
+      itself: it answers 200 and looks like the site.
 
 
 - [x] **Two dead Supabase secrets on this repo.** DELETED 14/08/2026. `SUPABASE_ANON_KEY`
