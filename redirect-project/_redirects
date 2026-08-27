@@ -1,0 +1,6 @@
+# Chronoscape moved to GitHub Pages on 20/08/2026 and this project kept serving a
+# frozen copy of the whole site for a week: 200, not a redirect, indexed by Google
+# and Bing and still reporting pageviews. Now it is the redirect it was always
+# believed to be. :splat carries the rest of the path, so a bookmark of
+# /iceland/ lands on /chronoscape/iceland/ rather than on the front page.
+/*  https://charlietrenorden.com/chronoscape/:splat  301
