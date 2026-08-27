@@ -44,15 +44,19 @@
 <body>
 
 <header class="site-header">
-  <div>
-    <h1>Chronoscape</h1>
-    <p class="tagline">Interactive timelines of world history</p>
-  </div>
+  {# The wordmark and the back-link are SIBLINGS here, not a block and a link. Wrapped
+     in a div with the tagline, the block's width was set by the tagline - 233px of
+     "Interactive timelines of world history" against 358px of usable header - so no
+     size of wordmark ever left room for the link and it wrapped to its own row. The
+     tagline takes the full width underneath instead, which is also the arrangement
+     every other project page uses: mark left, link right, on one line. #}
+  <h1>Chronoscape</h1>
   {# Same tab, deliberately. The arrow changed with it: the up-right arrow is the
      convention for "opens in a new window", so keeping it after dropping
      target="_blank" would have left the icon lying. A back arrow also matches the
      "<- Other projects" pattern the rest of the estate already uses. #}
   <a class="hub-link" href="https://charlietrenorden.com/"><span aria-hidden="true">&#8592;</span>&nbsp;Other projects</a>
+  <p class="tagline">Interactive timelines of world history</p>
 </header>
 
 <nav class="country-picker" aria-label="Select country">
@@ -62,6 +66,15 @@
     <li><a class="chip{% if c.slug == slug %} chip-active{% endif %}" href="{{ base }}{{ c.slug }}/"{% if c.slug == slug %} aria-current="page"{% endif %}>{{ c.name }}</a></li>
     {% endfor %}
   </ul>
+  {# Thirteen chips take four rows on a phone, about 110px, above a map that was
+     already starting below the fold. The same list as a select is one row. Both are
+     rendered and CSS picks: the chips are plain links and work with no JavaScript,
+     which is the behaviour worth keeping wherever there is room for them. #}
+  <select class="country-select" id="country-select" aria-label="Select country">
+    {% for c in all_countries %}
+    <option value="{{ base }}{{ c.slug }}/"{% if c.slug == slug %} selected{% endif %}>{{ c.name }}</option>
+    {% endfor %}
+  </select>
 </nav>
 
 <p class="subtitle">{{ country.name }} &nbsp;|&nbsp; {{ date_range }} &nbsp;|&nbsp; <span id="event-count">{{ events|length }}</span> events</p>

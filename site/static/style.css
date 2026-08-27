@@ -63,7 +63,11 @@ body {
 }
 
 /* ---- Header ---- */
-.site-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 16px; flex-wrap: wrap; margin-bottom: 14px; }
+.site-header { display: flex; align-items: baseline; justify-content: space-between;
+  gap: 8px 16px; flex-wrap: wrap; margin-bottom: 14px; }
+/* The tagline takes the whole width under the other two rather than sharing a
+   line, so the wordmark and the back-link stay together on the top row. */
+.site-header .tagline { flex: 0 0 100%; order: 3; }
 /* Oswald only for the wordmark - condensed caps read as a title card. Body
    text stays Inter, which is built for small sizes in a way Oswald is not. */
 h1 {
@@ -89,6 +93,7 @@ h1 {
 .country-picker { display: flex; align-items: center; flex-wrap: wrap; gap: 10px 14px; margin-bottom: 12px; }
 .picker-label { color: var(--faint); font-size: 0.7rem; letter-spacing: 0.10em; text-transform: uppercase; }
 .chips { display: flex; flex-wrap: wrap; gap: 10px; list-style: none; padding: 0; margin: 0; }
+.country-select { display: none; }
 .chip {
   display: inline-block; border-radius: 999px; padding: 5px 18px;
   font-size: 0.85rem; font-weight: 500; text-decoration: none;
@@ -284,4 +289,27 @@ h1 {
 }
 @media (prefers-reduced-motion: reduce) {
   * { transition: none !important; animation: none !important; }
+}
+
+/* --- phone -------------------------------------------------------------------
+   Thirteen country chips over four rows, then a search, two selects, a checkbox,
+   the era strip and an eleven-entry key, all above the map. Every one of those is
+   defensible on its own; the total put the map below the fold. The chips become the
+   select the page already uses twice elsewhere, which is one row instead of four.
+
+   The wordmark also comes down: at 2.3rem it is 240px of a 358px header and there
+   is no room left for the back-link beside it. */
+@media (max-width: 620px) {
+  .chips { display: none; }
+  .country-select {
+    display: block; width: 100%; padding: 10px 12px; margin: 0;
+    font: inherit; font-size: 0.95rem; color: #c2cad6;
+    background: rgba(255,255,255,0.02);
+    border: 1px solid var(--border-strong); border-radius: 8px;
+  }
+  .country-picker { gap: 6px 14px; }
+  .site-header h1 { font-size: 1.6rem; letter-spacing: 1px; }
+  /* Plain text rather than a pill, so it costs the width of its words and no more.
+     The other nineteen sites all use a plain-text back-link. */
+  .hub-link { padding: 0; border: 0; background: none; }
 }

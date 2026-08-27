@@ -426,3 +426,14 @@ if (!selectFromHash({ fromHash: true })) {
   }
   if (opening) select(opening.id, { fromHash: true, noZoom: true });
 }
+
+/* The narrow-screen country picker. The chips beside it are plain links and need no
+   JavaScript; this one does, so it is the reason the chips are still rendered rather
+   than replaced - with JS off, the wide layout still navigates. */
+(function () {
+  const sel = document.getElementById('country-select');
+  if (!sel) return;
+  sel.addEventListener('change', function () {
+    if (sel.value) window.location.href = sel.value;
+  });
+})();
