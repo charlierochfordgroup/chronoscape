@@ -326,8 +326,14 @@ function select(id, opts = {}) {
     d.setAttribute('aria-selected', on ? 'true' : 'false');
   });
 
+  /* noScroll is for the default selection made at page load. On a wide screen the
+     card list is its own scrolling pane, so this moves that pane; on a phone the
+     layout stacks and the card sits in the page flow, so it scrolls the WINDOW and
+     lands the visitor ~670px down with the header, the wordmark and the back-link
+     already gone. A deep link still scrolls: arriving at #event-123 is a request to
+     see that card. */
   const card = document.querySelector(`.event-card[data-id="${id}"]`);
-  if (card) card.scrollIntoView({ block: 'nearest' });
+  if (card && !opts.noScroll) card.scrollIntoView({ block: 'nearest' });
 
   if (map && map.getLayer('events-selected')) {
     map.setFilter('events-selected', ['==', ['get', 'id'], id]);
@@ -424,7 +430,7 @@ if (!selectFromHash({ fromHash: true })) {
     if (ev.major) { opening = ev; break; }
     if (!opening) opening = ev;
   }
-  if (opening) select(opening.id, { fromHash: true, noZoom: true });
+  if (opening) select(opening.id, { fromHash: true, noZoom: true, noScroll: true });
 }
 
 /* The narrow-screen country picker. The chips beside it are plain links and need no
